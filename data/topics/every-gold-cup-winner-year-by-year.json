@@ -1,0 +1,241 @@
+{
+ "format": "course",
+ "lang": "en",
+ "id": "gold-cup",
+ "title": "Every Gold Cup winner, year by year",
+ "hook": {
+  "small": "34 YEARS OF THE",
+  "big": "GOLD CUP",
+  "question": "USA OR MEXICO?"
+ },
+ "teams": [
+  {
+   "id": "MEX",
+   "name": "MEXICO",
+   "flag": "mx",
+   "color": "#006847",
+   "confetti": [
+    "#006847",
+    "#ffffff",
+    "#ce1126"
+   ]
+  },
+  {
+   "id": "USA",
+   "name": "USA",
+   "flag": "us",
+   "color": "#3c3b6e",
+   "confetti": [
+    "#b22234",
+    "#ffffff",
+    "#3c3b6e"
+   ]
+  },
+  {
+   "id": "CAN",
+   "name": "CANADA",
+   "flag": "ca",
+   "color": "#d80621",
+   "confetti": [
+    "#d80621",
+    "#ffffff"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1991,
+   "winner": "USA",
+   "w": "USA",
+   "score": "0–0",
+   "l": "HONDURAS",
+   "place": "4–3 on penalties",
+   "p": 3,
+   "note": "USA WIN THE FIRST GOLD CUP"
+  },
+  {
+   "year": 1993,
+   "winner": "MEX",
+   "w": "MEXICO",
+   "score": "4–0",
+   "l": "USA",
+   "place": "",
+   "p": 3
+  },
+  {
+   "year": 1996,
+   "winner": "MEX",
+   "w": "MEXICO",
+   "score": "2–0",
+   "l": "BRAZIL",
+   "place": "Brazil were invited",
+   "p": 2
+  },
+  {
+   "year": 1998,
+   "winner": "MEX",
+   "w": "MEXICO",
+   "score": "1–0",
+   "l": "USA",
+   "place": "",
+   "p": 2
+  },
+  {
+   "year": 2000,
+   "winner": "CAN",
+   "w": "CANADA",
+   "score": "2–0",
+   "l": "COLOMBIA",
+   "place": "",
+   "p": 3,
+   "note": "CANADA SHOCK EVERYONE"
+  },
+  {
+   "year": 2002,
+   "winner": "USA",
+   "w": "USA",
+   "score": "2–0",
+   "l": "COSTA RICA",
+   "place": "",
+   "p": 2
+  },
+  {
+   "year": 2003,
+   "winner": "MEX",
+   "w": "MEXICO",
+   "score": "1–0",
+   "l": "BRAZIL",
+   "place": "golden goal",
+   "p": 2
+  },
+  {
+   "year": 2005,
+   "winner": "USA",
+   "w": "USA",
+   "score": "0–0",
+   "l": "PANAMA",
+   "place": "3–1 on penalties",
+   "p": 2
+  },
+  {
+   "year": 2007,
+   "winner": "USA",
+   "w": "USA",
+   "score": "2–1",
+   "l": "MEXICO",
+   "place": "",
+   "p": 3,
+   "note": "LEVEL: 4–4"
+  },
+  {
+   "year": 2009,
+   "winner": "MEX",
+   "w": "MEXICO",
+   "score": "5–0",
+   "l": "USA",
+   "place": "",
+   "p": 4,
+   "note": "MEXICO WIN THE FINAL 5–0",
+   "big": true
+  },
+  {
+   "year": 2011,
+   "winner": "MEX",
+   "w": "MEXICO",
+   "score": "4–2",
+   "l": "USA",
+   "place": "",
+   "p": 2
+  },
+  {
+   "year": 2013,
+   "winner": "USA",
+   "w": "USA",
+   "score": "1–0",
+   "l": "PANAMA",
+   "place": "",
+   "p": 3
+  },
+  {
+   "year": 2015,
+   "winner": "MEX",
+   "w": "MEXICO",
+   "score": "3–1",
+   "l": "JAMAICA",
+   "place": "",
+   "p": 2
+  },
+  {
+   "year": 2017,
+   "winner": "USA",
+   "w": "USA",
+   "score": "2–1",
+   "l": "JAMAICA",
+   "place": "",
+   "p": 2
+  },
+  {
+   "year": 2019,
+   "winner": "MEX",
+   "w": "MEXICO",
+   "score": "1–0",
+   "l": "USA",
+   "place": "",
+   "p": 2
+  },
+  {
+   "year": 2021,
+   "winner": "USA",
+   "w": "USA",
+   "score": "1–0",
+   "l": "MEXICO",
+   "place": "after extra time",
+   "p": 3,
+   "note": "USA WIN IN EXTRA TIME"
+  },
+  {
+   "year": 2023,
+   "winner": "MEX",
+   "w": "MEXICO",
+   "score": "1–0",
+   "l": "PANAMA",
+   "place": "",
+   "p": 3,
+   "note": "MEXICO PULL AWAY"
+  },
+  {
+   "year": 2025,
+   "winner": "MEX",
+   "w": "MEXICO",
+   "score": "2–1",
+   "l": "USA",
+   "place": "",
+   "p": 4,
+   "note": "MEXICO: A RECORD 10TH TITLE",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "MEXICO 10, USA 7",
+   "small": "CANADA 1 · NOBODY ELSE"
+  },
+  "two": {
+   "big": "WHO WINS 2027?",
+   "small": "COMMENT YOUR COUNTRY",
+   "tiny": "Follow for the next race"
+  },
+  "foot": "Source: Wikipedia. Every Gold Cup final, 1991–2025."
+ },
+ "music": {
+  "file": "assets/music/sonican-epic-orchestral-music-dramatic-loop-467131.mp3",
+  "credit": "",
+  "pulse": 1.11732,
+  "phase": 0.035,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Every Gold Cup winner, 1991 to 2025 🏆 USA or Mexico: who really runs CONCACAF? Comment your country 👇\n#goldcup #usmnt #mexico #soccer"
+}
