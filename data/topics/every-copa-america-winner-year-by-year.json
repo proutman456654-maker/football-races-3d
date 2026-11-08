@@ -1,0 +1,569 @@
+{
+ "format": "course",
+ "lang": "en",
+ "id": "copa-america",
+ "title": "Every Copa América winner, year by year",
+ "hook": {
+  "small": "108 YEARS OF THE",
+  "big": "COPA AMÉRICA",
+  "question": "WHO FINISHES FIRST?"
+ },
+ "teams": [
+  {
+   "id": "ARG",
+   "name": "ARGENTINA",
+   "flag": "ar",
+   "color": "#74acdf",
+   "confetti": [
+    "#74acdf",
+    "#ffffff",
+    "#f6b40e"
+   ]
+  },
+  {
+   "id": "URU",
+   "name": "URUGUAY",
+   "flag": "uy",
+   "color": "#5cbfeb",
+   "confetti": [
+    "#0038a8",
+    "#ffffff",
+    "#fcd116"
+   ]
+  },
+  {
+   "id": "BRA",
+   "name": "BRAZIL",
+   "flag": "br",
+   "color": "#009c3b",
+   "confetti": [
+    "#009c3b",
+    "#ffdf00",
+    "#002776"
+   ]
+  },
+  {
+   "id": "PER",
+   "name": "PERU",
+   "flag": "pe",
+   "color": "#d91023",
+   "confetti": [
+    "#d91023",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "PAR",
+   "name": "PARAGUAY",
+   "flag": "py",
+   "color": "#d52b1e",
+   "confetti": [
+    "#d52b1e",
+    "#ffffff",
+    "#0038a8"
+   ]
+  },
+  {
+   "id": "CHI",
+   "name": "CHILE",
+   "flag": "cl",
+   "color": "#0039a6",
+   "confetti": [
+    "#d52b1e",
+    "#ffffff",
+    "#0039a6"
+   ]
+  },
+  {
+   "id": "BOL",
+   "name": "BOLIVIA",
+   "flag": "bo",
+   "color": "#007934",
+   "confetti": [
+    "#d52b1e",
+    "#f9e300",
+    "#007934"
+   ]
+  },
+  {
+   "id": "COL",
+   "name": "COLOMBIA",
+   "flag": "co",
+   "color": "#fcd116",
+   "confetti": [
+    "#fcd116",
+    "#003893",
+    "#ce1126"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1916,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Argentina · league format · runners-up: Argentina",
+   "p": 2,
+   "note": "THE VERY FIRST: URUGUAY"
+  },
+  {
+   "year": 1917,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Uruguay · league format · runners-up: Argentina",
+   "p": 1
+  },
+  {
+   "year": 1919,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Brazil · league format · runners-up: Uruguay",
+   "p": 1
+  },
+  {
+   "year": 1920,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Chile · league format · runners-up: Argentina",
+   "p": 1
+  },
+  {
+   "year": 1921,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Argentina · league format · runners-up: Brazil",
+   "p": 1
+  },
+  {
+   "year": 1922,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Brazil · league format · runners-up: Paraguay",
+   "p": 1
+  },
+  {
+   "year": 1923,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Uruguay · league format · runners-up: Argentina",
+   "p": 1
+  },
+  {
+   "year": 1924,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Uruguay · league format · runners-up: Argentina",
+   "p": 1
+  },
+  {
+   "year": 1925,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Argentina · league format · runners-up: Brazil",
+   "p": 1
+  },
+  {
+   "year": 1926,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Chile · league format · runners-up: Argentina",
+   "p": 1
+  },
+  {
+   "year": 1927,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Peru · league format · runners-up: Uruguay",
+   "p": 1
+  },
+  {
+   "year": 1929,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Argentina · league format · runners-up: Paraguay",
+   "p": 1
+  },
+  {
+   "year": 1935,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Peru · league format · runners-up: Argentina",
+   "p": 1
+  },
+  {
+   "year": 1937,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Argentina · league format · runners-up: Brazil",
+   "p": 1
+  },
+  {
+   "year": 1939,
+   "winner": "PER",
+   "w": "PERU",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Peru · league format · runners-up: Uruguay",
+   "p": 1
+  },
+  {
+   "year": 1941,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Chile · league format · runners-up: Uruguay",
+   "p": 1
+  },
+  {
+   "year": 1942,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Uruguay · league format · runners-up: Argentina",
+   "p": 1
+  },
+  {
+   "year": 1945,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Chile · league format · runners-up: Brazil",
+   "p": 1
+  },
+  {
+   "year": 1946,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Argentina · league format · runners-up: Brazil",
+   "p": 2,
+   "note": "ARGENTINA CATCH URUGUAY: 8–8"
+  },
+  {
+   "year": 1947,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Ecuador · league format · runners-up: Paraguay",
+   "p": 2,
+   "note": "ARGENTINA IN FRONT"
+  },
+  {
+   "year": 1949,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Brazil · league format · runners-up: Paraguay",
+   "p": 1
+  },
+  {
+   "year": 1953,
+   "winner": "PAR",
+   "w": "PARAGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Peru · league format · runners-up: Brazil",
+   "p": 1
+  },
+  {
+   "year": 1955,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Chile · league format · runners-up: Chile",
+   "p": 1
+  },
+  {
+   "year": 1956,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Uruguay · league format · runners-up: Chile",
+   "p": 1
+  },
+  {
+   "year": 1957,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Peru · league format · runners-up: Brazil",
+   "p": 1
+  },
+  {
+   "year": 1959,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Argentina · league format · runners-up: Brazil",
+   "p": 1
+  },
+  {
+   "year": 1959,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Ecuador · league format · runners-up: Argentina",
+   "p": 2,
+   "note": "TWO TOURNAMENTS IN ONE YEAR"
+  },
+  {
+   "year": 1963,
+   "winner": "BOL",
+   "w": "BOLIVIA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Bolivia · league format · runners-up: Paraguay",
+   "p": 1
+  },
+  {
+   "year": 1967,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Uruguay · league format · runners-up: Argentina",
+   "p": 1
+  },
+  {
+   "year": 1975,
+   "winner": "PER",
+   "w": "PERU",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "two-legged final · runners-up: Colombia",
+   "p": 2,
+   "note": "NOW CALLED THE COPA AMÉRICA"
+  },
+  {
+   "year": 1979,
+   "winner": "PAR",
+   "w": "PARAGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "two-legged final · runners-up: Chile",
+   "p": 1
+  },
+  {
+   "year": 1983,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "two-legged final · runners-up: Brazil",
+   "p": 1
+  },
+  {
+   "year": 1987,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "1–0",
+   "l": "CHILE",
+   "place": "Buenos Aires",
+   "p": 2,
+   "note": "URUGUAY BACK IN FRONT"
+  },
+  {
+   "year": 1989,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Brazil · league format · runners-up: Uruguay",
+   "p": 1
+  },
+  {
+   "year": 1991,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "Chile · league format · runners-up: Brazil",
+   "p": 1
+  },
+  {
+   "year": 1993,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "2–1",
+   "l": "MEXICO",
+   "place": "Guayaquil",
+   "p": 2,
+   "note": "ARGENTINA'S LAST TITLE FOR 28 YEARS"
+  },
+  {
+   "year": 1995,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "1–1",
+   "l": "BRAZIL",
+   "place": "Montevideo · 5–3 on penalties",
+   "p": 1
+  },
+  {
+   "year": 1997,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "3–1",
+   "l": "BOLIVIA",
+   "place": "La Paz",
+   "p": 1
+  },
+  {
+   "year": 1999,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "3–0",
+   "l": "URUGUAY",
+   "place": "Asunción",
+   "p": 1
+  },
+  {
+   "year": 2001,
+   "winner": "COL",
+   "w": "COLOMBIA",
+   "score": "1–0",
+   "l": "MEXICO",
+   "place": "Bogotá",
+   "p": 1
+  },
+  {
+   "year": 2004,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "2–2",
+   "l": "ARGENTINA",
+   "place": "Lima · 4–2 on penalties",
+   "p": 1
+  },
+  {
+   "year": 2007,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "3–0",
+   "l": "ARGENTINA",
+   "place": "Maracaibo",
+   "p": 1
+  },
+  {
+   "year": 2011,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "3–0",
+   "l": "PARAGUAY",
+   "place": "Buenos Aires",
+   "p": 2,
+   "note": "URUGUAY: A RECORD 15TH TITLE"
+  },
+  {
+   "year": 2015,
+   "winner": "CHI",
+   "w": "CHILE",
+   "score": "0–0",
+   "l": "ARGENTINA",
+   "place": "Santiago · 4–1 on penalties",
+   "p": 1
+  },
+  {
+   "year": 2016,
+   "winner": "CHI",
+   "w": "CHILE",
+   "score": "0–0",
+   "l": "ARGENTINA",
+   "place": "East Rutherford · 4–2 on penalties",
+   "p": 1
+  },
+  {
+   "year": 2019,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "3–1",
+   "l": "PERU",
+   "place": "Rio de Janeiro",
+   "p": 2
+  },
+  {
+   "year": 2021,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "1–0",
+   "l": "BRAZIL",
+   "place": "Rio de Janeiro",
+   "p": 3,
+   "note": "MESSI'S FIRST TROPHY WITH ARGENTINA",
+   "big": true
+  },
+  {
+   "year": 2024,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "1–0",
+   "l": "COLOMBIA",
+   "place": "Miami Gardens · after extra time",
+   "p": 3,
+   "note": "ARGENTINA: A RECORD 16TH TITLE",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "ARGENTINA: 16, THE RECORD",
+   "small": "URUGUAY 15 · BRAZIL 9"
+  },
+  "two": {
+   "big": "WHO WINS 2028?",
+   "small": "COMMENT YOUR COUNTRY",
+   "tiny": "Follow for the next race"
+  },
+  "foot": "Source: Wikipedia. All 48 editions, 1916–2024, two in 1959."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "Every Copa América winner, 1916 to 2024 🏆 Argentina or Uruguay: who's the real king of South America? 👇\n#copaamerica #football #soccer #footballhistory"
+}

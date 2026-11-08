@@ -53,7 +53,7 @@ export function build(data) {
   let body = "";
   let js = "";
   events.forEach((e, i) => {
-    const id = `e${e.year}`;
+    const id = `ev${i}`; // préfixe « ev » : #e1 à #e5 sont déjà les textes de fin ; par numéro d'événement : deux éditions la même année (Copa América 1959) restent distinctes
     const nx = events[i + 1];
     const nextShows = nx ? nx.appear : e.next;
     const whipOut = nx ? nx.trans !== "cut" : true;
