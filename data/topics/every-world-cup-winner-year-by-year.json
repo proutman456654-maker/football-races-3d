@@ -1,6 +1,6 @@
 {
- "id": "coupe-du-monde",
- "header": "COUPE DU MONDE",
+ "id": "world-cup",
+ "header": "WORLD CUP",
  "hook": {
   "small": "96 YEARS OF THE",
   "big": "WORLD CUP",
@@ -347,5 +347,6 @@
  },
  "format": "course",
  "lang": "en",
- "title": "Every World Cup winner, year by year"
+ "title": "Every World Cup winner, year by year",
+ "caption": "96 years of World Cup winners in one minute 🏆 Who finishes first? Comment your country 👇\n#football #soccer #worldcup #footballhistory\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
 }

@@ -18,3 +18,6 @@ assets/music/*.mp3
 assets/sfx/*.mp3
 # CC BY track: it may stay in the repo, its credit goes in the caption
 !assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3
+
+# backup tournaments are made during the daily run
+data/fallback/

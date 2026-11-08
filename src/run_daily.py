@@ -38,6 +38,29 @@ def caption_for(entry, data):
     return text
 
 
+def fallback_tournament(entry):
+    """No data for this slot: a marble tournament of 16 nations drawn at random (no real facts), so the channel never goes quiet."""
+    import random
+    pool = {}
+    for f in ("marble-world-cup-16-nations-one-winner.json", "the-underdog-cup-16-nations-that-never-won-a-world-cup.json"):
+        base = load_json(TOPICS / f)
+        for t in base["teams"]:
+            pool.setdefault(t["id"], t)
+    rng = random.Random(f"fallback-{entry['id']}")
+    teams = rng.sample(sorted(pool.values(), key=lambda t: t["id"]), 16)
+    day = date.fromisoformat(entry["date"])
+    label = f"{day.day} {['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'][day.month]}"
+    d = dict(base)
+    d.update({"title": f"Marble Cup ({label}): 16 nations, one winner", "seed": f"fallback-{entry['id']}", "teams": teams,
+              "pairs": [[teams[i]["id"], teams[i + 1]["id"]] for i in range(0, 16, 2)],
+              "hook": {"small": "16 NATIONS, ONE WINNER", "big": "THE MARBLE CUP", "question": "WHO WINS IT?"},
+              "caption": "16 nations, 16 marbles, only one champion 🔥 Who did you pick? 👇\n#football #soccer #marblerace #worldcup"})
+    path = ROOT / "data" / "fallback" / f"fallback-{entry['id']}.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    save_json(path, d)
+    return path
+
+
 def keep_league_state(data_file, data, build):
     """The Marble League remembers its table: after a successful post, the next state replaces the old one."""
     nxt = build / "state-next.json"
@@ -80,14 +103,19 @@ def main():
         data_file = TOPICS / f"{entry['id']}.json"
         if not data_file.exists() and entry["concept"] == "ligue" and "season 1: matchday" in entry["title"]:
             data_file = TOPICS / "marble-league-season-1.json"  # one file for the whole season: the table lives in state/
+        title = entry["title"]
         if not data_file.exists():
-            report.append(f"❌ Données manquantes pour {when} : {entry['title']} (data/topics/{entry['id']}.json)")
+            if f"fallback:{entry['id']}" in done:
+                print(f"already scheduled (backup tournament): {when}")
+                continue
+            data_file = fallback_tournament(entry)
+            title = load_json(data_file)["title"]
+            report.append(f"⚠️ Données manquantes pour {when} : {entry['title']}. Tournoi de secours à la place. Dis-le à Claude.")
             failed = True
-            continue
         try:
             data = load_json(data_file)
             video, build = make(data_file)
-            info = {"video": str(video), "caption": caption_for(entry, data), "lang": "en", "post_time": when, "title": entry["title"]}
+            info = {"video": str(video), "caption": caption_for(entry, data), "lang": "en", "post_time": when, "title": title}
             save_json(OUTPUT / entry["id"] / "info.json", info)
             if args.no_publish:
                 report.append(f"🎬 Vidéo faite (non publiée) : {entry['title']}")
@@ -96,14 +124,15 @@ def main():
             if args.dry_run:
                 report.append(f"🧪 Essai : {entry['title']} aurait été programmée pour {when}")
                 continue
-            state.setdefault("posts", []).extend({"id": pid, "lang": "en", "topic": entry["id"], "title": entry["title"], "when": when} for pid in post_ids if pid)
+            key = entry["id"] if title == entry["title"] else f"fallback:{entry['id']}"  # a backup tournament leaves the planned topic to write
+            state.setdefault("posts", []).extend({"id": pid, "lang": "en", "topic": key, "title": title, "when": when} for pid in post_ids if pid)
             state["posts"] = state["posts"][-60:]
-            state.setdefault("en", []).append(entry["id"])
+            state.setdefault("en", []).append(key)
             save_json(STATE_FILE, state)  # saved after each video: a crash later never leads to a double post
             with open(ROOT / "posts_log.jsonl", "a", encoding="utf-8") as f:
-                f.write(json.dumps({"topic": entry["id"], "title": entry["title"], "when": when, "posts": post_ids}, ensure_ascii=False) + "\n")
+                f.write(json.dumps({"topic": key, "title": title, "when": when, "posts": post_ids}, ensure_ascii=False) + "\n")
             keep_league_state(data_file, data, build)
-            report.append(f"✅ Programmée pour {when} : {entry['title']}")
+            report.append(f"✅ Programmée pour {when} : {title}")
         except (Exception, SystemExit) as e:
             failed = True
             traceback.print_exc()
