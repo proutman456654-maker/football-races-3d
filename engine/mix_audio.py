@@ -144,7 +144,10 @@ os.makedirs("assets", exist_ok=True)
 tmp = "assets/_mix_raw.wav"
 graph = "assets/_graph.txt"
 open(graph, "w", encoding="utf-8").write(";\n".join(filters))
-subprocess.run(["ffmpeg", "-y", "-loglevel", "error"] + inputs + ["-/filter_complex", graph, "-map", "[mixed]", "-c:a", "pcm_f32le", "-ar", str(SR), tmp], check=True)
+# FFmpeg 7+ lit le graphe dans un fichier avec « -/filter_complex » ; FFmpeg 6 (celui de GitHub) avec « -filter_complex_script »
+_ver = re.search(r"ffmpeg version n?(\d+)", subprocess.run(["ffmpeg", "-version"], capture_output=True, text=True, stdin=subprocess.DEVNULL).stdout)
+_graph_opt = "-/filter_complex" if _ver and int(_ver.group(1)) >= 7 else "-filter_complex_script"
+subprocess.run(["ffmpeg", "-y", "-loglevel", "error"] + inputs + [_graph_opt, graph, "-map", "[mixed]", "-c:a", "pcm_f32le", "-ar", str(SR), tmp], check=True, stdin=subprocess.DEVNULL)
 os.remove(graph)
 
 

@@ -1,0 +1,300 @@
+{
+ "format": "course",
+ "lang": "en",
+ "id": "europe-vs-south-america",
+ "title": "Europe vs South America: every World Cup, year by year",
+ "hook": {
+  "small": "EUROPE VS SOUTH AMERICA",
+  "big": "THE WORLD CUP",
+  "question": "WHO HAS MORE TITLES?"
+ },
+ "teams": [
+  {
+   "id": "EUR",
+   "name": "EUROPE",
+   "flag": "club-eur",
+   "club": {
+    "pattern": "band",
+    "colors": [
+     "#003399",
+     "#ffcc00"
+    ],
+    "code": "EUR"
+   },
+   "color": "#2a5bd7",
+   "confetti": [
+    "#003399",
+    "#ffcc00",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "SAM",
+   "name": "SOUTH AMERICA",
+   "flag": "club-sam",
+   "club": {
+    "pattern": "halves",
+    "colors": [
+     "#009c3b",
+     "#ffdf00"
+    ],
+    "ink": "#0a2a12",
+    "code": "SAM"
+   },
+   "color": "#2fbf5a",
+   "confetti": [
+    "#009c3b",
+    "#ffdf00",
+    "#74acdf"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1930,
+   "w": "URUGUAY",
+   "score": "4–2",
+   "l": "ARGENTINA",
+   "place": "Montevideo",
+   "p": 2,
+   "winner": "SAM",
+   "note": "SOUTH AMERICA STRIKE FIRST"
+  },
+  {
+   "year": 1934,
+   "w": "ITALY",
+   "score": "2–1",
+   "l": "CZECHOSLOVAKIA",
+   "place": "Rome · after extra time",
+   "p": 2,
+   "winner": "EUR"
+  },
+  {
+   "year": 1938,
+   "w": "ITALY",
+   "score": "4–2",
+   "l": "HUNGARY",
+   "place": "Colombes",
+   "p": 2,
+   "winner": "EUR",
+   "note": "EUROPE TAKE THE LEAD"
+  },
+  {
+   "year": 1950,
+   "w": "URUGUAY",
+   "score": "2–1",
+   "l": "BRAZIL",
+   "place": "Rio de Janeiro, deciding match",
+   "p": 3,
+   "winner": "SAM",
+   "note": "THE MARACANAZO: LEVEL AGAIN"
+  },
+  {
+   "year": 1954,
+   "w": "W. GERMANY",
+   "score": "3–2",
+   "l": "HUNGARY",
+   "place": "Bern",
+   "p": 2,
+   "winner": "EUR"
+  },
+  {
+   "year": 1958,
+   "w": "BRAZIL",
+   "score": "5–2",
+   "l": "SWEDEN",
+   "place": "Solna",
+   "p": 2,
+   "winner": "SAM",
+   "note": "BRAZIL WIN IN EUROPE: LEVEL 3–3"
+  },
+  {
+   "year": 1962,
+   "w": "BRAZIL",
+   "score": "3–1",
+   "l": "CZECHOSLOVAKIA",
+   "place": "Santiago",
+   "p": 1,
+   "winner": "SAM",
+   "note": "SOUTH AMERICA AHEAD 4–3"
+  },
+  {
+   "year": 1966,
+   "w": "ENGLAND",
+   "score": "4–2",
+   "l": "W. GERMANY",
+   "place": "London · after extra time",
+   "p": 4,
+   "winner": "EUR",
+   "note": "ENGLAND LEVEL IT 4–4"
+  },
+  {
+   "year": 1970,
+   "w": "BRAZIL",
+   "score": "4–1",
+   "l": "ITALY",
+   "place": "Mexico City",
+   "p": 3,
+   "winner": "SAM",
+   "big": true
+  },
+  {
+   "year": 1974,
+   "w": "W. GERMANY",
+   "score": "2–1",
+   "l": "NETHERLANDS",
+   "place": "Munich",
+   "p": 1,
+   "winner": "EUR"
+  },
+  {
+   "year": 1978,
+   "w": "ARGENTINA",
+   "score": "3–1",
+   "l": "NETHERLANDS",
+   "place": "Buenos Aires · after extra time",
+   "p": 2,
+   "winner": "SAM"
+  },
+  {
+   "year": 1982,
+   "w": "ITALY",
+   "score": "3–1",
+   "l": "W. GERMANY",
+   "place": "Madrid",
+   "p": 1,
+   "winner": "EUR"
+  },
+  {
+   "year": 1986,
+   "w": "ARGENTINA",
+   "score": "3–2",
+   "l": "W. GERMANY",
+   "place": "Mexico City",
+   "p": 1,
+   "winner": "SAM"
+  },
+  {
+   "year": 1990,
+   "w": "W. GERMANY",
+   "score": "1–0",
+   "l": "ARGENTINA",
+   "place": "Rome",
+   "p": 2,
+   "winner": "EUR",
+   "note": "STILL LEVEL: 7–7"
+  },
+  {
+   "year": 1994,
+   "w": "BRAZIL",
+   "score": "0–0",
+   "l": "ITALY",
+   "place": "Pasadena · 3–2 on penalties",
+   "p": 4,
+   "winner": "SAM"
+  },
+  {
+   "year": 1998,
+   "w": "FRANCE",
+   "score": "3–0",
+   "l": "BRAZIL",
+   "place": "Saint-Denis",
+   "p": 4,
+   "winner": "EUR",
+   "big": true
+  },
+  {
+   "year": 2002,
+   "w": "BRAZIL",
+   "score": "2–0",
+   "l": "GERMANY",
+   "place": "Yokohama",
+   "p": 3,
+   "winner": "SAM",
+   "big": true
+  },
+  {
+   "year": 2006,
+   "w": "ITALY",
+   "score": "1–1",
+   "l": "FRANCE",
+   "place": "Berlin · 5–3 on penalties",
+   "p": 2,
+   "winner": "EUR",
+   "note": "LEVEL FOR THE LAST TIME: 9–9"
+  },
+  {
+   "year": 2010,
+   "w": "SPAIN",
+   "score": "1–0",
+   "l": "NETHERLANDS",
+   "place": "Johannesburg · after extra time",
+   "p": 2,
+   "winner": "EUR",
+   "note": "EUROPE AHEAD FOR THE FIRST TIME SINCE 1954"
+  },
+  {
+   "year": 2014,
+   "w": "GERMANY",
+   "score": "1–0",
+   "l": "ARGENTINA",
+   "place": "Rio de Janeiro · after extra time",
+   "p": 1,
+   "winner": "EUR",
+   "note": "FIRST EUROPEAN WIN IN THE AMERICAS"
+  },
+  {
+   "year": 2018,
+   "w": "FRANCE",
+   "score": "4–2",
+   "l": "CROATIA",
+   "place": "Moscow",
+   "p": 1,
+   "winner": "EUR"
+  },
+  {
+   "year": 2022,
+   "w": "ARGENTINA",
+   "score": "3–3",
+   "l": "FRANCE",
+   "place": "Lusail · 4–2 on penalties",
+   "p": 4,
+   "winner": "SAM",
+   "note": "MESSI CUTS IT TO 12–10"
+  },
+  {
+   "year": 2026,
+   "w": "SPAIN",
+   "score": "1–0",
+   "l": "ARGENTINA",
+   "place": "East Rutherford · after extra time",
+   "p": 3,
+   "winner": "EUR",
+   "note": "SPAIN MAKE IT 13–10",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "EUROPE LEAD 13–10",
+   "small": "SOUTH AMERICA LAST WON IN 2022"
+  },
+  "two": {
+   "big": "WHICH SIDE ARE YOU ON?",
+   "small": "COMMENT EUROPE OR SOUTH AMERICA",
+   "tiny": "Follow for the next race"
+  },
+  "foot": "Source: Wikipedia. Every World Cup final, 1930–2026."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "Europe vs South America: every World Cup, year by year 🌍 Which side are you on? 👇\n#worldcup #football #soccer #footballhistory"
+}

@@ -1,0 +1,449 @@
+{
+ "format": "course",
+ "lang": "en",
+ "id": "pl-by-city",
+ "title": "Premier League titles by city, season by season",
+ "hook": {
+  "small": "34 SEASONS, 5 CITIES",
+  "big": "PREMIER LEAGUE",
+  "question": "WHICH CITY RULES?"
+ },
+ "teams": [
+  {
+   "id": "MAN",
+   "name": "MANCHESTER",
+   "flag": "club-man",
+   "club": {
+    "pattern": "halves",
+    "colors": [
+     "#d3121b",
+     "#6cabdd"
+    ],
+    "code": "MAN"
+   },
+   "color": "#d3121b",
+   "confetti": [
+    "#d3121b",
+    "#6cabdd",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "LON",
+   "name": "LONDON",
+   "flag": "club-lon",
+   "club": {
+    "pattern": "halves",
+    "colors": [
+     "#ef0107",
+     "#034694"
+    ],
+    "code": "LON"
+   },
+   "color": "#034694",
+   "confetti": [
+    "#ef0107",
+    "#034694",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "LIV",
+   "name": "LIVERPOOL",
+   "flag": "club-livc",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#c8102e",
+     "#00b2a9"
+    ],
+    "code": "LIV"
+   },
+   "color": "#c8102e",
+   "confetti": [
+    "#c8102e",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "BLB",
+   "name": "BLACKBURN",
+   "flag": "club-blbc",
+   "club": {
+    "pattern": "halves",
+    "colors": [
+     "#009ee0",
+     "#ffffff"
+    ],
+    "ink": "#0a2a4a",
+    "code": "BLB"
+   },
+   "color": "#009ee0",
+   "confetti": [
+    "#009ee0",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "LEI",
+   "name": "LEICESTER",
+   "flag": "club-leic",
+   "club": {
+    "pattern": "band",
+    "colors": [
+     "#003090",
+     "#fdbe11"
+    ],
+    "code": "LEI"
+   },
+   "color": "#003090",
+   "confetti": [
+    "#003090",
+    "#fdbe11"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1993,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1992–93 · runners-up: Aston Villa",
+   "p": 2,
+   "winner": "MAN",
+   "note": "MANCHESTER FIRST"
+  },
+  {
+   "year": 1994,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1993–94 · runners-up: Blackburn Rovers",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 1995,
+   "w": "BLACKBURN",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1994–95 · runners-up: Manchester United",
+   "p": 2,
+   "winner": "BLB",
+   "note": "BLACKBURN'S ONE TITLE"
+  },
+  {
+   "year": 1996,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1995–96 · runners-up: Newcastle United",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 1997,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1996–97 · runners-up: Newcastle United",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 1998,
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1997–98 · runners-up: Manchester United",
+   "p": 2,
+   "winner": "LON",
+   "note": "LONDON'S FIRST: ARSENAL"
+  },
+  {
+   "year": 1999,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1998–99 · runners-up: Arsenal",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2000,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1999–00 · runners-up: Arsenal",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2001,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2000–01 · runners-up: Arsenal",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2002,
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2001–02 · runners-up: Liverpool",
+   "p": 1,
+   "winner": "LON"
+  },
+  {
+   "year": 2003,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2002–03 · runners-up: Arsenal",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2004,
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2003–04 · runners-up: Chelsea",
+   "p": 2,
+   "winner": "LON"
+  },
+  {
+   "year": 2005,
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2004–05 · runners-up: Arsenal",
+   "p": 1,
+   "winner": "LON",
+   "note": "CHELSEA ADD TO LONDON"
+  },
+  {
+   "year": 2006,
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2005–06 · runners-up: Manchester United",
+   "p": 1,
+   "winner": "LON"
+  },
+  {
+   "year": 2007,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2006–07 · runners-up: Chelsea",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2008,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2007–08 · runners-up: Chelsea",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2009,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2008–09 · runners-up: Liverpool",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2010,
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2009–10 · runners-up: Manchester United",
+   "p": 1,
+   "winner": "LON"
+  },
+  {
+   "year": 2011,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2010–11 · runners-up: Chelsea",
+   "p": 2,
+   "winner": "MAN"
+  },
+  {
+   "year": 2012,
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2011–12 · runners-up: Manchester United",
+   "p": 3,
+   "winner": "MAN",
+   "note": "CITY JOIN UNITED: 13 FOR MANCHESTER",
+   "big": true
+  },
+  {
+   "year": 2013,
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2012–13 · runners-up: Manchester City",
+   "p": 2,
+   "winner": "MAN"
+  },
+  {
+   "year": 2014,
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2013–14 · runners-up: Liverpool",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2015,
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2014–15 · runners-up: Manchester City",
+   "p": 2,
+   "winner": "LON"
+  },
+  {
+   "year": 2016,
+   "w": "LEICESTER",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2015–16 · runners-up: Arsenal",
+   "p": 3,
+   "winner": "LEI",
+   "note": "LEICESTER, 5000–1",
+   "big": true
+  },
+  {
+   "year": 2017,
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2016–17 · runners-up: Tottenham Hotspur",
+   "p": 1,
+   "winner": "LON"
+  },
+  {
+   "year": 2018,
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2017–18 · runners-up: Manchester United",
+   "p": 2,
+   "winner": "MAN"
+  },
+  {
+   "year": 2019,
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2018–19 · runners-up: Liverpool",
+   "p": 2,
+   "winner": "MAN"
+  },
+  {
+   "year": 2020,
+   "w": "LIVERPOOL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2019–20 · runners-up: Manchester City",
+   "p": 3,
+   "winner": "LIV",
+   "note": "LIVERPOOL ON THE BOARD",
+   "big": true
+  },
+  {
+   "year": 2021,
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2020–21 · runners-up: Manchester United",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2022,
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2021–22 · runners-up: Liverpool",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2023,
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2022–23 · runners-up: Arsenal",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2024,
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2023–24 · runners-up: Arsenal",
+   "p": 1,
+   "winner": "MAN"
+  },
+  {
+   "year": 2025,
+   "w": "LIVERPOOL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2024–25 · runners-up: Arsenal",
+   "p": 2,
+   "winner": "LIV"
+  },
+  {
+   "year": 2026,
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2025–26 · runners-up: Manchester City",
+   "p": 3,
+   "winner": "LON",
+   "note": "ARSENAL: LONDON'S 9TH",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "MANCHESTER RULE: 21 OF 34",
+   "small": "UNITED 13 · CITY 8"
+  },
+  "two": {
+   "big": "WHICH CITY WINS NEXT?",
+   "small": "COMMENT YOUR CITY",
+   "tiny": "Follow for the next race"
+  },
+  "foot": "Source: Wikipedia. Premier League titles, 1992–93 to 2025–26."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Every Premier League title, city by city 🏙️ Manchester, London or Liverpool? Comment your city 👇\n#premierleague #football #soccer #epl\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}
