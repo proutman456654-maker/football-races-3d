@@ -59,7 +59,7 @@ export function titleBlock({ id, appear, L, label, lineHtml, place, gold, mid, w
   const html = `
     <div id="${id}" class="clip ed" data-start="${fmt(appear)}" data-duration="${fmt(clipEnd - appear)}" data-track-index="2">
       <div class="edw" id="${id}w">
-        <div class="yrw" id="${id}s"><div class="yr${gold ? " gold" : ""}${mid ? " mid" : ""}" id="${id}y">${esc(label)}</div></div>
+        <div class="yrw" id="${id}s"><div class="yr${gold ? " gold" : ""}${mid ? " mid" : ""}" id="${id}y"${String(label).length > 5 ? ` style="font-size:${Math.min(430, Math.floor(1000 / (String(label).length * 0.42)))}px;white-space:nowrap"` : ""}>${esc(label)}</div></div>
         ${lineHtml ? `<div class="lb" id="${id}k" data-layout-ignore></div><div class="ln" id="${id}l">${lineHtml}</div>` : ""}
         ${place ? `<div class="pl" id="${id}p">${esc(place)}</div>` : ""}
       </div>

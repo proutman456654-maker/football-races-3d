@@ -1,0 +1,324 @@
+{
+ "format": "duel",
+ "lang": "en",
+ "title": "Kane vs Shearer: Premier League goals, season by season",
+ "k": 0.16,
+ "hook": {
+  "small": "PREMIER LEAGUE GOALS, SEASON BY SEASON",
+  "big": "KANE VS SHEARER",
+  "question": "WHO'S THE GREATEST?"
+ },
+ "sides": [
+  {
+   "id": "KAN",
+   "name": "KANE",
+   "flag": "gb-eng",
+   "color": "#132257",
+   "confetti": [
+    "#ffffff",
+    "#132257",
+    "#cf142b"
+   ]
+  },
+  {
+   "id": "SHE",
+   "name": "SHEARER",
+   "flag": "gb-eng",
+   "color": "#2b2b2b",
+   "confetti": [
+    "#111111",
+    "#ffffff",
+    "#cf142b"
+   ]
+  }
+ ],
+ "clubs": {
+  "TOT": {
+   "name": "Tottenham",
+   "pattern": "trim",
+   "colors": [
+    "#f4f4f2",
+    "#132257"
+   ]
+  },
+  "BLB": {
+   "name": "Blackburn",
+   "pattern": "halves",
+   "colors": [
+    "#009ee0",
+    "#ffffff"
+   ]
+  },
+  "NEW": {
+   "name": "Newcastle",
+   "pattern": "stripes",
+   "colors": [
+    "#151515",
+    "#f2f2f2"
+   ]
+  }
+ },
+ "steps": [
+  {
+   "year": 2001,
+   "label": "SEASON 1",
+   "p": 3,
+   "a": [],
+   "b": [
+    [
+     "BLB",
+     16
+    ]
+   ],
+   "place": "Kane 2012–13 · Shearer 1992–93"
+  },
+  {
+   "year": 2002,
+   "label": "SEASON 2",
+   "p": 3,
+   "a": [
+    [
+     "TOT",
+     3
+    ]
+   ],
+   "b": [
+    [
+     "BLB",
+     31
+    ]
+   ],
+   "place": "Kane 2013–14 · Shearer 1993–94"
+  },
+  {
+   "year": 2003,
+   "label": "SEASON 3",
+   "p": 4,
+   "a": [
+    [
+     "TOT",
+     21
+    ]
+   ],
+   "b": [
+    [
+     "BLB",
+     34
+    ]
+   ],
+   "place": "Kane 2014–15 · Shearer 1994–95",
+   "note": "34 GOALS: SHEARER WINS THE LEAGUE"
+  },
+  {
+   "year": 2004,
+   "label": "SEASON 4",
+   "p": 3,
+   "a": [
+    [
+     "TOT",
+     25
+    ]
+   ],
+   "b": [
+    [
+     "BLB",
+     31
+    ]
+   ],
+   "place": "Kane 2015–16 · Shearer 1995–96"
+  },
+  {
+   "year": 2005,
+   "label": "SEASON 5",
+   "p": 3,
+   "a": [
+    [
+     "TOT",
+     29
+    ]
+   ],
+   "b": [
+    [
+     "NEW",
+     25
+    ]
+   ],
+   "place": "Kane 2016–17 · Shearer 1996–97"
+  },
+  {
+   "year": 2006,
+   "label": "SEASON 6",
+   "p": 3,
+   "a": [
+    [
+     "TOT",
+     30
+    ]
+   ],
+   "b": [
+    [
+     "NEW",
+     2
+    ]
+   ],
+   "place": "Kane 2017–18 · Shearer 1997–98",
+   "note": "KANE'S 30-GOAL SEASON"
+  },
+  {
+   "year": 2007,
+   "label": "SEASON 7",
+   "p": 3,
+   "a": [
+    [
+     "TOT",
+     17
+    ]
+   ],
+   "b": [
+    [
+     "NEW",
+     14
+    ]
+   ],
+   "place": "Kane 2018–19 · Shearer 1998–99"
+  },
+  {
+   "year": 2008,
+   "label": "SEASON 8",
+   "p": 3,
+   "a": [
+    [
+     "TOT",
+     18
+    ]
+   ],
+   "b": [
+    [
+     "NEW",
+     23
+    ]
+   ],
+   "place": "Kane 2019–20 · Shearer 1999–2000"
+  },
+  {
+   "year": 2009,
+   "label": "SEASON 9",
+   "p": 3,
+   "a": [
+    [
+     "TOT",
+     23
+    ]
+   ],
+   "b": [
+    [
+     "NEW",
+     5
+    ]
+   ],
+   "place": "Kane 2020–21 · Shearer 2000–01"
+  },
+  {
+   "year": 2010,
+   "label": "SEASON 10",
+   "p": 3,
+   "a": [
+    [
+     "TOT",
+     17
+    ]
+   ],
+   "b": [
+    [
+     "NEW",
+     23
+    ]
+   ],
+   "place": "Kane 2021–22 · Shearer 2001–02"
+  },
+  {
+   "year": 2011,
+   "label": "SEASON 11",
+   "p": 4,
+   "a": [
+    [
+     "TOT",
+     30
+    ]
+   ],
+   "b": [
+    [
+     "NEW",
+     17
+    ]
+   ],
+   "place": "Kane 2022–23 · Shearer 2002–03",
+   "note": "KANE LEAVES FOR BAYERN: 213",
+   "big": true
+  },
+  {
+   "year": 2012,
+   "label": "SEASON 12",
+   "p": 3,
+   "a": [],
+   "b": [
+    [
+     "NEW",
+     22
+    ]
+   ],
+   "place": "Kane at Bayern · Shearer 2003–04"
+  },
+  {
+   "year": 2013,
+   "label": "SEASON 13",
+   "p": 3,
+   "a": [],
+   "b": [
+    [
+     "NEW",
+     7
+    ]
+   ],
+   "place": "Kane at Bayern · Shearer 2004–05"
+  },
+  {
+   "year": 2014,
+   "label": "SEASON 14",
+   "p": 4,
+   "a": [],
+   "b": [
+    [
+     "NEW",
+     10
+    ]
+   ],
+   "place": "Kane at Bayern · Shearer 2005–06",
+   "note": "SHEARER RETIRES: 260, STILL THE RECORD",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "SHEARER 260, KANE 213",
+   "small": "KANE LEFT FOR BAYERN AT 30"
+  },
+  "two": {
+   "big": "WOULD KANE HAVE BEATEN IT?",
+   "small": "COMMENT YES OR NO",
+   "tiny": "Follow for the next duel"
+  },
+  "foot": "Source: Wikipedia, November 2026. Premier League goals only; every season they played in the Premier League."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "Kane vs Shearer: every Premier League season side by side ⚽ Would Kane have broken the record if he'd stayed? 👇\n#harrykane #premierleague #football #soccer"
+}

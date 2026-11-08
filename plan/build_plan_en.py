@@ -230,7 +230,7 @@ for a, b, stat in [("Messi", "Ronaldo", "club goals, year by year"), ("Messi", "
                    ("Messi", "Ronaldo", "Champions League goals, year by year"), ("Messi", "Ronaldo", "trophies, year by year"), ("Messi", "Ronaldo", "international goals, year by year"),
                    ("Haaland", "Mbappé", "goals, year by year"), ("Haaland", "Mbappé", "goals at the same age"), ("Haaland", "Mbappé", "Champions League goals, year by year"),
                    ("Mbappé", "Messi", "goals at the same age"), ("Mbappé", "Ronaldo", "goals at the same age"), ("Yamal", "Messi", "stats at the same age"),
-                   ("Haaland", "Kane", "league goals, year by year"), ("Kane", "Shearer", "Premier League goals, year by year"), ("Kane", "Rooney", "England goals, year by year"),
+                   ("Haaland", "Kane", "league goals, year by year"), ("Kane", "Shearer", "Premier League goals, season by season"), ("Kane", "Rooney", "England goals, year by year"),
                    ("Salah", "Mané", "goals, year by year"), ("Salah", "Son", "Premier League goals, year by year"), ("Henry", "Drogba", "Premier League goals, year by year"),
                    ("Gerrard", "Lampard", "goals, year by year"), ("Rooney", "Ronaldo", "Manchester United goals, year by year"), ("Agüero", "Kane", "Premier League goals, year by year"),
                    ("Bellingham", "Vinícius", "goals, year by year"), ("Saka", "Foden", "goals and assists, year by year"), ("Pulisic", "Donovan", "USMNT goals, year by year"),
