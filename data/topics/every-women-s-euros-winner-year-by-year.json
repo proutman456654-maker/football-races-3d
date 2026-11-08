@@ -1,0 +1,230 @@
+{
+ "format": "course",
+ "lang": "en",
+ "id": "womens-euro",
+ "title": "Every Women's Euros winner, year by year",
+ "hook": {
+  "small": "41 YEARS OF THE",
+  "big": "WOMEN'S EUROS",
+  "question": "WHO HAS THE MOST?"
+ },
+ "teams": [
+  {
+   "id": "GER",
+   "name": "GERMANY",
+   "flag": "de",
+   "color": "#dd0000",
+   "confetti": [
+    "#111111",
+    "#dd0000",
+    "#ffce00"
+   ]
+  },
+  {
+   "id": "NOR",
+   "name": "NORWAY",
+   "flag": "no",
+   "color": "#ba0c2f",
+   "confetti": [
+    "#ba0c2f",
+    "#ffffff",
+    "#00205b"
+   ]
+  },
+  {
+   "id": "SWE",
+   "name": "SWEDEN",
+   "flag": "se",
+   "color": "#006aa7",
+   "confetti": [
+    "#006aa7",
+    "#fecc00"
+   ]
+  },
+  {
+   "id": "NED",
+   "name": "NETHERLANDS",
+   "flag": "nl",
+   "color": "#ff7f00",
+   "confetti": [
+    "#ae1c28",
+    "#ffffff",
+    "#21468b",
+    "#ff7f00"
+   ]
+  },
+  {
+   "id": "ENG",
+   "name": "ENGLAND",
+   "flag": "gb-eng",
+   "color": "#cf142b",
+   "confetti": [
+    "#ffffff",
+    "#cf142b"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1984,
+   "winner": "SWE",
+   "w": "SWEDEN",
+   "score": "1–1",
+   "l": "ENGLAND",
+   "place": "4–3 on penalties, 2 legs",
+   "p": 3,
+   "note": "SWEDEN WIN THE FIRST EDITION"
+  },
+  {
+   "year": 1987,
+   "winner": "NOR",
+   "w": "NORWAY",
+   "score": "2–1",
+   "l": "SWEDEN",
+   "place": "",
+   "p": 4
+  },
+  {
+   "year": 1989,
+   "winner": "GER",
+   "w": "W. GERMANY",
+   "score": "4–1",
+   "l": "NORWAY",
+   "place": "",
+   "p": 3,
+   "note": "GERMANY'S FIRST TITLE"
+  },
+  {
+   "year": 1991,
+   "winner": "GER",
+   "w": "GERMANY",
+   "score": "3–1",
+   "l": "NORWAY",
+   "place": "after extra time",
+   "p": 3
+  },
+  {
+   "year": 1993,
+   "winner": "NOR",
+   "w": "NORWAY",
+   "score": "1–0",
+   "l": "ITALY",
+   "place": "",
+   "p": 3,
+   "note": "NORWAY'S SECOND TITLE"
+  },
+  {
+   "year": 1995,
+   "winner": "GER",
+   "w": "GERMANY",
+   "score": "3–2",
+   "l": "SWEDEN",
+   "place": "",
+   "p": 3
+  },
+  {
+   "year": 1997,
+   "winner": "GER",
+   "w": "GERMANY",
+   "score": "2–0",
+   "l": "ITALY",
+   "place": "",
+   "p": 2
+  },
+  {
+   "year": 2001,
+   "winner": "GER",
+   "w": "GERMANY",
+   "score": "1–0",
+   "l": "SWEDEN",
+   "place": "golden goal",
+   "p": 3,
+   "note": "WON BY A GOLDEN GOAL"
+  },
+  {
+   "year": 2005,
+   "winner": "GER",
+   "w": "GERMANY",
+   "score": "3–1",
+   "l": "NORWAY",
+   "place": "",
+   "p": 3
+  },
+  {
+   "year": 2009,
+   "winner": "GER",
+   "w": "GERMANY",
+   "score": "6–2",
+   "l": "ENGLAND",
+   "place": "",
+   "p": 3,
+   "note": "6–2 IN THE FINAL"
+  },
+  {
+   "year": 2013,
+   "winner": "GER",
+   "w": "GERMANY",
+   "score": "1–0",
+   "l": "NORWAY",
+   "place": "",
+   "p": 4,
+   "note": "GERMANY: SIX IN A ROW",
+   "big": true
+  },
+  {
+   "year": 2017,
+   "winner": "NED",
+   "w": "NETHERLANDS",
+   "score": "4–2",
+   "l": "DENMARK",
+   "place": "",
+   "p": 4,
+   "note": "HOSTS NETHERLANDS WIN IT",
+   "big": true
+  },
+  {
+   "year": 2022,
+   "winner": "ENG",
+   "w": "ENGLAND",
+   "score": "2–1",
+   "l": "GERMANY",
+   "place": "after extra time",
+   "p": 4,
+   "note": "HOSTS ENGLAND WIN IT"
+  },
+  {
+   "year": 2025,
+   "winner": "ENG",
+   "w": "ENGLAND",
+   "score": "1–1",
+   "l": "SPAIN",
+   "place": "3–1 on penalties",
+   "p": 4,
+   "note": "ENGLAND RETAIN THE TROPHY",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "GERMANY 8, ENGLAND 2",
+   "small": "NORWAY 2 · SWEDEN 1 · NETHERLANDS 1"
+  },
+  "two": {
+   "big": "WHO WINS 2029?",
+   "small": "COMMENT YOUR COUNTRY",
+   "tiny": "Follow for the next race"
+  },
+  "foot": "Source: Wikipedia. Every UEFA Women's Championship final, 1984–2025."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Every Women's Euros winner, 1984 to 2025 🏆 Germany have 8, England have won the last two. Who wins 2029? 👇\n#weuro #lionesses #womensfootball #football\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}

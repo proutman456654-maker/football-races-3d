@@ -1,0 +1,356 @@
+{
+ "format": "duel",
+ "lang": "en",
+ "title": "Manchester United vs Liverpool: every match, decade by decade",
+ "k": 0.47,
+ "hook": {
+  "small": "EVERY MATCH, DECADE BY DECADE",
+  "big": "UNITED VS LIVERPOOL",
+  "question": "WHO HAS MORE WINS?"
+ },
+ "sides": [
+  {
+   "id": "MUN",
+   "name": "MAN UNITED",
+   "flag": "club-mun",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#d3121b",
+     "#111111"
+    ],
+    "code": "MUN"
+   },
+   "color": "#d3121b",
+   "confetti": [
+    "#d3121b",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "LIV",
+   "name": "LIVERPOOL",
+   "flag": "club-liv",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#c8102e",
+     "#00b2a9"
+    ],
+    "code": "LIV"
+   },
+   "color": "#c8102e",
+   "confetti": [
+    "#c8102e",
+    "#ffffff",
+    "#f6eb61"
+   ]
+  }
+ ],
+ "clubs": {
+  "MUN": {
+   "name": "Man United",
+   "pattern": "trim",
+   "colors": [
+    "#d3121b",
+    "#111111"
+   ]
+  },
+  "LIV": {
+   "name": "Liverpool",
+   "pattern": "trim",
+   "colors": [
+    "#c8102e",
+    "#ffffff"
+   ]
+  }
+ },
+ "steps": [
+  {
+   "year": 1890,
+   "label": "1890s",
+   "p": 3,
+   "a": [
+    [
+     "MUN",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     3
+    ]
+   ],
+   "place": "1 draw",
+   "note": "1894: FIRST MEETING, LIVERPOOL WIN"
+  },
+  {
+   "year": 1900,
+   "label": "1900s",
+   "p": 3,
+   "a": [
+    [
+     "MUN",
+     5
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     4
+    ]
+   ],
+   "place": "1 draw"
+  },
+  {
+   "year": 1910,
+   "label": "1910s",
+   "p": 3,
+   "a": [
+    [
+     "MUN",
+     6
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     3
+    ]
+   ],
+   "place": "3 draws"
+  },
+  {
+   "year": 1920,
+   "label": "1920s",
+   "p": 4,
+   "a": [
+    [
+     "MUN",
+     2
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     8
+    ]
+   ],
+   "place": "6 draws",
+   "note": "LIVERPOOL ON TOP: 8 WINS TO 2"
+  },
+  {
+   "year": 1930,
+   "label": "1930s",
+   "p": 3,
+   "a": [
+    [
+     "MUN",
+     2
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     4
+    ]
+   ],
+   "place": "1 draw"
+  },
+  {
+   "year": 1940,
+   "label": "1940s",
+   "p": 3,
+   "a": [
+    [
+     "MUN",
+     4
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     1
+    ]
+   ],
+   "place": "3 draws"
+  },
+  {
+   "year": 1950,
+   "label": "1950s",
+   "p": 3,
+   "a": [
+    [
+     "MUN",
+     5
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     1
+    ]
+   ],
+   "place": "3 draws"
+  },
+  {
+   "year": 1960,
+   "label": "1960s",
+   "p": 3,
+   "a": [
+    [
+     "MUN",
+     8
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     6
+    ]
+   ],
+   "place": "4 draws"
+  },
+  {
+   "year": 1970,
+   "label": "1970s",
+   "p": 4,
+   "a": [
+    [
+     "MUN",
+     4
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     10
+    ]
+   ],
+   "place": "7 draws",
+   "note": "LIVERPOOL WIN THE 1970s 10–4"
+  },
+  {
+   "year": 1980,
+   "label": "1980s",
+   "p": 4,
+   "a": [
+    [
+     "MUN",
+     10
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     4
+    ]
+   ],
+   "place": "11 draws",
+   "note": "BUT UNITED WIN THE 1980s 10–4"
+  },
+  {
+   "year": 1990,
+   "label": "1990s",
+   "p": 4,
+   "a": [
+    [
+     "MUN",
+     11
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     5
+    ]
+   ],
+   "place": "8 draws",
+   "note": "FERGIE'S UNITED: 11 WINS"
+  },
+  {
+   "year": 2000,
+   "label": "2000s",
+   "p": 4,
+   "a": [
+    [
+     "MUN",
+     10
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     11
+    ]
+   ],
+   "place": "2 draws",
+   "note": "LIVERPOOL EDGE THE 2000s 11–10"
+  },
+  {
+   "year": 2010,
+   "label": "2010s",
+   "p": 5,
+   "a": [
+    [
+     "MUN",
+     12
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     6
+    ]
+   ],
+   "place": "7 draws",
+   "note": "UNITED WIN THE DECADE 12–6",
+   "big": true
+  },
+  {
+   "year": 2020,
+   "label": "2020s",
+   "p": 5,
+   "a": [
+    [
+     "MUN",
+     5
+    ]
+   ],
+   "b": [
+    [
+     "LIV",
+     6
+    ]
+   ],
+   "place": "4 draws",
+   "note": "UNITED LEAD 85–72",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "UNITED 85, LIVERPOOL 72",
+   "small": "61 DRAWS · 218 MATCHES"
+  },
+  "two": {
+   "big": "WHO WINS THE NEXT ONE?",
+   "small": "COMMENT UNITED OR LIVERPOOL",
+   "tiny": "Follow for the next duel"
+  },
+  "foot": "Source: Wikipedia. Competitive matches incl. the 1894 test match, no wartime games, as of 8 November 2026."
+ },
+ "music": {
+  "file": "assets/music/sonican-epic-orchestral-music-dramatic-loop-467131.mp3",
+  "credit": "",
+  "pulse": 1.11732,
+  "phase": 0.035,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Every Manchester United vs Liverpool match, decade by decade 🔴⚔️🔴 United 85, Liverpool 72. Whose side are you on? 👇\n#manutd #liverpool #premierleague #football"
+}

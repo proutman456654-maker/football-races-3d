@@ -1,0 +1,230 @@
+{
+ "format": "duel",
+ "lang": "en",
+ "title": "England vs Germany: every match, decade by decade",
+ "k": 2.8,
+ "hook": {
+  "small": "EVERY MATCH, DECADE BY DECADE",
+  "big": "ENGLAND VS GERMANY",
+  "question": "WHO HAS MORE WINS?"
+ },
+ "sides": [
+  {
+   "id": "ENG",
+   "name": "ENGLAND",
+   "flag": "gb-eng",
+   "color": "#cf142b",
+   "confetti": [
+    "#ffffff",
+    "#cf142b"
+   ]
+  },
+  {
+   "id": "GER",
+   "name": "GERMANY",
+   "flag": "de",
+   "color": "#dd0000",
+   "confetti": [
+    "#111111",
+    "#dd0000",
+    "#ffce00"
+   ]
+  }
+ ],
+ "clubs": {
+  "ENG": {
+   "name": "England",
+   "pattern": "trim",
+   "colors": [
+    "#f4f4f2",
+    "#cf142b"
+   ]
+  },
+  "GER": {
+   "name": "Germany",
+   "pattern": "trim",
+   "colors": [
+    "#f4f4f2",
+    "#111111"
+   ]
+  }
+ },
+ "steps": [
+  {
+   "year": 1930,
+   "label": "1930s",
+   "p": 5,
+   "a": [
+    [
+     "ENG",
+     2
+    ]
+   ],
+   "b": [],
+   "place": "1 draw",
+   "note": "1930: FIRST MEETING ENDS 3–3"
+  },
+  {
+   "year": 1950,
+   "label": "1950s",
+   "p": 5,
+   "a": [
+    [
+     "ENG",
+     2
+    ]
+   ],
+   "b": [],
+   "place": "no draws",
+   "note": "ENGLAND WIN BOTH"
+  },
+  {
+   "year": 1960,
+   "label": "1960s",
+   "p": 5,
+   "a": [
+    [
+     "ENG",
+     3
+    ]
+   ],
+   "b": [
+    [
+     "GER",
+     1
+    ]
+   ],
+   "place": "no draws",
+   "note": "1966: ENGLAND WIN THE WORLD CUP",
+   "big": true
+  },
+  {
+   "year": 1970,
+   "label": "1970s",
+   "p": 5,
+   "a": [
+    [
+     "ENG",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "GER",
+     3
+    ]
+   ],
+   "place": "1 draw",
+   "note": "1970: GERMANY WIN 3–2 AFTER EXTRA TIME"
+  },
+  {
+   "year": 1980,
+   "label": "1980s",
+   "p": 5,
+   "a": [
+    [
+     "ENG",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "GER",
+     2
+    ]
+   ],
+   "place": "1 draw"
+  },
+  {
+   "year": 1990,
+   "label": "1990s",
+   "p": 5,
+   "a": [],
+   "b": [
+    [
+     "GER",
+     2
+    ]
+   ],
+   "place": "2 draws",
+   "note": "1990 AND 1996: GERMANY WIN ON PENALTIES"
+  },
+  {
+   "year": 2000,
+   "label": "2000s",
+   "p": 5,
+   "a": [
+    [
+     "ENG",
+     3
+    ]
+   ],
+   "b": [
+    [
+     "GER",
+     2
+    ]
+   ],
+   "place": "no draws",
+   "note": "2001: ENGLAND WIN 5–1 IN MUNICH",
+   "big": true
+  },
+  {
+   "year": 2010,
+   "label": "2010s",
+   "p": 5,
+   "a": [
+    [
+     "ENG",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "GER",
+     3
+    ]
+   ],
+   "place": "1 draw",
+   "note": "2010: GERMANY WIN 4–1"
+  },
+  {
+   "year": 2020,
+   "label": "2020s",
+   "p": 6,
+   "a": [
+    [
+     "ENG",
+     1
+    ]
+   ],
+   "b": [],
+   "place": "2 draws",
+   "note": "ENGLAND LEAD 14–13",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "ENGLAND 14, GERMANY 13",
+   "small": "8 DRAWS · 35 MATCHES"
+  },
+  "two": {
+   "big": "WHO WINS THE NEXT ONE?",
+   "small": "COMMENT ENGLAND OR GERMANY",
+   "tiny": "Follow for the next duel"
+  },
+  "foot": "Source: Wikipedia. Men's full internationals incl. West Germany, shoot-outs count as draws, as of 8 November 2026."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Every England vs Germany match, decade by decade 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇩🇪 England 14, Germany 13. Whose side are you on? 👇\n#england #germany #threelions #football\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}

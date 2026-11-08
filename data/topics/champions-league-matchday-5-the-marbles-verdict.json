@@ -1,0 +1,401 @@
+{
+ "format": "tournoi",
+ "lang": "en",
+ "title": "Champions League matchday 5: the marbles' verdict",
+ "seed": "champions-league-matchday-5-the-marbles-verdict",
+ "hook": {
+  "small": "8 REAL MATCHDAY 5 FIXTURES",
+  "big": "THE MARBLES DECIDE",
+  "question": "WHO WINS IT?"
+ },
+ "teams": [
+  {
+   "id": "ARS",
+   "name": "ARSENAL",
+   "flag": "club-ars",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ef0107",
+     "#ffffff"
+    ],
+    "code": "ARS"
+   },
+   "color": "#ef0107",
+   "confetti": [
+    "#ef0107",
+    "#ffffff",
+    "#9c824a"
+   ]
+  },
+  {
+   "id": "BVB",
+   "name": "DORTMUND",
+   "flag": "club-bvb",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#fde100",
+     "#111111"
+    ],
+    "code": "BVB",
+    "ink": "#111111"
+   },
+   "color": "#fde100",
+   "confetti": [
+    "#fde100",
+    "#111111"
+   ]
+  },
+  {
+   "id": "MCI",
+   "name": "MAN CITY",
+   "flag": "club-mci",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#6cabdd",
+     "#ffffff"
+    ],
+    "code": "MCI"
+   },
+   "color": "#6cabdd",
+   "confetti": [
+    "#6cabdd",
+    "#ffffff",
+    "#1c2c5b"
+   ]
+  },
+  {
+   "id": "NAP",
+   "name": "NAPOLI",
+   "flag": "club-nap",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#12a0d7",
+     "#ffffff"
+    ],
+    "code": "NAP"
+   },
+   "color": "#12a0d7",
+   "confetti": [
+    "#12a0d7",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "RMA",
+   "name": "REAL MADRID",
+   "flag": "club-rma",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#febe10"
+    ],
+    "code": "RMA",
+    "ink": "#1a1a4a"
+   },
+   "color": "#febe10",
+   "confetti": [
+    "#ffffff",
+    "#febe10",
+    "#00529f"
+   ]
+  },
+  {
+   "id": "PSV",
+   "name": "PSV",
+   "flag": "club-psv",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#ed1c24",
+     "#ffffff"
+    ],
+    "code": "PSV"
+   },
+   "color": "#ed1c24",
+   "confetti": [
+    "#ed1c24",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "PSG",
+   "name": "PSG",
+   "flag": "club-psg",
+   "club": {
+    "pattern": "band",
+    "colors": [
+     "#0b1f45",
+     "#da291c"
+    ],
+    "code": "PSG"
+   },
+   "color": "#0b1f45",
+   "confetti": [
+    "#0b1f45",
+    "#da291c",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "ROM",
+   "name": "ROMA",
+   "flag": "club-rom",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#8e1f2f",
+     "#f0bc42"
+    ],
+    "code": "ROM"
+   },
+   "color": "#8e1f2f",
+   "confetti": [
+    "#8e1f2f",
+    "#f0bc42"
+   ]
+  },
+  {
+   "id": "LIL",
+   "name": "LILLE",
+   "flag": "club-lil",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#e01e13",
+     "#20325f"
+    ],
+    "code": "LIL"
+   },
+   "color": "#e01e13",
+   "confetti": [
+    "#e01e13",
+    "#ffffff",
+    "#20325f"
+   ]
+  },
+  {
+   "id": "BAY",
+   "name": "BAYERN",
+   "flag": "club-bay",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#dc052d",
+     "#ffffff"
+    ],
+    "code": "BAY"
+   },
+   "color": "#dc052d",
+   "confetti": [
+    "#dc052d",
+    "#ffffff",
+    "#0066b2"
+   ]
+  },
+  {
+   "id": "BRU",
+   "name": "CLUB BRUGGE",
+   "flag": "club-bru",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#0067ce",
+     "#111111"
+    ],
+    "code": "BRU"
+   },
+   "color": "#0067ce",
+   "confetti": [
+    "#0067ce",
+    "#111111"
+   ]
+  },
+  {
+   "id": "LIV",
+   "name": "LIVERPOOL",
+   "flag": "club-liv",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#c8102e",
+     "#00b2a9"
+    ],
+    "code": "LIV"
+   },
+   "color": "#c8102e",
+   "confetti": [
+    "#c8102e",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "SCP",
+   "name": "SPORTING",
+   "flag": "club-scp",
+   "club": {
+    "pattern": "hoops",
+    "colors": [
+     "#008057",
+     "#ffffff"
+    ],
+    "code": "SCP"
+   },
+   "color": "#008057",
+   "confetti": [
+    "#008057",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "MUN",
+   "name": "MAN UNITED",
+   "flag": "club-mun",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#d3121b",
+     "#111111"
+    ],
+    "code": "MUN"
+   },
+   "color": "#d3121b",
+   "confetti": [
+    "#d3121b",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "GAL",
+   "name": "GALATASARAY",
+   "flag": "club-gal",
+   "club": {
+    "pattern": "halves",
+    "colors": [
+     "#a90432",
+     "#fdb912"
+    ],
+    "code": "GAL"
+   },
+   "color": "#a90432",
+   "confetti": [
+    "#a90432",
+    "#fdb912"
+   ]
+  },
+  {
+   "id": "AVL",
+   "name": "ASTON VILLA",
+   "flag": "club-avl",
+   "club": {
+    "pattern": "sides",
+    "colors": [
+     "#670e36",
+     "#95bfe5"
+    ],
+    "code": "AVL"
+   },
+   "color": "#670e36",
+   "confetti": [
+    "#670e36",
+    "#95bfe5"
+   ]
+  }
+ ],
+ "pairs": [
+  [
+   "ARS",
+   "BVB"
+  ],
+  [
+   "MCI",
+   "NAP"
+  ],
+  [
+   "RMA",
+   "PSV"
+  ],
+  [
+   "PSG",
+   "ROM"
+  ],
+  [
+   "LIL",
+   "BAY"
+  ],
+  [
+   "BRU",
+   "LIV"
+  ],
+  [
+   "SCP",
+   "MUN"
+  ],
+  [
+   "GAL",
+   "AVL"
+  ]
+ ],
+ "rounds": [
+  {
+   "name": "ROUND OF 16",
+   "beats": 5,
+   "win": [
+    0.95,
+    1.7
+   ]
+  },
+  {
+   "name": "QUARTER-FINALS",
+   "beats": 7,
+   "win": [
+    1.35,
+    2.6
+   ]
+  },
+  {
+   "name": "SEMI-FINALS",
+   "beats": 9,
+   "win": [
+    1.9,
+    3.5
+   ]
+  },
+  {
+   "name": "FINAL",
+   "beats": 14,
+   "win": [
+    3.0,
+    4.6
+   ]
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "{W} CHAMPIONS!",
+   "small": "{W} BEAT {F} IN THE FINAL"
+  },
+  "two": {
+   "big": "WHO DID YOU PICK?",
+   "small": "COMMENT YOUR PREDICTION",
+   "tiny": "Follow for the next tournament"
+  },
+  "foot": "Physics simulation: chance decides every match. Round 1: real fixtures of 24–25 Nov 2026."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "Arsenal vs Dortmund, City vs Napoli, Brugge vs Liverpool, Sporting vs United… 8 real Champions League matchday 5 games, decided by marbles 👀 Who wins it all? 👇\n#championsleague #ucl #football #marblerace"
+}

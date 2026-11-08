@@ -1,0 +1,259 @@
+{
+ "format": "course",
+ "lang": "en",
+ "title": "Every WSL champion, year by year",
+ "hook": {
+  "small": "15 SEASONS OF THE",
+  "big": "WOMEN'S SUPER LEAGUE",
+  "question": "WHO HAS THE MOST TITLES?"
+ },
+ "teams": [
+  {
+   "id": "ARS",
+   "name": "ARSENAL",
+   "flag": "club-ars",
+   "club": {
+    "pattern": "sides",
+    "colors": [
+     "#ef0107",
+     "#ffffff"
+    ],
+    "code": "ARS"
+   },
+   "color": "#ef0107",
+   "confetti": [
+    "#ef0107",
+    "#ffffff",
+    "#063672"
+   ]
+  },
+  {
+   "id": "LIV",
+   "name": "LIVERPOOL",
+   "flag": "club-liv",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#a50f22",
+     "#00a398"
+    ],
+    "code": "LIV"
+   },
+   "color": "#c8102e",
+   "confetti": [
+    "#c8102e",
+    "#ffffff",
+    "#f6eb61"
+   ]
+  },
+  {
+   "id": "CHE",
+   "name": "CHELSEA",
+   "flag": "club-che",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#034694",
+     "#ffffff"
+    ],
+    "code": "CHE"
+   },
+   "color": "#034694",
+   "confetti": [
+    "#034694",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "MCI",
+   "name": "MAN CITY",
+   "flag": "club-mci",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#6cabdd",
+     "#1c2c5b"
+    ],
+    "code": "MCI"
+   },
+   "color": "#6cabdd",
+   "confetti": [
+    "#6cabdd",
+    "#ffffff",
+    "#1c2c5b"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 2011,
+   "winner": "ARS",
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2011 · runners-up: Birmingham City",
+   "p": 4,
+   "note": "ARSENAL WIN THE FIRST WSL"
+  },
+  {
+   "year": 2012,
+   "winner": "ARS",
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2012 · runners-up: Birmingham City",
+   "p": 3
+  },
+  {
+   "year": 2013,
+   "winner": "LIV",
+   "w": "LIVERPOOL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2013 · runners-up: Bristol Academy",
+   "p": 4,
+   "note": "LIVERPOOL END ARSENAL'S RUN"
+  },
+  {
+   "year": 2014,
+   "winner": "LIV",
+   "w": "LIVERPOOL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2014 · runners-up: Chelsea",
+   "p": 4,
+   "note": "LIVERPOOL RETAIN THE TITLE"
+  },
+  {
+   "year": 2015,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2015 · runners-up: Manchester City",
+   "p": 4,
+   "note": "CHELSEA'S FIRST TITLE",
+   "big": true
+  },
+  {
+   "year": 2016,
+   "winner": "MCI",
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2016 · runners-up: Chelsea",
+   "p": 4,
+   "note": "MAN CITY'S FIRST TITLE"
+  },
+  {
+   "year": 2018,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2017–18 · runners-up: Manchester City",
+   "p": 3
+  },
+  {
+   "year": 2019,
+   "winner": "ARS",
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2018–19 · runners-up: Manchester City",
+   "p": 3,
+   "note": "ARSENAL'S THIRD TITLE"
+  },
+  {
+   "year": 2020,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2019–20 · runners-up: Manchester City",
+   "p": 3,
+   "note": "DECIDED ON POINTS PER GAME"
+  },
+  {
+   "year": 2021,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2020–21 · runners-up: Manchester City",
+   "p": 2
+  },
+  {
+   "year": 2022,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2021–22 · runners-up: Arsenal",
+   "p": 2
+  },
+  {
+   "year": 2023,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2022–23 · runners-up: Manchester United",
+   "p": 2
+  },
+  {
+   "year": 2024,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2023–24 · runners-up: Manchester City",
+   "p": 3
+  },
+  {
+   "year": 2025,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2024–25 · runners-up: Arsenal",
+   "p": 4,
+   "note": "CHELSEA: SIX IN A ROW",
+   "big": true
+  },
+  {
+   "year": 2026,
+   "winner": "MCI",
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2025–26 · runners-up: Arsenal",
+   "p": 4,
+   "note": "CITY END CHELSEA'S RUN",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "CHELSEA 8, ARSENAL 3",
+   "small": "MAN CITY 2 · LIVERPOOL 2"
+  },
+  "two": {
+   "big": "WHO WINS THIS SEASON?",
+   "small": "COMMENT YOUR CLUB",
+   "tiny": "Follow for the next race"
+  },
+  "foot": "Source: Wikipedia. WSL titles 2011 to 2025–26, Spring Series not included."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Every Women's Super League champion, 2011 to 2026 🏆 Chelsea have 8, but who wins this season? Comment your club 👇\n#wsl #womensfootball #barclayswsl #football\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}

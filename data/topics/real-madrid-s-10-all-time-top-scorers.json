@@ -1,0 +1,128 @@
+{
+ "format": "top",
+ "lang": "en",
+ "title": "Real Madrid's 10 all-time top scorers",
+ "unit": "GOALS",
+ "club": {
+  "name": "REAL MADRID",
+  "pattern": "plain",
+  "colors": [
+   "#f4f4f2",
+   "#febe10",
+   "#00529f"
+  ]
+ },
+ "hook": {
+  "small": "THE 10 GREATEST SCORERS",
+  "big": "IN REAL MADRID HISTORY",
+  "question": "WHO'S NO. 1?"
+ },
+ "items": [
+  {
+   "rank": 10,
+   "name": "BUTRAGUEÑO",
+   "full": "Emilio Butragueño",
+   "value": 170,
+   "years": "1983–1995",
+   "country": "Spain"
+  },
+  {
+   "rank": 9,
+   "name": "PIRRI",
+   "full": "Pirri",
+   "value": 171,
+   "years": "1964–1980",
+   "country": "Spain"
+  },
+  {
+   "rank": 8,
+   "name": "GENTO",
+   "full": "Paco Gento",
+   "value": 183,
+   "years": "1952–1971",
+   "country": "Spain"
+  },
+  {
+   "rank": 7,
+   "name": "HUGO SÁNCHEZ",
+   "full": "Hugo Sánchez",
+   "value": 208,
+   "years": "1985–1992",
+   "country": "Mexico"
+  },
+  {
+   "rank": 6,
+   "name": "PUSKÁS",
+   "full": "Ferenc Puskás",
+   "value": 242,
+   "years": "1958–1966",
+   "country": "Hungary · Spain",
+   "note": "242 GOALS IN 262 GAMES"
+  },
+  {
+   "rank": 5,
+   "name": "SANTILLANA",
+   "full": "Santillana",
+   "value": 290,
+   "years": "1971–1988",
+   "country": "Spain"
+  },
+  {
+   "rank": 4,
+   "name": "DI STÉFANO",
+   "full": "Alfredo Di Stéfano",
+   "value": 308,
+   "years": "1953–1964",
+   "country": "Argentina · Spain"
+  },
+  {
+   "rank": 3,
+   "name": "RAÚL",
+   "full": "Raúl",
+   "value": 323,
+   "years": "1994–2010",
+   "country": "Spain",
+   "note": "THE CLUB LEGEND: 741 GAMES"
+  },
+  {
+   "rank": 2,
+   "name": "BENZEMA",
+   "full": "Karim Benzema",
+   "value": 354,
+   "years": "2009–2023",
+   "country": "France"
+  },
+  {
+   "rank": 1,
+   "name": "RONALDO",
+   "full": "Cristiano Ronaldo",
+   "value": 450,
+   "years": "2009–2018",
+   "country": "Portugal",
+   "note": "450 GOALS IN 438 GAMES"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "RONALDO: 450 GOALS",
+   "small": "REAL MADRID'S ALL-TIME TOP SCORER"
+  },
+  "two": {
+   "big": "WHO'S MISSING FROM THIS TOP 10?",
+   "small": "COMMENT THEIR NAME",
+   "tiny": "Follow for the next top 10"
+  },
+  "foot": "Source: Wikipedia, competitive matches, as of 8 November 2026."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "Real Madrid's 10 greatest scorers ever ⚽ Ronaldo, Benzema, Raúl, Di Stéfano… who's missing from this top 10? 👇\n#realmadrid #halamadrid #football #soccer"
+}

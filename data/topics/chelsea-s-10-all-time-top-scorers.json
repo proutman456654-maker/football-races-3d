@@ -1,0 +1,129 @@
+{
+ "format": "top",
+ "lang": "en",
+ "title": "Chelsea's 10 all-time top scorers",
+ "unit": "GOALS",
+ "club": {
+  "name": "CHELSEA",
+  "pattern": "plain",
+  "colors": [
+   "#034694",
+   "#ffffff",
+   "#dba111"
+  ]
+ },
+ "hook": {
+  "small": "THE 10 GREATEST SCORERS",
+  "big": "IN CHELSEA HISTORY",
+  "question": "WHO'S NO. 1?"
+ },
+ "items": [
+  {
+   "rank": 10,
+   "name": "HILSDON",
+   "full": "George Hilsdon",
+   "value": 108,
+   "years": "1906–1912",
+   "country": "England"
+  },
+  {
+   "rank": 9,
+   "name": "HAZARD",
+   "full": "Eden Hazard",
+   "value": 110,
+   "years": "2012–2019",
+   "country": "Belgium"
+  },
+  {
+   "rank": 8,
+   "name": "MILLS",
+   "full": "George Mills",
+   "value": 125,
+   "years": "1929–1943",
+   "country": "England"
+  },
+  {
+   "rank": 7,
+   "name": "GREAVES",
+   "full": "Jimmy Greaves",
+   "value": 132,
+   "years": "1957–1961",
+   "country": "England",
+   "note": "132 GOALS IN 169 GAMES"
+  },
+  {
+   "rank": 6,
+   "name": "OSGOOD",
+   "full": "Peter Osgood",
+   "value": 150,
+   "years": "1964–1974 · 1978–1979",
+   "country": "England",
+   "note": "LEVEL WITH BENTLEY ON 150"
+  },
+  {
+   "rank": 5,
+   "name": "BENTLEY",
+   "full": "Roy Bentley",
+   "value": 150,
+   "years": "1948–1956",
+   "country": "England"
+  },
+  {
+   "rank": 4,
+   "name": "DROGBA",
+   "full": "Didier Drogba",
+   "value": 164,
+   "years": "2004–2012 · 2014–2015",
+   "country": "Ivory Coast",
+   "note": "36 EUROPEAN GOALS, A CLUB RECORD"
+  },
+  {
+   "rank": 3,
+   "name": "DIXON",
+   "full": "Kerry Dixon",
+   "value": 193,
+   "years": "1983–1992",
+   "country": "England"
+  },
+  {
+   "rank": 2,
+   "name": "TAMBLING",
+   "full": "Bobby Tambling",
+   "value": 202,
+   "years": "1959–1970",
+   "country": "England"
+  },
+  {
+   "rank": 1,
+   "name": "LAMPARD",
+   "full": "Frank Lampard",
+   "value": 211,
+   "years": "2001–2014",
+   "country": "England",
+   "note": "THE CLUB RECORD, FROM MIDFIELD"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "LAMPARD: 211 GOALS",
+   "small": "CHELSEA'S ALL-TIME TOP SCORER"
+  },
+  "two": {
+   "big": "WHO'S MISSING FROM THIS TOP 10?",
+   "small": "COMMENT THEIR NAME",
+   "tiny": "Follow for the next top 10"
+  },
+  "foot": "Source: Wikipedia, competitive matches, as of 8 November 2026."
+ },
+ "music": {
+  "file": "assets/music/sonican-epic-orchestral-music-dramatic-loop-467131.mp3",
+  "credit": "",
+  "pulse": 1.11732,
+  "phase": 0.035,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Chelsea's 10 greatest scorers ever ⚽ Lampard, Drogba, Hazard… who's missing from this top 10? 👇\n#chelsea #cfc #football #soccer"
+}

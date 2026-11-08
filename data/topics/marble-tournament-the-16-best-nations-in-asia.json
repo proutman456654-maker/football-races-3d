@@ -1,0 +1,307 @@
+{
+ "format": "tournoi",
+ "lang": "en",
+ "title": "Marble tournament: the 16 best nations in Asia",
+ "seed": "marble-tournament-the-16-best-nations-in-asia",
+ "hook": {
+  "small": "16 ASIAN NATIONS",
+  "big": "THE ASIA MARBLE CUP",
+  "question": "WHO WINS IT?"
+ },
+ "teams": [
+  {
+   "id": "JPN",
+   "name": "JAPAN",
+   "flag": "jp",
+   "color": "#bc002d",
+   "confetti": [
+    "#ffffff",
+    "#bc002d"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "KOR",
+   "name": "SOUTH KOREA",
+   "flag": "kr",
+   "color": "#cd2e3a",
+   "confetti": [
+    "#ffffff",
+    "#cd2e3a",
+    "#0047a0"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "IRN",
+   "name": "IRAN",
+   "flag": "ir",
+   "color": "#239f40",
+   "confetti": [
+    "#239f40",
+    "#ffffff",
+    "#da0000"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "KSA",
+   "name": "SAUDI ARABIA",
+   "flag": "sa",
+   "color": "#006c35",
+   "confetti": [
+    "#006c35",
+    "#ffffff"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "AUS",
+   "name": "AUSTRALIA",
+   "flag": "au",
+   "color": "#ffcd00",
+   "confetti": [
+    "#ffcd00",
+    "#00843d"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "QAT",
+   "name": "QATAR",
+   "flag": "qa",
+   "color": "#8a1538",
+   "confetti": [
+    "#8a1538",
+    "#ffffff"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "IRQ",
+   "name": "IRAQ",
+   "flag": "iq",
+   "color": "#007a3d",
+   "confetti": [
+    "#007a3d",
+    "#ffffff",
+    "#ce1126"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "UAE",
+   "name": "UAE",
+   "flag": "ae",
+   "color": "#00732f",
+   "confetti": [
+    "#00732f",
+    "#ffffff",
+    "#ff0000",
+    "#111111"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "UZB",
+   "name": "UZBEKISTAN",
+   "flag": "uz",
+   "color": "#0099b5",
+   "confetti": [
+    "#0099b5",
+    "#ffffff",
+    "#1eb53a"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "CHN",
+   "name": "CHINA",
+   "flag": "cn",
+   "color": "#de2910",
+   "confetti": [
+    "#de2910",
+    "#ffde00"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "JOR",
+   "name": "JORDAN",
+   "flag": "jo",
+   "color": "#ce1126",
+   "confetti": [
+    "#ce1126",
+    "#ffffff",
+    "#007a3d",
+    "#111111"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "OMA",
+   "name": "OMAN",
+   "flag": "om",
+   "color": "#db161b",
+   "confetti": [
+    "#db161b",
+    "#ffffff",
+    "#008000"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "BHR",
+   "name": "BAHRAIN",
+   "flag": "bh",
+   "color": "#ce1126",
+   "confetti": [
+    "#ce1126",
+    "#ffffff"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "KUW",
+   "name": "KUWAIT",
+   "flag": "kw",
+   "color": "#007a3d",
+   "confetti": [
+    "#007a3d",
+    "#ffffff",
+    "#ce1126"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "THA",
+   "name": "THAILAND",
+   "flag": "th",
+   "color": "#2d2a4a",
+   "confetti": [
+    "#a51931",
+    "#ffffff",
+    "#2d2a4a"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "VIE",
+   "name": "VIETNAM",
+   "flag": "vn",
+   "color": "#da251d",
+   "confetti": [
+    "#da251d",
+    "#ffff00"
+   ],
+   "g": "m",
+   "art": ""
+  }
+ ],
+ "pairs": [
+  [
+   "JPN",
+   "THA"
+  ],
+  [
+   "KOR",
+   "UZB"
+  ],
+  [
+   "IRN",
+   "UAE"
+  ],
+  [
+   "KSA",
+   "JOR"
+  ],
+  [
+   "AUS",
+   "CHN"
+  ],
+  [
+   "QAT",
+   "BHR"
+  ],
+  [
+   "IRQ",
+   "OMA"
+  ],
+  [
+   "KUW",
+   "VIE"
+  ]
+ ],
+ "rounds": [
+  {
+   "name": "ROUND OF 16",
+   "beats": 5,
+   "win": [
+    0.95,
+    1.7
+   ]
+  },
+  {
+   "name": "QUARTER-FINALS",
+   "beats": 7,
+   "win": [
+    1.35,
+    2.6
+   ]
+  },
+  {
+   "name": "SEMI-FINALS",
+   "beats": 9,
+   "win": [
+    1.9,
+    3.5
+   ]
+  },
+  {
+   "name": "FINAL",
+   "beats": 14,
+   "win": [
+    3.0,
+    4.6
+   ]
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "{W} CHAMPIONS!",
+   "small": "{W} BEAT {F} IN THE FINAL"
+  },
+  "two": {
+   "big": "WHO DID YOU PICK?",
+   "small": "COMMENT YOUR PREDICTION",
+   "tiny": "Follow for the next tournament"
+  },
+  "foot": "Physics simulation: chance decides every match, no real data."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "Japan, South Korea, Iran, Saudi Arabia, Australia… 16 Asian nations, one marble champion 👀 Who's your pick? 👇\n#football #soccer #marblerace #asiancup"
+}

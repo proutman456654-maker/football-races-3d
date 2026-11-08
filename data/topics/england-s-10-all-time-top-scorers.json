@@ -1,0 +1,131 @@
+{
+ "format": "top",
+ "lang": "en",
+ "title": "England's 10 all-time top scorers",
+ "unit": "GOALS",
+ "club": {
+  "name": "ENGLAND",
+  "pattern": "plain",
+  "colors": [
+   "#f4f4f2",
+   "#1d2a5b",
+   "#cf142b"
+  ]
+ },
+ "hook": {
+  "small": "THE 10 GREATEST SCORERS",
+  "big": "IN ENGLAND HISTORY",
+  "question": "WHO'S NO. 1?"
+ },
+ "items": [
+  {
+   "rank": 10,
+   "name": "WOODWARD",
+   "full": "Vivian Woodward",
+   "value": 29,
+   "years": "1903–1911",
+   "country": "England",
+   "note": "LEVEL WITH LAMPARD ON 29"
+  },
+  {
+   "rank": 9,
+   "name": "FINNEY",
+   "full": "Tom Finney",
+   "value": 30,
+   "years": "1946–1958",
+   "country": "England",
+   "note": "LEVEL ON 30 WITH 2 OTHERS"
+  },
+  {
+   "rank": 8,
+   "name": "SHEARER",
+   "full": "Alan Shearer",
+   "value": 30,
+   "years": "1992–2000",
+   "country": "England"
+  },
+  {
+   "rank": 7,
+   "name": "LOFTHOUSE",
+   "full": "Nat Lofthouse",
+   "value": 30,
+   "years": "1950–1958",
+   "country": "England",
+   "note": "30 GOALS IN 33 GAMES"
+  },
+  {
+   "rank": 6,
+   "name": "OWEN",
+   "full": "Michael Owen",
+   "value": 40,
+   "years": "1998–2008",
+   "country": "England"
+  },
+  {
+   "rank": 5,
+   "name": "GREAVES",
+   "full": "Jimmy Greaves",
+   "value": 44,
+   "years": "1959–1967",
+   "country": "England",
+   "note": "44 GOALS IN JUST 57 GAMES"
+  },
+  {
+   "rank": 4,
+   "name": "LINEKER",
+   "full": "Gary Lineker",
+   "value": 48,
+   "years": "1984–1992",
+   "country": "England"
+  },
+  {
+   "rank": 3,
+   "name": "CHARLTON",
+   "full": "Bobby Charlton",
+   "value": 49,
+   "years": "1958–1970",
+   "country": "England",
+   "note": "1966 WORLD CUP WINNER"
+  },
+  {
+   "rank": 2,
+   "name": "ROONEY",
+   "full": "Wayne Rooney",
+   "value": 53,
+   "years": "2003–2018",
+   "country": "England"
+  },
+  {
+   "rank": 1,
+   "name": "KANE",
+   "full": "Harry Kane",
+   "value": 91,
+   "years": "2015–present",
+   "country": "England",
+   "note": "THE ALL-TIME RECORD"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "KANE: 91 GOALS",
+   "small": "ENGLAND'S ALL-TIME TOP SCORER"
+  },
+  "two": {
+   "big": "WHO'S MISSING FROM THIS TOP 10?",
+   "small": "COMMENT THEIR NAME",
+   "tiny": "Follow for the next top 10"
+  },
+  "foot": "Source: Wikipedia, men's team, as of 8 November 2026."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "England's 10 greatest scorers ever ⚽ Kane, Rooney, Charlton, Lineker… who's missing from this top 10? 👇\n#england #threelions #football #soccer\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}
