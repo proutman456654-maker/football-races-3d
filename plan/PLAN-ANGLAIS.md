@@ -3,7 +3,8 @@
 ## En bref
 
 - **730 vidéos**, du lundi 9 novembre 2026 au lundi 8 novembre 2027.
-- **2 par jour**, à 14 h et à minuit, heure de Paris. Cela donne 13 h et 23 h à Londres, 8 h et 18 h à New York.
+- **2 par jour**, à 21 h et à 2 h, heure de Paris (choisi au lancement le 8 nov 2026, au lieu de 14 h et minuit).
+  Cela donne 20 h et 1 h à Londres, 15 h et 20 h à New York.
 - **13 formats** différents, plus **167 sujets en réserve** si un sujet ne marche pas.
 - Tous les titres sont en anglais.
 - Un tiers des sujets parle directement de la Premier League, de l'Angleterre, des États-Unis, de l'Écosse, de l'Irlande, du Nigeria ou du Ghana.
