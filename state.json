@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "6af072db01a53ad3def52efc",
+      "lang": "en",
+      "topic": "every-world-cup-winner-year-by-year",
+      "title": "Every World Cup winner, year by year",
+      "when": "2026-11-08T21:00"
+    },
+    {
+      "id": "6af072e61994d6b6cdd059b9",
+      "lang": "en",
+      "topic": "marble-world-cup-16-nations-one-winner",
+      "title": "Marble World Cup: 16 nations, one winner",
+      "when": "2026-11-09T02:00"
+    },
+    {
+      "id": "6af072ed01a53ad3def52fd7",
+      "lang": "en",
+      "topic": "messi-vs-ronaldo-club-goals-year-by-year",
+      "title": "Messi vs Ronaldo: club goals, year by year",
+      "when": "2026-11-09T21:00"
+    },
+    {
+      "id": "6af072f301a53ad3def5300a",
+      "lang": "en",
+      "topic": "the-underdog-cup-16-nations-that-never-won-a-world-cup",
+      "title": "The Underdog Cup: 16 nations that never won a World Cup",
+      "when": "2026-11-10T02:00"
+    },
+    {
+      "id": "6af072fa01a53ad3def5306e",
+      "lang": "en",
+      "topic": "psg-s-10-all-time-top-scorers",
+      "title": "PSG's 10 all-time top scorers",
+      "when": "2026-11-10T21:00"
+    },
+    {
+      "id": "6af07304a746c3fa7ffbf456",
+      "lang": "en",
+      "topic": "every-premier-league-champion-year-by-year",
+      "title": "Every Premier League champion, year by year",
+      "when": "2026-11-11T02:00"
+    }
+  ],
+  "en": [
+    "every-world-cup-winner-year-by-year",
+    "marble-world-cup-16-nations-one-winner",
+    "messi-vs-ronaldo-club-goals-year-by-year",
+    "the-underdog-cup-16-nations-that-never-won-a-world-cup",
+    "psg-s-10-all-time-top-scorers",
+    "every-premier-league-champion-year-by-year"
+  ]
+}
