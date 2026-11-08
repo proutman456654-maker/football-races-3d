@@ -5,10 +5,9 @@
 name: Daily Football Races videos
 
 on:
-  # turned on only after a test render on GitHub has been checked (remove the # on the 3 lines below)
-  # schedule:
-  #   - cron: "17 7 * * *"    # 07:17 UTC = 08:17 Paris in winter: GitHub often starts 30-60 min late, the posts are at 21:00 and 02:00
-  #   - cron: "47 12 * * *"   # backup in case GitHub skipped the first one; it skips videos already scheduled
+  schedule:   # turned on 8 Nov 2026, after a test render on GitHub matched the PC render frame for frame
+    - cron: "17 7 * * *"    # 07:17 UTC = 08:17 Paris in winter: GitHub often starts 30-60 min late, the posts are at 21:00 and 02:00
+    - cron: "47 12 * * *"   # backup in case GitHub skipped the first one; it skips videos already scheduled
   workflow_dispatch:        # "Run workflow" button for tests
     inputs:
       mode:
@@ -35,7 +34,7 @@ concurrency:
 jobs:
   videos:
     runs-on: ubuntu-24.04  # fixed version: "latest" moves to new Ubuntu releases that could break the setup
-    timeout-minutes: 170
+    timeout-minutes: 300  # one 3D video takes 50-65 min on GitHub, two a day
     steps:
       - uses: actions/checkout@v7
         with:
