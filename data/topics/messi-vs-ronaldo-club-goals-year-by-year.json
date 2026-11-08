@@ -1,0 +1,534 @@
+{
+ "format": "duel",
+ "title": "Messi vs Ronaldo: club goals, year by year",
+ "k": 0.05,
+ "hook": {
+  "small": "CLUB GOALS, YEAR BY YEAR",
+  "big": "MESSI VS RONALDO",
+  "question": "WHO'S AHEAD?"
+ },
+ "sides": [
+  {
+   "id": "MES",
+   "name": "MESSI",
+   "flag": "ar",
+   "color": "#75aadb",
+   "confetti": [
+    "#75aadb",
+    "#ffffff",
+    "#f6b40e"
+   ]
+  },
+  {
+   "id": "CR7",
+   "name": "RONALDO",
+   "flag": "pt",
+   "color": "#e2231a",
+   "confetti": [
+    "#006600",
+    "#e2231a",
+    "#ffd700"
+   ]
+  }
+ ],
+ "clubs": {
+  "BAR": {
+   "name": "Barcelona",
+   "pattern": "stripes",
+   "colors": [
+    "#0a3d91",
+    "#a50044"
+   ]
+  },
+  "PSG": {
+   "name": "PSG",
+   "pattern": "band",
+   "colors": [
+    "#0b1f45",
+    "#da291c",
+    "#ffffff"
+   ]
+  },
+  "MIA": {
+   "name": "Inter Miami",
+   "pattern": "trim",
+   "colors": [
+    "#f4a9c4",
+    "#1b1b1b"
+   ]
+  },
+  "SCP": {
+   "name": "Sporting",
+   "pattern": "hoops",
+   "colors": [
+    "#00804f",
+    "#ffffff"
+   ]
+  },
+  "MUN": {
+   "name": "Manchester United",
+   "pattern": "trim",
+   "colors": [
+    "#d3121b",
+    "#ffffff"
+   ]
+  },
+  "RMA": {
+   "name": "Real Madrid",
+   "pattern": "trim",
+   "colors": [
+    "#f4f4f2",
+    "#c9a227"
+   ]
+  },
+  "JUV": {
+   "name": "Juventus",
+   "pattern": "stripes",
+   "colors": [
+    "#151515",
+    "#f2f2f2"
+   ]
+  },
+  "NAS": {
+   "name": "Al-Nassr",
+   "pattern": "trim",
+   "colors": [
+    "#ffd000",
+    "#1d3a8a"
+   ]
+  }
+ },
+ "steps": [
+  {
+   "year": 2003,
+   "p": 2,
+   "a": [],
+   "b": [
+    [
+     "SCP",
+     5
+    ]
+   ]
+  },
+  {
+   "year": 2004,
+   "p": 1,
+   "a": [],
+   "b": [
+    [
+     "MUN",
+     6
+    ]
+   ]
+  },
+  {
+   "year": 2005,
+   "p": 1,
+   "a": [
+    [
+     "BAR",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     9
+    ]
+   ],
+   "note": "MESSI'S FIRST FIRST-TEAM GOAL"
+  },
+  {
+   "year": 2006,
+   "p": 1,
+   "a": [
+    [
+     "BAR",
+     8
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     12
+    ]
+   ]
+  },
+  {
+   "year": 2007,
+   "p": 1,
+   "a": [
+    [
+     "BAR",
+     17
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     23
+    ]
+   ]
+  },
+  {
+   "year": 2008,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     16
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     42
+    ]
+   ],
+   "note": "42 GOALS FOR RONALDO AT UNITED"
+  },
+  {
+   "year": 2009,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     38
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     26
+    ]
+   ]
+  },
+  {
+   "year": 2010,
+   "p": 1,
+   "a": [
+    [
+     "BAR",
+     47
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     33
+    ]
+   ]
+  },
+  {
+   "year": 2011,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     53
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     53
+    ]
+   ]
+  },
+  {
+   "year": 2012,
+   "p": 3,
+   "a": [
+    [
+     "BAR",
+     73
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     60
+    ]
+   ],
+   "note": "73 GOALS: MESSI'S RECORD SEASON",
+   "big": true
+  },
+  {
+   "year": 2013,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     60
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     55
+    ]
+   ]
+  },
+  {
+   "year": 2014,
+   "p": 1,
+   "a": [
+    [
+     "BAR",
+     41
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     51
+    ]
+   ]
+  },
+  {
+   "year": 2015,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     58
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     61
+    ]
+   ],
+   "note": "61 GOALS FOR RONALDO"
+  },
+  {
+   "year": 2016,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     41
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     51
+    ]
+   ]
+  },
+  {
+   "year": 2017,
+   "p": 1,
+   "a": [
+    [
+     "BAR",
+     54
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     42
+    ]
+   ]
+  },
+  {
+   "year": 2018,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     45
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     44
+    ]
+   ]
+  },
+  {
+   "year": 2019,
+   "p": 3,
+   "a": [
+    [
+     "BAR",
+     51
+    ]
+   ],
+   "b": [
+    [
+     "JUV",
+     28
+    ]
+   ],
+   "note": "MESSI TAKES THE LEAD!",
+   "big": true
+  },
+  {
+   "year": 2020,
+   "p": 3,
+   "a": [
+    [
+     "BAR",
+     31
+    ]
+   ],
+   "b": [
+    [
+     "JUV",
+     37
+    ]
+   ],
+   "note": "RONALDO BACK IN FRONT",
+   "big": true
+  },
+  {
+   "year": 2021,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     38
+    ]
+   ],
+   "b": [
+    [
+     "JUV",
+     36
+    ]
+   ],
+   "note": "MESSI LEAVES BARÇA: 672 GOALS"
+  },
+  {
+   "year": 2022,
+   "p": 2,
+   "a": [
+    [
+     "PSG",
+     11
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     24
+    ]
+   ]
+  },
+  {
+   "year": 2023,
+   "p": 3,
+   "a": [
+    [
+     "PSG",
+     21
+    ],
+    [
+     "MIA",
+     11
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     3
+    ],
+    [
+     "NAS",
+     14
+    ]
+   ],
+   "note": "PERFECTLY LEVEL: 715 EACH",
+   "big": true
+  },
+  {
+   "year": 2024,
+   "p": 2,
+   "a": [
+    [
+     "MIA",
+     23
+    ]
+   ],
+   "b": [
+    [
+     "NAS",
+     50
+    ]
+   ],
+   "note": "50 GOALS FOR RONALDO AT AL-NASSR"
+  },
+  {
+   "year": 2025,
+   "p": 2,
+   "a": [
+    [
+     "MIA",
+     43
+    ]
+   ],
+   "b": [
+    [
+     "NAS",
+     35
+    ]
+   ],
+   "note": "43 GOALS FOR MESSI IN MIAMI"
+  },
+  {
+   "year": 2026,
+   "p": 2,
+   "a": [
+    [
+     "MIA",
+     30
+    ]
+   ],
+   "b": [
+    [
+     "NAS",
+     30
+    ]
+   ]
+  },
+  {
+   "year": 2027,
+   "p": 2,
+   "a": [],
+   "b": [
+    [
+     "NAS",
+     9
+    ]
+   ],
+   "note": "SEASON IN PROGRESS"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "RONALDO AHEAD BY 28 GOALS",
+   "small": "WITH INTERNATIONALS: 985 VS 937"
+  },
+  "two": {
+   "big": "WHOSE SIDE ARE YOU ON?",
+   "small": "COMMENT MESSI OR RONALDO",
+   "tiny": "Follow for the next duel"
+  },
+  "foot": "Source: Wikipedia, as of 1 November 2026. First-team goals, all competitions. A season counts in the year it ends."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "lang": "en"
+}

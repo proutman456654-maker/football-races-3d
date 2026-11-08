@@ -1,0 +1,23 @@
+{
+  "_help": "Music and sound effects of the channel. Pixabay files are downloaded at render time (src/fetch_audio.py) and never stored in this public repo: the Pixabay license forbids passing them on as they are. The CC BY track stays in the repo; its credit must be in the caption. 'beat' holds the timing measured on each track (pulse in seconds, phase of the first beat, beat where the music really starts): data files copy these numbers.",
+  "urls": {
+    "sonican-epic-orchestral-music-dramatic-loop-467131.mp3": "https://cdn.pixabay.com/audio/2026/01/16/audio_f3ed8c6cd8.mp3",
+    "the_mountain-epic-508009.mp3": "https://cdn.pixabay.com/audio/2026/03/24/audio_28217ddfbb.mp3"
+  },
+  "credits": {
+    "dark-moment-dark-epic-trailer-e-erkut.mp3": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+  },
+  "beat": {
+    "dark-moment-dark-epic-trailer-e-erkut.mp3": {"pulse": 1.125, "phase": 0.88, "entry_pulse_index": 16},
+    "sonican-epic-orchestral-music-dramatic-loop-467131.mp3": {"pulse": 1.11732, "phase": 0.035, "entry_pulse_index": 16},
+    "the_mountain-epic-508009.mp3": {"pulse": 1.17647, "phase": 0.455, "entry_pulse_index": 15}
+  },
+  "sfx_urls": {
+    "impact-bass-1.mp3": "https://cdn.jsdelivr.net/npm/hyperframes@0.9.23/dist/skills/media-use/audio/assets/sfx/impact-bass-1.mp3",
+    "impact-bass-2.mp3": "https://cdn.jsdelivr.net/npm/hyperframes@0.9.23/dist/skills/media-use/audio/assets/sfx/impact-bass-2.mp3",
+    "pop.mp3": "https://cdn.jsdelivr.net/npm/hyperframes@0.9.23/dist/skills/media-use/audio/assets/sfx/pop.mp3",
+    "riser.mp3": "https://cdn.jsdelivr.net/npm/hyperframes@0.9.23/dist/skills/media-use/audio/assets/sfx/riser.mp3",
+    "click-soft.mp3": "https://cdn.jsdelivr.net/npm/hyperframes@0.9.23/dist/skills/media-use/audio/assets/sfx/click-soft.mp3",
+    "click.mp3": "https://cdn.jsdelivr.net/npm/hyperframes@0.9.23/dist/skills/media-use/audio/assets/sfx/click.mp3"
+  }
+}

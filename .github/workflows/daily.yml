@@ -1,0 +1,119 @@
+# Runs every day on GitHub's computers: makes the 2 videos of the day and schedules them on Zernio
+# (21:00 the same day and 02:00 the next night, Paris time). Your PC does not need to be on.
+# Keys come from the repository's Secrets. A 3D video takes 30-40 min to render without a graphics card:
+# the repository is public, so GitHub's minutes are free and unlimited (secrets stay secret).
+name: Daily Football Races videos
+
+on:
+  # turned on only after a test render on GitHub has been checked (remove the # on the 3 lines below)
+  # schedule:
+  #   - cron: "17 7 * * *"    # 07:17 UTC = 08:17 Paris in winter: GitHub often starts 30-60 min late, the posts are at 21:00 and 02:00
+  #   - cron: "47 12 * * *"   # backup in case GitHub skipped the first one; it skips videos already scheduled
+  workflow_dispatch:        # "Run workflow" button for tests
+    inputs:
+      mode:
+        description: "run = make + schedule | no-publish = only make the videos | dry-run = make + show what would be sent"
+        default: no-publish
+        type: choice
+        options: [no-publish, dry-run, run]
+      day:
+        description: "programme day YYYY-MM-DD (empty = today)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write  # to save state.json and the Marble League table
+
+concurrency:
+  group: daily-videos
+  cancel-in-progress: false
+
+jobs:
+  videos:
+    runs-on: ubuntu-24.04  # fixed version: "latest" moves to new Ubuntu releases that could break the setup
+    timeout-minutes: 170
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "22"       # HyperFrames needs Node 22+
+
+      - name: Reuse Chrome, HyperFrames, music and sound effects from earlier runs
+        uses: actions/cache@v6
+        with:
+          path: |
+            ~/.cache/hyperframes
+            ~/.cache/puppeteer
+            ~/.npm
+            assets/music/*.mp3
+            assets/sfx/*.mp3
+          key: render-${{ github.run_id }}
+          restore-keys: render-
+
+      - name: Install FFmpeg, music and sound effects
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q ffmpeg
+          python src/fetch_audio.py
+
+      - name: Make and schedule the videos
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DO_NOT_TRACK: "1"
+          MODE: ${{ github.event.inputs.mode || 'run' }}
+          DAY: ${{ github.event.inputs.day }}
+        run: |
+          EXTRA=""
+          [ -n "$DAY" ] && EXTRA="--day $DAY"
+          case "$MODE" in
+            run) python src/run_daily.py $EXTRA ;;
+            dry-run) python src/run_daily.py --dry-run $EXTRA ;;
+            *) python src/run_daily.py --no-publish $EXTRA ;;
+          esac
+
+      # if the job broke before the script could send its own Telegram alert (e.g. install failure)
+      - name: Telegram alert if the job failed
+        if: failure() && hashFiles('telegram-alert-sent') == ''
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ] || exit 0
+          curl -s -o /dev/null "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode "chat_id=$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$(printf '⚽ FOOTBALL RACES 3D\n❌ Le job vidéo GitHub a échoué. Détails : %s' "$RUN_URL")"
+
+      - name: Keep the videos for 3 days (Actions page > this run > Artifacts)
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: videos
+          path: |
+            output/*/video.mp4
+            output/*/info.json
+            output/*/check.json
+            output/*/*.log
+          retention-days: 3
+          if-no-files-found: ignore
+
+      # runs even if the job failed halfway, so a video that was already scheduled is never sent again
+      - name: Save which topics were scheduled and the league table
+        if: always() && (github.event.inputs.mode || 'run') == 'run'
+        run: |
+          git config user.name "football-races-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json posts_log.jsonl state 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Scheduled videos $(date -u +%F)"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q && exit 0; sleep 5; done
+          exit 1

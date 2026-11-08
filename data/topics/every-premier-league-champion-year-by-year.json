@@ -1,0 +1,493 @@
+{
+ "format": "course",
+ "lang": "en",
+ "title": "Every Premier League champion, year by year",
+ "hook": {
+  "small": "34 SEASONS OF THE",
+  "big": "PREMIER LEAGUE",
+  "question": "WHO HAS THE MOST TITLES?"
+ },
+ "teams": [
+  {
+   "id": "MUN",
+   "name": "MAN UNITED",
+   "flag": "club-mun",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#d3121b",
+     "#111111"
+    ],
+    "code": "MUN"
+   },
+   "color": "#d3121b",
+   "confetti": [
+    "#d3121b",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "BLB",
+   "name": "BLACKBURN",
+   "flag": "club-blb",
+   "club": {
+    "pattern": "halves",
+    "colors": [
+     "#009ee0",
+     "#ffffff"
+    ],
+    "ink": "#0a2a4a",
+    "code": "BLB"
+   },
+   "color": "#009ee0",
+   "confetti": [
+    "#009ee0",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "ARS",
+   "name": "ARSENAL",
+   "flag": "club-ars",
+   "club": {
+    "pattern": "sides",
+    "colors": [
+     "#ef0107",
+     "#ffffff"
+    ],
+    "code": "ARS"
+   },
+   "color": "#ef0107",
+   "confetti": [
+    "#ef0107",
+    "#ffffff",
+    "#063672"
+   ]
+  },
+  {
+   "id": "CHE",
+   "name": "CHELSEA",
+   "flag": "club-che",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#034694",
+     "#ffffff"
+    ],
+    "code": "CHE"
+   },
+   "color": "#034694",
+   "confetti": [
+    "#034694",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "MCI",
+   "name": "MAN CITY",
+   "flag": "club-mci",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#6cabdd",
+     "#1c2c5b"
+    ],
+    "code": "MCI"
+   },
+   "color": "#6cabdd",
+   "confetti": [
+    "#6cabdd",
+    "#ffffff",
+    "#1c2c5b"
+   ]
+  },
+  {
+   "id": "LEI",
+   "name": "LEICESTER",
+   "flag": "club-lei",
+   "club": {
+    "pattern": "band",
+    "colors": [
+     "#003090",
+     "#fdbe11",
+     "#ffffff"
+    ],
+    "code": "LEI"
+   },
+   "color": "#003090",
+   "confetti": [
+    "#003090",
+    "#fdbe11",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "LIV",
+   "name": "LIVERPOOL",
+   "flag": "club-liv",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#a50f22",
+     "#00a398"
+    ],
+    "code": "LIV"
+   },
+   "color": "#c8102e",
+   "confetti": [
+    "#c8102e",
+    "#ffffff",
+    "#f6eb61"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1993,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1992–93 · runners-up: Aston Villa",
+   "p": 2,
+   "note": "THE FIRST PREMIER LEAGUE"
+  },
+  {
+   "year": 1994,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1993–94 · runners-up: Blackburn Rovers",
+   "p": 1
+  },
+  {
+   "year": 1995,
+   "winner": "BLB",
+   "w": "BLACKBURN",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1994–95 · runners-up: Manchester United",
+   "p": 2,
+   "note": "BLACKBURN'S ONLY PL TITLE"
+  },
+  {
+   "year": 1996,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1995–96 · runners-up: Newcastle United",
+   "p": 1
+  },
+  {
+   "year": 1997,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1996–97 · runners-up: Newcastle United",
+   "p": 1
+  },
+  {
+   "year": 1998,
+   "winner": "ARS",
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1997–98 · runners-up: Manchester United",
+   "p": 2,
+   "note": "ARSENAL'S FIRST PL TITLE"
+  },
+  {
+   "year": 1999,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1998–99 · runners-up: Arsenal",
+   "p": 1
+  },
+  {
+   "year": 2000,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "1999–00 · runners-up: Arsenal",
+   "p": 1
+  },
+  {
+   "year": 2001,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2000–01 · runners-up: Arsenal",
+   "p": 1
+  },
+  {
+   "year": 2002,
+   "winner": "ARS",
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2001–02 · runners-up: Liverpool",
+   "p": 1
+  },
+  {
+   "year": 2003,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2002–03 · runners-up: Arsenal",
+   "p": 1
+  },
+  {
+   "year": 2004,
+   "winner": "ARS",
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2003–04 · runners-up: Chelsea",
+   "p": 2,
+   "note": "THE INVINCIBLES: UNBEATEN ALL SEASON"
+  },
+  {
+   "year": 2005,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2004–05 · runners-up: Arsenal",
+   "p": 1
+  },
+  {
+   "year": 2006,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2005–06 · runners-up: Manchester United",
+   "p": 1
+  },
+  {
+   "year": 2007,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2006–07 · runners-up: Chelsea",
+   "p": 1
+  },
+  {
+   "year": 2008,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2007–08 · runners-up: Chelsea",
+   "p": 1
+  },
+  {
+   "year": 2009,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2008–09 · runners-up: Liverpool",
+   "p": 1
+  },
+  {
+   "year": 2010,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2009–10 · runners-up: Manchester United",
+   "p": 1
+  },
+  {
+   "year": 2011,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2010–11 · runners-up: Chelsea",
+   "p": 2,
+   "note": "UNITED'S 12TH"
+  },
+  {
+   "year": 2012,
+   "winner": "MCI",
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2011–12 · runners-up: Manchester United",
+   "p": 3,
+   "note": "CITY'S FIRST PL TITLE",
+   "big": true
+  },
+  {
+   "year": 2013,
+   "winner": "MUN",
+   "w": "MAN UNITED",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2012–13 · runners-up: Manchester City",
+   "p": 2,
+   "note": "UNITED'S 13TH: STILL THE RECORD"
+  },
+  {
+   "year": 2014,
+   "winner": "MCI",
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2013–14 · runners-up: Liverpool",
+   "p": 1
+  },
+  {
+   "year": 2015,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2014–15 · runners-up: Manchester City",
+   "p": 2,
+   "note": "CHELSEA'S 4TH"
+  },
+  {
+   "year": 2016,
+   "winner": "LEI",
+   "w": "LEICESTER",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2015–16 · runners-up: Arsenal",
+   "p": 3,
+   "note": "LEICESTER'S FIRST EVER TITLE",
+   "big": true
+  },
+  {
+   "year": 2017,
+   "winner": "CHE",
+   "w": "CHELSEA",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2016–17 · runners-up: Tottenham Hotspur",
+   "p": 1
+  },
+  {
+   "year": 2018,
+   "winner": "MCI",
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2017–18 · runners-up: Manchester United",
+   "p": 2,
+   "note": "100 POINTS: THE RECORD"
+  },
+  {
+   "year": 2019,
+   "winner": "MCI",
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2018–19 · runners-up: Liverpool",
+   "p": 2,
+   "note": "CITY BY ONE POINT: 98 TO 97"
+  },
+  {
+   "year": 2020,
+   "winner": "LIV",
+   "w": "LIVERPOOL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2019–20 · runners-up: Manchester City",
+   "p": 3,
+   "note": "LIVERPOOL'S FIRST PL TITLE",
+   "big": true
+  },
+  {
+   "year": 2021,
+   "winner": "MCI",
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2020–21 · runners-up: Manchester United",
+   "p": 1
+  },
+  {
+   "year": 2022,
+   "winner": "MCI",
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2021–22 · runners-up: Liverpool",
+   "p": 1
+  },
+  {
+   "year": 2023,
+   "winner": "MCI",
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2022–23 · runners-up: Arsenal",
+   "p": 1
+  },
+  {
+   "year": 2024,
+   "winner": "MCI",
+   "w": "MAN CITY",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2023–24 · runners-up: Arsenal",
+   "p": 1
+  },
+  {
+   "year": 2025,
+   "winner": "LIV",
+   "w": "LIVERPOOL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2024–25 · runners-up: Arsenal",
+   "p": 2,
+   "note": "LIVERPOOL'S 2ND"
+  },
+  {
+   "year": 2026,
+   "winner": "ARS",
+   "w": "ARSENAL",
+   "score": "CHAMPIONS",
+   "l": "",
+   "place": "2025–26 · runners-up: Manchester City",
+   "p": 3,
+   "note": "ARSENAL: 85 POINTS, FIRST SINCE 2004",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "MAN UNITED STILL ON TOP",
+   "small": "BUT NO TITLE SINCE 2013"
+  },
+  "two": {
+   "big": "WHO WINS THIS SEASON?",
+   "small": "COMMENT YOUR CLUB",
+   "tiny": "Follow for the next race"
+  },
+  "foot": "Source: Wikipedia. Premier League titles only, 1992–93 to 2025–26."
+ },
+ "music": {
+  "file": "assets/music/sonican-epic-orchestral-music-dramatic-loop-467131.mp3",
+  "credit": "",
+  "pulse": 1.11732,
+  "phase": 0.035,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ }
+}

@@ -1,0 +1,837 @@
+[
+{
+"concept": "course",
+"title": "Every Bundesliga top scorer, season by season",
+"series": "Awards"
+},
+{
+"concept": "course",
+"title": "Every Süper Lig champion, year by year",
+"series": "Every winner"
+},
+{
+"concept": "course",
+"title": "Chelsea vs Manchester City: the race for trophies",
+"series": "Club races"
+},
+{
+"concept": "course",
+"title": "Every Supporters' Shield winner, year by year",
+"series": "Every winner"
+},
+{
+"concept": "duel",
+"title": "England vs France: every match, decade by decade",
+"series": "Nations"
+},
+{
+"concept": "duel",
+"title": "Italy vs Germany: every match, decade by decade",
+"series": "Nations"
+},
+{
+"concept": "duel",
+"title": "Chelsea vs Arsenal: every match, decade by decade",
+"series": "Clubs"
+},
+{
+"concept": "duel",
+"title": "Yamal vs Messi: stats at the same age",
+"series": "Players"
+},
+{
+"concept": "duel",
+"title": "Germany vs Netherlands: every match, decade by decade",
+"series": "Nations"
+},
+{
+"concept": "duel",
+"title": "LA Galaxy vs LAFC: every El Tráfico, year by year",
+"series": "Clubs"
+},
+{
+"concept": "duel",
+"title": "Drogba vs Eto'o: goals, year by year",
+"series": "Players"
+},
+{
+"concept": "duel",
+"title": "England vs Scotland: every match, decade by decade",
+"series": "Nations"
+},
+{
+"concept": "duel",
+"title": "Liverpool vs Everton: every Merseyside derby, decade by decade",
+"series": "Clubs"
+},
+{
+"concept": "duel",
+"title": "Nigeria vs Cameroon: every match, decade by decade",
+"series": "Nations"
+},
+{
+"concept": "duel",
+"title": "Liverpool vs Real Madrid: every European match, decade by decade",
+"series": "Clubs"
+},
+{
+"concept": "duel",
+"title": "Salah vs Son: Premier League goals, year by year",
+"series": "Players"
+},
+{
+"concept": "duel",
+"title": "England vs Argentina: every match, decade by decade",
+"series": "Nations"
+},
+{
+"concept": "top",
+"title": "AC Milan's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "France's 10 all-time top scorers",
+"series": "Country scorers"
+},
+{
+"concept": "top",
+"title": "Morocco's 10 all-time top scorers",
+"series": "Country scorers"
+},
+{
+"concept": "top",
+"title": "The 10 all-time top scorers in Serie A",
+"series": "Competition scorers"
+},
+{
+"concept": "top",
+"title": "Tottenham's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "The 10 all-time top scorers at the Euros",
+"series": "Competition scorers"
+},
+{
+"concept": "top",
+"title": "Belgium's 10 all-time top scorers",
+"series": "Country scorers"
+},
+{
+"concept": "top",
+"title": "USMNT's 10 all-time top scorers",
+"series": "Country scorers"
+},
+{
+"concept": "top",
+"title": "The 10 all-time top scorers in the Premier League",
+"series": "Competition scorers"
+},
+{
+"concept": "top",
+"title": "Germany's 10 most-capped players",
+"series": "Caps"
+},
+{
+"concept": "top",
+"title": "Wales' 10 all-time top scorers",
+"series": "Country scorers"
+},
+{
+"concept": "top",
+"title": "PSV's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "Aston Villa's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "Brazil's 10 most-capped players",
+"series": "Caps"
+},
+{
+"concept": "top",
+"title": "Germany's 10 all-time top scorers",
+"series": "Country scorers"
+},
+{
+"concept": "top",
+"title": "The 10 highest-scoring Premier League games",
+"series": "Records"
+},
+{
+"concept": "top",
+"title": "The 10 all-time top scorers in the Champions League",
+"series": "Competition scorers"
+},
+{
+"concept": "top",
+"title": "Bayern Munich's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "The 10 all-time top scorers at the Women's World Cup",
+"series": "Competition scorers"
+},
+{
+"concept": "top",
+"title": "The 10 most Premier League assists",
+"series": "Records"
+},
+{
+"concept": "top",
+"title": "Juventus' 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "Newcastle's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "England's 10 most-capped players",
+"series": "Caps"
+},
+{
+"concept": "top",
+"title": "Celtic's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "Sevilla's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "Italy's 10 most-capped players",
+"series": "Caps"
+},
+{
+"concept": "top",
+"title": "Mexico's 10 all-time top scorers",
+"series": "Country scorers"
+},
+{
+"concept": "top",
+"title": "France's 10 most-capped players",
+"series": "Caps"
+},
+{
+"concept": "top",
+"title": "Galatasaray's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "The 10 all-time top scorers at the World Cup",
+"series": "Competition scorers"
+},
+{
+"concept": "top",
+"title": "Porto's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "Roma's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "The 10 biggest stadiums in England",
+"series": "Records"
+},
+{
+"concept": "top",
+"title": "Portugal's 10 most-capped players",
+"series": "Caps"
+},
+{
+"concept": "top",
+"title": "The 10 all-time top scorers in La Liga",
+"series": "Competition scorers"
+},
+{
+"concept": "top",
+"title": "Borussia Dortmund's 10 all-time top scorers",
+"series": "Club scorers"
+},
+{
+"concept": "top",
+"title": "The 10 fastest Premier League hat-tricks",
+"series": "Records"
+},
+{
+"concept": "top",
+"title": "Spain's 10 most-capped players",
+"series": "Caps"
+},
+{
+"concept": "top",
+"title": "Netherlands' 10 all-time top scorers",
+"series": "Country scorers"
+},
+{
+"concept": "top",
+"title": "Nigeria's 10 all-time top scorers",
+"series": "Country scorers"
+},
+{
+"concept": "top",
+"title": "Netherlands' 10 most-capped players",
+"series": "Caps"
+},
+{
+"concept": "top",
+"title": "The 10 all-time top scorers in the Bundesliga",
+"series": "Competition scorers"
+},
+{
+"concept": "evolution",
+"title": "The Premier League ball, season by season",
+"series": "History of the game"
+},
+{
+"concept": "evolution",
+"title": "The world's most expensive player, record after record",
+"series": "History of the game"
+},
+{
+"concept": "evolution",
+"title": "The goalkeeper: how the rules changed",
+"series": "History of the game"
+},
+{
+"concept": "evolution",
+"title": "The World Cup ball, from 1930 to today",
+"series": "History of the game"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 Portugal legends",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 legendary defenders",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 La Liga clubs this season",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: the 16 best nations in Europe",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 Scotland legends",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: the 16 biggest French clubs",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 Championship clubs this season",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: the 16 biggest MLS clubs",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 USWNT legends",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 former Liverpool players",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 Germany legends",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: the 16 biggest Turkish clubs",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: the 16 biggest South American clubs",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 current Premier League stars",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 Premier League clubs this season",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 Italy legends",
+"series": "Brackets"
+},
+{
+"concept": "tournoi",
+"title": "Marble tournament: 16 wonderkids under 21",
+"series": "Brackets"
+},
+{
+"concept": "tirs",
+"title": "Marble penalties: Senegal vs Egypt",
+"series": "Rivals"
+},
+{
+"concept": "tirs",
+"title": "Marble penalties: Scotland vs England",
+"series": "Rivals"
+},
+{
+"concept": "tirs",
+"title": "Marble penalties: England vs Colombia",
+"series": "Rivals"
+},
+{
+"concept": "tirs",
+"title": "Marble penalties: Real Madrid vs Barcelona",
+"series": "Rivals"
+},
+{
+"concept": "tirs",
+"title": "Marble penalties: Japan vs South Korea",
+"series": "Rivals"
+},
+{
+"concept": "tirs",
+"title": "Marble penalties: Bayern Munich vs Borussia Dortmund",
+"series": "Rivals"
+},
+{
+"concept": "draft",
+"title": "Draft: number 10s only",
+"series": "Constraints"
+},
+{
+"concept": "draft",
+"title": "Draft: PSG's all-time XI",
+"series": "Clubs"
+},
+{
+"concept": "draft",
+"title": "Draft: Real Madrid's all-time XI",
+"series": "Clubs"
+},
+{
+"concept": "draft",
+"title": "Draft: Aston Villa's all-time XI",
+"series": "Clubs"
+},
+{
+"concept": "draft",
+"title": "Draft: one player per country",
+"series": "Constraints"
+},
+{
+"concept": "draft",
+"title": "Draft: Porto's all-time XI",
+"series": "Clubs"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Barcelona 2011",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Argentina 1986",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: USA 2002",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Brazil 1970",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Manchester United 2008",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Argentina 2022",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Blackburn 1995",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Leicester 2016",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: PSG 2025",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: AC Milan 1989",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Senegal 2002",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Nigeria 1994",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: England 1996",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Liverpool 2005",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Portugal 2016",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Liverpool 2019",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Aston Villa 1982",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Borussia Dortmund 2013",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Real Madrid 2017",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Germany 2014",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Chelsea 2005",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: England 1990",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Bayern Munich 2020",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: France 2018",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Netherlands 1974",
+"series": "Legendary teams"
+},
+{
+"concept": "onze",
+"title": "Guess the XI: Arsenal 2004",
+"series": "Legendary teams"
+},
+{
+"concept": "aveugle",
+"title": "Blind ranking, 2000s edition: German players",
+"series": "Era"
+},
+{
+"concept": "aveugle",
+"title": "Blind ranking: English clubs",
+"series": "Easy"
+},
+{
+"concept": "aveugle",
+"title": "Blind ranking: La Liga players",
+"series": "Easy"
+},
+{
+"concept": "aveugle",
+"title": "Blind ranking: Nigerian players",
+"series": "Easy"
+},
+{
+"concept": "aveugle",
+"title": "Blind ranking: Premier League kits",
+"series": "Easy"
+},
+{
+"concept": "aveugle",
+"title": "Blind ranking: managers",
+"series": "Easy"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name 6 players whose surname starts with L",
+"series": "Letters"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: 10 players' names written backwards, Premier League special",
+"series": "Backwards"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name the last 10 Champions League winners",
+"series": "Lists"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name 8 Italy players",
+"series": "Countries"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name 8 Ghana players",
+"series": "Countries"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name 5 players who played for AC Milan and Inter",
+"series": "Two clubs"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name 8 Scotland players",
+"series": "Countries"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name 5 players who played for Chelsea and Inter",
+"series": "Two clubs"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name 5 players who played for Newcastle and Liverpool",
+"series": "Two clubs"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: 10 players' names written backwards, 2026 World Cup special",
+"series": "Backwards"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name the last 10 Ballon d'Or winners",
+"series": "Lists"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name the 8 nations that won the World Cup",
+"series": "Lists"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name 6 players whose surname starts with W",
+"series": "Letters"
+},
+{
+"concept": "chrono",
+"title": "60 seconds: name the 10 most successful English clubs",
+"series": "Lists"
+},
+{
+"concept": "quisuisje",
+"title": "Who am I? 4 career paths: ex-Liverpool players",
+"series": "Careers"
+},
+{
+"concept": "quisuisje",
+"title": "Who am I? 4 career paths: Brazilians",
+"series": "Careers"
+},
+{
+"concept": "quisuisje",
+"title": "Who am I? 4 career paths: England at Euro 96",
+"series": "Careers"
+},
+{
+"concept": "quisuisje",
+"title": "Who am I? 4 career paths: Premier League players",
+"series": "Careers"
+},
+{
+"concept": "quisuisje",
+"title": "Who am I? 4 career paths: MLS stars",
+"series": "Careers"
+},
+{
+"concept": "quisuisje",
+"title": "Who am I? 4 career paths: 2000s stars",
+"series": "Careers"
+},
+{
+"concept": "match",
+"title": "The legendary match: Netherlands vs England 2024, Watkins' winner",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: England vs Germany 2022, the Women's Euro final",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: USA vs Japan 2015, Lloyd's hat-trick in the final",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: USA vs China 1999, the Women's World Cup final",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: PSG vs Inter 2025, the 5-0 final",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Real Madrid vs Liverpool 2018, Bale's bicycle kick",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Real Madrid vs Atlético 2014, La Décima",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Barcelona vs PSG 2017, the remontada",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Uruguay vs Brazil 1950, the Maracanazo",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: West Germany vs Hungary 1954, the miracle of Bern",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Brazil vs Italy 1970, the final in Mexico City",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Brazil vs Germany 2014, the 7-1",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Spain vs Netherlands 2014, the 5-1",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Italy vs France 2006, the headbutt final",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Portugal vs France 2016, Éder's goal",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: France vs Argentina 2018, the 4-3",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Cameroon vs Argentina 1990, the opening shock",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Senegal vs France 2002, the opening shock",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Uruguay vs Ghana 2010, the handball on the line",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: South Korea vs Italy 2002, the golden goal",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: France vs Ireland 2009, Henry's handball",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: USA vs Algeria 2010, Donovan in stoppage time",
+"series": "Anniversary"
+},
+{
+"concept": "match",
+"title": "The legendary match: Morocco vs Portugal 2022, Africa's first semi-final",
+"series": "Anniversary"
+}
+]

@@ -1,0 +1,30 @@
+{
+  "publish_mode": "schedule",
+  "timezone": "Europe/Paris",
+  "platforms": [
+    "tiktok",
+    "instagram"
+  ],
+  "min_seconds": 61,
+  "telegram_chat_id": "",
+  "tiktok_ai_label_field": "videoMadeWithAi",
+  "languages": {
+    "en": {
+      "enabled": true,
+      "post_times": [
+        "21:00",
+        "02:00"
+      ],
+      "accounts": {
+        "tiktok": "",
+        "instagram": ""
+      },
+      "expected_usernames": {
+        "tiktok": "footskillzzz_edits",
+        "instagram": ""
+      }
+    }
+  },
+  "telegram_emoji": "⚽",
+  "channel_name": "Football Races 3D"
+}

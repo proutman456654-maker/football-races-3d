@@ -1,0 +1,357 @@
+{
+ "lang": "en",
+ "engines": {
+  "Frise": {
+   "from_week": 0,
+   "skins": [
+    "Night",
+    "Dusk",
+    "Rain",
+    "Snow"
+   ],
+   "job": "Stade 3D de nuit, tours de drapeaux, compteurs et classement qui bouge. Palmarès, duels, tops. Les habillages sont des lumières de stade, à construire."
+  },
+  "Physique": {
+   "from_week": 0,
+   "skins": [
+    "Night",
+    "Dusk",
+    "Rain",
+    "Snow"
+   ],
+   "job": "Billes simulées en 3D : tableaux de tournoi, football de billes, classement gardé d'une vidéo à l'autre."
+  },
+  "Jeu": {
+   "from_week": 3,
+   "skins": [
+    "TV studio",
+    "Dressing room",
+    "Neon"
+   ],
+   "job": "Chrono, cases à remplir, score final. Le spectateur joue. À construire."
+  },
+  "Terrain": {
+   "from_week": 6,
+   "skins": [
+    "Tactics board",
+    "TV studio",
+    "Chalk"
+   ],
+   "job": "Terrain animé avec 11 places, maillots, tableau de score et minute de jeu. À construire."
+  }
+ },
+ "concepts": {
+  "course": {
+   "name": "The Title Race",
+   "engine": "Frise",
+   "quota": 150,
+   "idea": "Une frise avance année après année, les tours montent, on découvre qui finit devant.",
+   "minute": "3 s d'accroche, 54 à 58 s de frise, 4 s de classement et question : 61 à 65 s. Au plus 8 tours à l'écran : au-delà, les plus petits passent dans « Others ». Plus de 45 éditions : mode rapide, deux éditions par pulsation (à construire).",
+   "min_s": 61,
+   "proof": [
+    [
+     "All World Cup Winners",
+     "y9OZzhVFVhA",
+     "5,84 M",
+     "92 s"
+    ],
+    [
+     "Ligue 1 all-time winners",
+     "Ujt7C4bOpoA",
+     "3,8 M",
+     "60 s"
+    ],
+    [
+     "Premier League Winners",
+     "X35cfPymtTU",
+     "3,9 M",
+     "63 s"
+    ]
+   ],
+   "data": "Wikidata (libre) pour les palmarès, puis contrôle par la routine",
+   "tokens": "Faible",
+   "check": true
+  },
+  "duel": {
+   "name": "The Duel",
+   "engine": "Frise",
+   "quota": 70,
+   "idea": "Deux joueurs, deux clubs ou deux pays, côte à côte, année par année. L'avance change, les camps s'affrontent en commentaire.",
+   "minute": "3 s d'accroche, 54 s de frise avec un flash à chaque changement de leader, 4 s de total et « whose side are you on? » : 61 s.",
+   "min_s": 61,
+   "proof": [
+    [
+     "Messi vs Ronaldo, Year by Year",
+     "wWl3fvV8I5c",
+     "1,66 M",
+     "62 s"
+    ],
+    [
+     "G/A All Time, Year by Year",
+     "6TEWG15wvfo",
+     "275 000",
+     "61 s"
+    ]
+   ],
+   "data": "Stats saison par saison à rassembler et vérifier : le concept le plus délicat",
+   "tokens": "Moyen",
+   "check": true
+  },
+  "top": {
+   "name": "The Top 10",
+   "engine": "Frise",
+   "quota": 50,
+   "idea": "Un top 10 dévoilé du 10e au 1er. Le spectateur devine le numéro 1 et réclame l'oublié.",
+   "minute": "3 s d'accroche, 10 places à 5,5 s chacune, 5 s de numéro 1 et « who's missing? » : 63 s.",
+   "min_s": 63,
+   "proof": [
+    [
+     "Top 10 Highest Paid Footballers",
+     "09cNOGKMO6M",
+     "3,4 M",
+     "176 s"
+    ]
+   ],
+   "data": "Listes publiques vérifiées par la routine",
+   "tokens": "Faible",
+   "check": true
+  },
+  "evolution": {
+   "name": "The Evolution",
+   "engine": "Frise",
+   "quota": 8,
+   "idea": "Un objet ou une règle du foot raconté étape par étape, dessiné en code.",
+   "minute": "3 s d'accroche, 8 à 10 étapes réparties sur 54 s, 4 s de fin : 61 s.",
+   "min_s": 61,
+   "proof": [
+    [
+     "Football Ball Evolution",
+     "HCy-aax2Z80",
+     "420 000",
+     "21 s"
+    ]
+   ],
+   "data": "Recherche et vérification par la routine",
+   "tokens": "Moyen",
+   "check": true
+  },
+  "tournoi": {
+   "name": "The Marble Tournament",
+   "engine": "Physique",
+   "quota": 80,
+   "idea": "16 équipes, un tableau, une seule gagnante. Chaque tour se joue en physique, personne ne connaît le résultat. Aussi sur les vraies affiches : le premier tour reprend 8 vrais matchs de la journée.",
+   "minute": "8 huitièmes, 4 quarts, 2 demies, finale au ralenti, 3 s de vainqueur : 61 à 69 s.",
+   "min_s": 61,
+   "proof": [
+    [
+     "Marble Nations World Cup",
+     "m4hgZj-ymOM",
+     "104 000",
+     "67 s"
+    ],
+    [
+     "Europa League Matchday 4",
+     "2C6NmsPS1CY",
+     "95 000",
+     "46 s"
+    ]
+   ],
+   "data": "Aucune, sauf les vraies affiches",
+   "tokens": "Presque rien",
+   "check": false
+  },
+  "ligue": {
+   "name": "The Marble League",
+   "engine": "Physique",
+   "quota": 52,
+   "idea": "Un vrai championnat fictif de 20 nations, un épisode chaque dimanche soir (23 h à Londres, 18 h à New York). Le classement se garde d'une semaine à l'autre : c'est le rendez-vous qui fait revenir.",
+   "minute": "3 matchs à 12 s, classement animé, l'affiche de la semaine suivante : 61 s et plus.",
+   "min_s": 61,
+   "proof": [
+    [
+     "Marble Nations World Cup, Race 1",
+     "m4hgZj-ymOM",
+     "104 000",
+     "67 s"
+    ]
+   ],
+   "data": "Aucune : le classement vit dans le fichier d'état",
+   "tokens": "Rien",
+   "check": false
+  },
+  "tirs": {
+   "name": "Marble Penalties",
+   "engine": "Physique",
+   "quota": 20,
+   "idea": "Une séance simulée entre rivaux, avec gardien, poteaux et mort subite.",
+   "minute": "10 tirs à 4,5 s, 10 s de mort subite, 6 s de résultat : 61 s.",
+   "min_s": 61,
+   "proof": [
+    [
+     "8 Football Stars, One Penalty Shootout",
+     "d7WsrHlnFdg",
+     "175 000",
+     "21 s"
+    ]
+   ],
+   "data": "Aucune",
+   "tokens": "Rien",
+   "check": false
+  },
+  "draft": {
+   "name": "The Draft",
+   "engine": "Terrain",
+   "quota": 90,
+   "idea": "Deux équipes se construisent à tour de rôle sous tes yeux, 11 choix chacune. À la fin, le public vote : qui a gagné la draft ?",
+   "minute": "3 s d'accroche, 11 tours à 5 s, 4 s de comparaison, 3 s de vote : 65 s.",
+   "min_s": 65,
+   "proof": [
+    [
+     "Footballers Draft",
+     "YDbPJWL34M4",
+     "16 M",
+     "77 s"
+    ],
+    [
+     "World Cup Draft",
+     "JgEccIbPmbc",
+     "541 000",
+     "61 s"
+    ],
+    [
+     "Building A Team With Over 2000 Goals",
+     "qc8E2sbW2u0",
+     "205 000",
+     "61 s"
+    ]
+   ],
+   "data": "Listes de joueurs écrites par la routine, stats vérifiées si l'objectif est chiffré",
+   "tokens": "Moyen",
+   "check": true
+  },
+  "onze": {
+   "name": "The Mystery XI",
+   "engine": "Terrain",
+   "quota": 40,
+   "idea": "La compo d'une équipe légendaire apparaît poste par poste, avec un indice. Tu as quelques secondes pour trouver chaque nom.",
+   "minute": "3 s d'accroche, 11 joueurs à 4,5 s, 6 s de compo complète, 3 s de score : 61,5 s.",
+   "min_s": 61,
+   "proof": [
+    [
+     "Guess The Football Team",
+     "WDyUyjlAniM",
+     "3,08 M",
+     "111 s"
+    ]
+   ],
+   "data": "Compositions publiques vérifiées par la routine",
+   "tokens": "Faible",
+   "check": true
+  },
+  "match": {
+   "name": "The Legendary Match",
+   "engine": "Terrain",
+   "quota": 30,
+   "idea": "Un grand match raconté sans une seule image : terrain animé, score et minute qui défilent. Publié le jour de son anniversaire.",
+   "minute": "3 s d'accroche, chrono de 0 à 90 minutes en 54 s avec 6 à 9 moments clés, 5 s de fin : 62 s.",
+   "min_s": 62,
+   "proof": [
+    [
+     "Tifo, greatest comeback",
+     "oOG9jRlTBfE",
+     "992 000",
+     "70 s"
+    ]
+   ],
+   "data": "Récit écrit et vérifié par la routine",
+   "tokens": "Élevé",
+   "check": true
+  },
+  "aveugle": {
+   "name": "Blind Ranking",
+   "engine": "Jeu",
+   "quota": 60,
+   "idea": "8 noms arrivent un par un. Il faut placer chacun sans savoir qui vient après, puis comparer son classement en commentaire.",
+   "minute": "3 s d'accroche, 8 noms à 6,5 s, 6 s de résultat, 3 s de question : 64 s.",
+   "min_s": 64,
+   "proof": [
+    [
+     "Blind ranking part 69",
+     "NhApP6BSt4Q",
+     "867 000",
+     "76 s"
+    ],
+    [
+     "2026 Ballon d'Or Tier List",
+     "w1AN7xq82gM",
+     "585 000",
+     "103 s"
+    ]
+   ],
+   "data": "Noms seulement",
+   "tokens": "Faible",
+   "check": false
+  },
+  "chrono": {
+   "name": "The 60-Second Challenge",
+   "engine": "Jeu",
+   "quota": 60,
+   "idea": "La vidéo est le chrono : 60 secondes pour répondre, des indices qui tombent, les réponses à la fin. Les gens répondent en commentaire.",
+   "minute": "60 s de compte à rebours avec indices à 20, 40 et 50 s, puis 5 s de réponses : 65 s.",
+   "min_s": 65,
+   "proof": [
+    [
+     "Name 6 footballers starting with K",
+     "-U4uigXf7Sk",
+     "275 000",
+     "57 s"
+    ],
+    [
+     "Footballers names in reverse",
+     "4rUe3xrEyjQ",
+     "517 000",
+     "62 s"
+    ]
+   ],
+   "data": "Listes de réponses vérifiées par la routine",
+   "tokens": "Faible",
+   "check": true
+  },
+  "quisuisje": {
+   "name": "Who Am I?",
+   "engine": "Jeu",
+   "quota": 20,
+   "idea": "Une carrière se dessine club après club. Quatre joueurs à trouver avant la révélation.",
+   "minute": "3 s d'accroche, 4 parcours à 14 s, 3 s de score : 62 s.",
+   "min_s": 62,
+   "proof": [
+    [
+     "Recherche « guess the player »",
+     "",
+     "29 000 vues médianes sur le mois, mais souvent moins d'une minute",
+     ""
+    ]
+   ],
+   "data": "Carrières depuis Wikidata (libre), contrôlées",
+   "tokens": "Faible",
+   "check": true
+  }
+ },
+ "features": {
+  "fast": {
+   "week": 3,
+   "what": "Course : mode rapide au-delà de 45 éditions, tour « Others » au-delà de 8 vainqueurs, écussons de compétitions"
+  },
+  "players": {
+   "week": 3,
+   "what": "Tournoi : billes de joueurs (nom et couleurs du maillot) au lieu des drapeaux"
+  }
+ },
+ "start": "2026-11-08",
+ "end": "2027-11-07",
+ "slots": [
+  "21:00",
+  "02:00"
+ ],
+ "timezone": "Europe/Paris"
+}

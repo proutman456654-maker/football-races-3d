@@ -1,0 +1,305 @@
+{
+ "format": "tournoi",
+ "title": "The Underdog Cup: 16 nations that never won a World Cup",
+ "seed": "underdog-cup-launch-2026-11-10",
+ "hook": {
+  "small": "THEY NEVER WON A WORLD CUP",
+  "big": "THE UNDERDOG CUP",
+  "question": "WHO FINALLY WINS ONE?"
+ },
+ "teams": [
+  {
+   "id": "NED",
+   "name": "NETHERLANDS",
+   "flag": "nl",
+   "color": "#ae1c28",
+   "confetti": [
+    "#ae1c28",
+    "#ffffff",
+    "#21468b",
+    "#ff7f00"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "POR",
+   "name": "PORTUGAL",
+   "flag": "pt",
+   "color": "#006600",
+   "confetti": [
+    "#006600",
+    "#ff0000",
+    "#ffd700"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "BEL",
+   "name": "BELGIUM",
+   "flag": "be",
+   "color": "#fdda24",
+   "confetti": [
+    "#111111",
+    "#fdda24",
+    "#ef3340"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "CRO",
+   "name": "CROATIA",
+   "flag": "hr",
+   "color": "#ff0000",
+   "confetti": [
+    "#ff0000",
+    "#ffffff",
+    "#171796"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "MEX",
+   "name": "MEXICO",
+   "flag": "mx",
+   "color": "#006847",
+   "confetti": [
+    "#006847",
+    "#ffffff",
+    "#ce1126"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "USA",
+   "name": "USA",
+   "flag": "us",
+   "color": "#b22234",
+   "confetti": [
+    "#b22234",
+    "#ffffff",
+    "#3c3b6e"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "JPN",
+   "name": "JAPAN",
+   "flag": "jp",
+   "color": "#bc002d",
+   "confetti": [
+    "#ffffff",
+    "#bc002d"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "MAR",
+   "name": "MOROCCO",
+   "flag": "ma",
+   "color": "#c1272d",
+   "confetti": [
+    "#c1272d",
+    "#006233"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "SEN",
+   "name": "SENEGAL",
+   "flag": "sn",
+   "color": "#00853f",
+   "confetti": [
+    "#00853f",
+    "#fdef42",
+    "#e31b23"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "COL",
+   "name": "COLOMBIA",
+   "flag": "co",
+   "color": "#fcd116",
+   "confetti": [
+    "#fcd116",
+    "#003893",
+    "#ce1126"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "SUI",
+   "name": "SWITZERLAND",
+   "flag": "ch",
+   "color": "#d52b1e",
+   "confetti": [
+    "#d52b1e",
+    "#ffffff"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "KOR",
+   "name": "SOUTH KOREA",
+   "flag": "kr",
+   "color": "#cd2e3a",
+   "confetti": [
+    "#ffffff",
+    "#cd2e3a",
+    "#0047a0"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "DEN",
+   "name": "DENMARK",
+   "flag": "dk",
+   "color": "#c60c30",
+   "confetti": [
+    "#c60c30",
+    "#ffffff"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "SWE",
+   "name": "SWEDEN",
+   "flag": "se",
+   "color": "#006aa7",
+   "confetti": [
+    "#006aa7",
+    "#fecc00"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "POL",
+   "name": "POLAND",
+   "flag": "pl",
+   "color": "#dc143c",
+   "confetti": [
+    "#ffffff",
+    "#dc143c"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "NGA",
+   "name": "NIGERIA",
+   "flag": "ng",
+   "color": "#008751",
+   "confetti": [
+    "#008751",
+    "#ffffff"
+   ],
+   "g": "m",
+   "art": ""
+  }
+ ],
+ "pairs": [
+  [
+   "NED",
+   "NGA"
+  ],
+  [
+   "POR",
+   "KOR"
+  ],
+  [
+   "BEL",
+   "COL"
+  ],
+  [
+   "CRO",
+   "USA"
+  ],
+  [
+   "MAR",
+   "DEN"
+  ],
+  [
+   "JPN",
+   "SUI"
+  ],
+  [
+   "MEX",
+   "SWE"
+  ],
+  [
+   "SEN",
+   "POL"
+  ]
+ ],
+ "rounds": [
+  {
+   "name": "ROUND OF 16",
+   "beats": 5,
+   "win": [
+    0.95,
+    1.7
+   ]
+  },
+  {
+   "name": "QUARTER-FINALS",
+   "beats": 7,
+   "win": [
+    1.35,
+    2.6
+   ]
+  },
+  {
+   "name": "SEMI-FINALS",
+   "beats": 9,
+   "win": [
+    1.9,
+    3.5
+   ]
+  },
+  {
+   "name": "FINAL",
+   "beats": 14,
+   "win": [
+    3.0,
+    4.6
+   ]
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "{W} CHAMPIONS!",
+   "small": "{W} BEAT {F} IN THE FINAL"
+  },
+  "two": {
+   "big": "WHO DID YOU PICK?",
+   "small": "COMMENT YOUR PREDICTION",
+   "tiny": "Follow for the next tournament"
+  },
+  "foot": "Physics simulation: chance decides every match, no real data."
+ },
+ "music": {
+  "file": "assets/music/sonican-epic-orchestral-music-dramatic-loop-467131.mp3",
+  "credit": "",
+  "pulse": 1.11732,
+  "phase": 0.035,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "lang": "en"
+}

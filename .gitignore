@@ -1,0 +1,20 @@
+.env
+.venv/
+__pycache__/
+output/
+build/
+run-log.txt
+telegram-alert-sent
+node_modules/
+# finished videos stay on the PC and in the GitHub run artifacts, never in the repository
+launch/*.mp4
+*.mp4
+*.wav
+*.m4a
+
+# Pixabay music and sound effects: moods.json lists their links, they are downloaded at render time
+# (the Pixabay license forbids passing them on as they are)
+assets/music/*.mp3
+assets/sfx/*.mp3
+# CC BY track: it may stay in the repo, its credit goes in the caption
+!assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3

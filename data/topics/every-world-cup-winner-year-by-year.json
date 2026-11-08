@@ -1,0 +1,351 @@
+{
+ "id": "coupe-du-monde",
+ "header": "COUPE DU MONDE",
+ "hook": {
+  "small": "96 YEARS OF THE",
+  "big": "WORLD CUP",
+  "question": "WHO FINISHES FIRST?"
+ },
+ "teams": [
+  {
+   "id": "GER",
+   "name": "GERMANY",
+   "confetti": [
+    "#111111",
+    "#dd0000",
+    "#ffce00"
+   ],
+   "flag": "de",
+   "color": "#ffce00"
+  },
+  {
+   "id": "ENG",
+   "name": "ENGLAND",
+   "confetti": [
+    "#ffffff",
+    "#cf142b"
+   ],
+   "flag": "gb-eng",
+   "color": "#cf142b"
+  },
+  {
+   "id": "ARG",
+   "name": "ARGENTINA",
+   "confetti": [
+    "#74acdf",
+    "#ffffff",
+    "#f6b40e"
+   ],
+   "flag": "ar",
+   "color": "#74acdf"
+  },
+  {
+   "id": "BRA",
+   "name": "BRAZIL",
+   "confetti": [
+    "#009c3b",
+    "#ffdf00",
+    "#002776"
+   ],
+   "flag": "br",
+   "color": "#ffdf00"
+  },
+  {
+   "id": "ESP",
+   "name": "SPAIN",
+   "confetti": [
+    "#aa151b",
+    "#f1bf00"
+   ],
+   "flag": "es",
+   "color": "#f1bf00"
+  },
+  {
+   "id": "FRA",
+   "name": "FRANCE",
+   "confetti": [
+    "#002395",
+    "#ffffff",
+    "#ed2939"
+   ],
+   "flag": "fr",
+   "color": "#2f6bff"
+  },
+  {
+   "id": "ITA",
+   "name": "ITALY",
+   "confetti": [
+    "#009246",
+    "#ffffff",
+    "#ce2b37"
+   ],
+   "flag": "it",
+   "color": "#17b45f"
+  },
+  {
+   "id": "URU",
+   "name": "URUGUAY",
+   "confetti": [
+    "#0038a8",
+    "#ffffff",
+    "#fcd116"
+   ],
+   "flag": "uy",
+   "color": "#2f7bff"
+  }
+ ],
+ "events": [
+  {
+   "year": 1930,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "4–2",
+   "l": "ARGENTINA",
+   "place": "Montevideo",
+   "p": 2,
+   "note": "THE VERY FIRST"
+  },
+  {
+   "year": 1934,
+   "winner": "ITA",
+   "w": "ITALY",
+   "score": "2–1",
+   "l": "CZECHOSLOVAKIA",
+   "place": "Rome · after extra time",
+   "p": 2
+  },
+  {
+   "year": 1938,
+   "winner": "ITA",
+   "w": "ITALY",
+   "score": "4–2",
+   "l": "HUNGARY",
+   "place": "Colombes",
+   "p": 2,
+   "note": "ITALY TAKE THE LEAD"
+  },
+  {
+   "year": 1950,
+   "winner": "URU",
+   "w": "URUGUAY",
+   "score": "2–1",
+   "l": "BRAZIL",
+   "place": "Rio de Janeiro, deciding match",
+   "p": 3,
+   "note": "12 YEARS WITHOUT A CUP, THEN THE MARACANAZO"
+  },
+  {
+   "year": 1954,
+   "winner": "GER",
+   "w": "W. GERMANY",
+   "score": "3–2",
+   "l": "HUNGARY",
+   "place": "Bern",
+   "p": 2,
+   "note": "WEST GERMANY COUNTS AS GERMANY"
+  },
+  {
+   "year": 1958,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "5–2",
+   "l": "SWEDEN",
+   "place": "Solna",
+   "p": 2,
+   "note": "BRAZIL'S FIRST TITLE"
+  },
+  {
+   "year": 1962,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "3–1",
+   "l": "CZECHOSLOVAKIA",
+   "place": "Santiago",
+   "p": 1
+  },
+  {
+   "year": 1966,
+   "winner": "ENG",
+   "w": "ENGLAND",
+   "score": "4–2",
+   "l": "W. GERMANY",
+   "place": "London · after extra time",
+   "p": 4,
+   "note": "ENGLAND'S ONLY TITLE"
+  },
+  {
+   "year": 1970,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "4–1",
+   "l": "ITALY",
+   "place": "Mexico City",
+   "big": true,
+   "p": 3,
+   "note": "3 TITLES: BRAZIL GO TOP"
+  },
+  {
+   "year": 1974,
+   "winner": "GER",
+   "w": "W. GERMANY",
+   "score": "2–1",
+   "l": "NETHERLANDS",
+   "place": "Munich",
+   "p": 1
+  },
+  {
+   "year": 1978,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "3–1",
+   "l": "NETHERLANDS",
+   "place": "Buenos Aires · after extra time",
+   "p": 2,
+   "note": "ARGENTINA'S FIRST TITLE"
+  },
+  {
+   "year": 1982,
+   "winner": "ITA",
+   "w": "ITALY",
+   "score": "3–1",
+   "l": "W. GERMANY",
+   "place": "Madrid",
+   "p": 1
+  },
+  {
+   "year": 1986,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "3–2",
+   "l": "W. GERMANY",
+   "place": "Mexico City",
+   "p": 1
+  },
+  {
+   "year": 1990,
+   "winner": "GER",
+   "w": "W. GERMANY",
+   "score": "1–0",
+   "l": "ARGENTINA",
+   "place": "Rome",
+   "p": 2,
+   "note": "THREE NATIONS LEVEL ON 3"
+  },
+  {
+   "year": 1994,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "0–0",
+   "l": "ITALY",
+   "place": "Pasadena · 3–2 on penalties",
+   "p": 4,
+   "note": "BRAZIL BACK IN FRONT"
+  },
+  {
+   "year": 1998,
+   "winner": "FRA",
+   "w": "FRANCE",
+   "score": "3–0",
+   "l": "BRAZIL",
+   "place": "Saint-Denis",
+   "big": true,
+   "p": 4,
+   "note": "FRANCE'S FIRST TITLE"
+  },
+  {
+   "year": 2002,
+   "winner": "BRA",
+   "w": "BRAZIL",
+   "score": "2–0",
+   "l": "GERMANY",
+   "place": "Yokohama",
+   "big": true,
+   "p": 3,
+   "note": "5TH TITLE: BRAZIL'S RECORD"
+  },
+  {
+   "year": 2006,
+   "winner": "ITA",
+   "w": "ITALY",
+   "score": "1–1",
+   "l": "FRANCE",
+   "place": "Berlin · 5–3 on penalties",
+   "p": 2,
+   "note": "FRANCE LOSE ON PENALTIES"
+  },
+  {
+   "year": 2010,
+   "winner": "ESP",
+   "w": "SPAIN",
+   "score": "1–0",
+   "l": "NETHERLANDS",
+   "place": "Johannesburg · after extra time",
+   "p": 2,
+   "note": "SPAIN'S FIRST TITLE"
+  },
+  {
+   "year": 2014,
+   "winner": "GER",
+   "w": "GERMANY",
+   "score": "1–0",
+   "l": "ARGENTINA",
+   "place": "Rio de Janeiro · after extra time",
+   "p": 1
+  },
+  {
+   "year": 2018,
+   "winner": "FRA",
+   "w": "FRANCE",
+   "score": "4–2",
+   "l": "CROATIA",
+   "place": "Moscow",
+   "p": 1
+  },
+  {
+   "year": 2022,
+   "winner": "ARG",
+   "w": "ARGENTINA",
+   "score": "3–3",
+   "l": "FRANCE",
+   "place": "Lusail · 4–2 on penalties",
+   "p": 4,
+   "note": "ARGENTINA'S 3RD TITLE"
+  },
+  {
+   "year": 2026,
+   "winner": "ESP",
+   "w": "SPAIN",
+   "score": "1–0",
+   "l": "ARGENTINA",
+   "place": "East Rutherford · after extra time",
+   "big": true,
+   "p": 3,
+   "note": "SPAIN JOIN FRANCE ON 2"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "BRAZIL STAY ON TOP",
+   "small": "BUT NO TITLE SINCE 2002"
+  },
+  "two": {
+   "big": "WHO WINS THE NEXT ONE?",
+   "small": "COMMENT YOUR COUNTRY",
+   "tiny": "Follow for the next race"
+  },
+  "foot": "Source: Wikipedia. West Germany's titles counted as Germany."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "format": "course",
+ "lang": "en",
+ "title": "Every World Cup winner, year by year"
+}

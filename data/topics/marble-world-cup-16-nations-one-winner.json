@@ -1,0 +1,308 @@
+{
+ "format": "tournoi",
+ "title": "Marble World Cup: 16 nations, one winner",
+ "seed": "marble-world-cup-launch-2026-11-09",
+ "hook": {
+  "small": "16 NATIONS, ONE WINNER",
+  "big": "MARBLE WORLD CUP",
+  "question": "WHO WINS IT?"
+ },
+ "teams": [
+  {
+   "id": "FRA",
+   "name": "FRANCE",
+   "flag": "fr",
+   "color": "#002395",
+   "confetti": [
+    "#002395",
+    "#ffffff",
+    "#ed2939"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "MAR",
+   "name": "MOROCCO",
+   "flag": "ma",
+   "color": "#c1272d",
+   "confetti": [
+    "#c1272d",
+    "#006233"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "BRA",
+   "name": "BRAZIL",
+   "flag": "br",
+   "color": "#009c3b",
+   "confetti": [
+    "#009c3b",
+    "#ffdf00",
+    "#002776"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "CRO",
+   "name": "CROATIA",
+   "flag": "hr",
+   "color": "#ff0000",
+   "confetti": [
+    "#ff0000",
+    "#ffffff",
+    "#171796"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "ARG",
+   "name": "ARGENTINA",
+   "flag": "ar",
+   "color": "#74acdf",
+   "confetti": [
+    "#74acdf",
+    "#ffffff",
+    "#f6b40e"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "NED",
+   "name": "NETHERLANDS",
+   "flag": "nl",
+   "color": "#ae1c28",
+   "confetti": [
+    "#ae1c28",
+    "#ffffff",
+    "#21468b",
+    "#ff7f00"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "ESP",
+   "name": "SPAIN",
+   "flag": "es",
+   "color": "#aa151b",
+   "confetti": [
+    "#aa151b",
+    "#f1bf00"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "POR",
+   "name": "PORTUGAL",
+   "flag": "pt",
+   "color": "#006600",
+   "confetti": [
+    "#006600",
+    "#ff0000",
+    "#ffd700"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "ENG",
+   "name": "ENGLAND",
+   "flag": "gb-eng",
+   "color": "#cf142b",
+   "confetti": [
+    "#ffffff",
+    "#cf142b"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "USA",
+   "name": "USA",
+   "flag": "us",
+   "color": "#b22234",
+   "confetti": [
+    "#b22234",
+    "#ffffff",
+    "#3c3b6e"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "GER",
+   "name": "GERMANY",
+   "flag": "de",
+   "color": "#dd0000",
+   "confetti": [
+    "#111111",
+    "#dd0000",
+    "#ffce00"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "JPN",
+   "name": "JAPAN",
+   "flag": "jp",
+   "color": "#bc002d",
+   "confetti": [
+    "#ffffff",
+    "#bc002d"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "ITA",
+   "name": "ITALY",
+   "flag": "it",
+   "color": "#009246",
+   "confetti": [
+    "#009246",
+    "#ffffff",
+    "#ce2b37"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "BEL",
+   "name": "BELGIUM",
+   "flag": "be",
+   "color": "#fdda24",
+   "confetti": [
+    "#111111",
+    "#fdda24",
+    "#ef3340"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "URU",
+   "name": "URUGUAY",
+   "flag": "uy",
+   "color": "#0038a8",
+   "confetti": [
+    "#0038a8",
+    "#ffffff",
+    "#fcd116"
+   ],
+   "g": "m",
+   "art": ""
+  },
+  {
+   "id": "MEX",
+   "name": "MEXICO",
+   "flag": "mx",
+   "color": "#006847",
+   "confetti": [
+    "#006847",
+    "#ffffff",
+    "#ce1126"
+   ],
+   "g": "m",
+   "art": ""
+  }
+ ],
+ "pairs": [
+  [
+   "FRA",
+   "MAR"
+  ],
+  [
+   "BRA",
+   "CRO"
+  ],
+  [
+   "ARG",
+   "NED"
+  ],
+  [
+   "ESP",
+   "POR"
+  ],
+  [
+   "ENG",
+   "USA"
+  ],
+  [
+   "GER",
+   "JPN"
+  ],
+  [
+   "ITA",
+   "BEL"
+  ],
+  [
+   "URU",
+   "MEX"
+  ]
+ ],
+ "rounds": [
+  {
+   "name": "ROUND OF 16",
+   "beats": 5,
+   "win": [
+    0.95,
+    1.7
+   ]
+  },
+  {
+   "name": "QUARTER-FINALS",
+   "beats": 7,
+   "win": [
+    1.35,
+    2.6
+   ]
+  },
+  {
+   "name": "SEMI-FINALS",
+   "beats": 9,
+   "win": [
+    1.9,
+    3.5
+   ]
+  },
+  {
+   "name": "FINAL",
+   "beats": 14,
+   "win": [
+    3.0,
+    4.6
+   ]
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "{W} CHAMPIONS!",
+   "small": "{W} BEAT {F} IN THE FINAL"
+  },
+  "two": {
+   "big": "WHO DID YOU PICK?",
+   "small": "COMMENT YOUR PREDICTION",
+   "tiny": "Follow for the next tournament"
+  },
+  "foot": "Physics simulation: chance decides every match, no real data."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "lang": "en"
+}
