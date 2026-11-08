@@ -1,0 +1,324 @@
+{
+ "format": "duel",
+ "lang": "en",
+ "title": "Haaland vs Mbappé: goals, year by year",
+ "k": 0.11,
+ "hook": {
+  "small": "CLUB GOALS, YEAR BY YEAR",
+  "big": "HAALAND VS MBAPPÉ",
+  "question": "WHO'S AHEAD?"
+ },
+ "sides": [
+  {
+   "id": "HAA",
+   "name": "HAALAND",
+   "flag": "no",
+   "color": "#ba0c2f",
+   "confetti": [
+    "#ba0c2f",
+    "#ffffff",
+    "#00205b"
+   ]
+  },
+  {
+   "id": "MBA",
+   "name": "MBAPPÉ",
+   "flag": "fr",
+   "color": "#2a5bd7",
+   "confetti": [
+    "#002395",
+    "#ffffff",
+    "#ed2939"
+   ]
+  }
+ ],
+ "clubs": {
+  "MOL": {
+   "name": "Molde",
+   "pattern": "trim",
+   "colors": [
+    "#0055a4",
+    "#ffffff"
+   ]
+  },
+  "SAL": {
+   "name": "Salzburg",
+   "pattern": "trim",
+   "colors": [
+    "#f4f4f2",
+    "#d71920"
+   ]
+  },
+  "BVB": {
+   "name": "Dortmund",
+   "pattern": "trim",
+   "colors": [
+    "#fde100",
+    "#111111"
+   ]
+  },
+  "MCI": {
+   "name": "Man City",
+   "pattern": "trim",
+   "colors": [
+    "#6cabdd",
+    "#ffffff"
+   ]
+  },
+  "MON": {
+   "name": "Monaco",
+   "pattern": "halves",
+   "colors": [
+    "#e51b22",
+    "#ffffff"
+   ]
+  },
+  "PSG": {
+   "name": "PSG",
+   "pattern": "band",
+   "colors": [
+    "#0b1f45",
+    "#da291c",
+    "#ffffff"
+   ]
+  },
+  "RMA": {
+   "name": "Real Madrid",
+   "pattern": "trim",
+   "colors": [
+    "#f4f4f2",
+    "#c9a227"
+   ]
+  }
+ },
+ "steps": [
+  {
+   "year": 2016,
+   "p": 3,
+   "a": [],
+   "b": [
+    [
+     "MON",
+     1
+    ]
+   ],
+   "note": "MBAPPÉ OFF THE MARK AT 17"
+  },
+  {
+   "year": 2017,
+   "p": 4,
+   "a": [
+    [
+     "MOL",
+     4
+    ]
+   ],
+   "b": [
+    [
+     "MON",
+     26
+    ]
+   ],
+   "note": "26 GOALS: MONACO WIN THE LEAGUE"
+  },
+  {
+   "year": 2018,
+   "p": 4,
+   "a": [
+    [
+     "MOL",
+     16
+    ]
+   ],
+   "b": [
+    [
+     "MON",
+     0
+    ],
+    [
+     "PSG",
+     21
+    ]
+   ],
+   "note": "MBAPPÉ JOINS PSG"
+  },
+  {
+   "year": 2019,
+   "p": 3,
+   "a": [
+    [
+     "SAL",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "PSG",
+     39
+    ]
+   ]
+  },
+  {
+   "year": 2020,
+   "p": 5,
+   "a": [
+    [
+     "SAL",
+     28
+    ],
+    [
+     "BVB",
+     16
+    ]
+   ],
+   "b": [
+    [
+     "PSG",
+     30
+    ]
+   ],
+   "note": "HAALAND EXPLODES: 44 GOALS",
+   "big": true
+  },
+  {
+   "year": 2021,
+   "p": 5,
+   "a": [
+    [
+     "BVB",
+     41
+    ]
+   ],
+   "b": [
+    [
+     "PSG",
+     42
+    ]
+   ]
+  },
+  {
+   "year": 2022,
+   "p": 3,
+   "a": [
+    [
+     "BVB",
+     29
+    ]
+   ],
+   "b": [
+    [
+     "PSG",
+     39
+    ]
+   ]
+  },
+  {
+   "year": 2023,
+   "p": 5,
+   "a": [
+    [
+     "MCI",
+     52
+    ]
+   ],
+   "b": [
+    [
+     "PSG",
+     41
+    ]
+   ],
+   "note": "52 GOALS: HAALAND'S RECORD SEASON",
+   "big": true
+  },
+  {
+   "year": 2024,
+   "p": 4,
+   "a": [
+    [
+     "MCI",
+     38
+    ]
+   ],
+   "b": [
+    [
+     "PSG",
+     44
+    ]
+   ],
+   "note": "44 GOALS IN MBAPPÉ'S LAST PSG SEASON"
+  },
+  {
+   "year": 2025,
+   "p": 4,
+   "a": [
+    [
+     "MCI",
+     34
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     44
+    ]
+   ],
+   "note": "44 IN HIS FIRST REAL MADRID SEASON"
+  },
+  {
+   "year": 2026,
+   "p": 4,
+   "a": [
+    [
+     "MCI",
+     38
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     42
+    ]
+   ]
+  },
+  {
+   "year": 2027,
+   "p": 3,
+   "a": [
+    [
+     "MCI",
+     14
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     17
+    ]
+   ],
+   "note": "SEASON IN PROGRESS"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "MBAPPÉ AHEAD BY 75 GOALS",
+   "small": "BUT HAALAND IS 19 MONTHS YOUNGER"
+  },
+  "two": {
+   "big": "WHO ENDS WITH MORE?",
+   "small": "COMMENT HAALAND OR MBAPPÉ",
+   "tiny": "Follow for the next duel"
+  },
+  "foot": "Source: Wikipedia, as of 7 November 2026. First-team club goals, all competitions. A season counts in the year it ends."
+ },
+ "music": {
+  "file": "assets/music/sonican-epic-orchestral-music-dramatic-loop-467131.mp3",
+  "credit": "",
+  "pulse": 1.11732,
+  "phase": 0.035,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Haaland vs Mbappé: every club goal, year by year ⚽ Who ends their career with more? Comment your pick 👇\n#haaland #mbappe #football #soccer"
+}
