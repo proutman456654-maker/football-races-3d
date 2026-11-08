@@ -1,0 +1,333 @@
+{
+ "format": "duel",
+ "lang": "en",
+ "title": "Real Madrid vs Barcelona: every Clásico, decade by decade",
+ "k": 0.4,
+ "hook": {
+  "small": "EVERY CLÁSICO, DECADE BY DECADE",
+  "big": "MADRID VS BARÇA",
+  "question": "WHO HAS MORE WINS?"
+ },
+ "sides": [
+  {
+   "id": "RMA",
+   "name": "REAL MADRID",
+   "flag": "club-rma",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#febe10"
+    ],
+    "ink": "#1a1a4a",
+    "code": "RMA"
+   },
+   "color": "#f4f4f2",
+   "confetti": [
+    "#ffffff",
+    "#febe10",
+    "#00529f"
+   ]
+  },
+  {
+   "id": "BAR",
+   "name": "BARCELONA",
+   "flag": "club-bar",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#a50044",
+     "#004d98"
+    ],
+    "code": "BAR"
+   },
+   "color": "#a50044",
+   "confetti": [
+    "#a50044",
+    "#004d98",
+    "#edbb00"
+   ]
+  }
+ ],
+ "clubs": {
+  "RMA": {
+   "name": "Real Madrid",
+   "pattern": "trim",
+   "colors": [
+    "#f4f4f2",
+    "#c9a227"
+   ]
+  },
+  "BAR": {
+   "name": "Barcelona",
+   "pattern": "stripes",
+   "colors": [
+    "#0a3d91",
+    "#a50044"
+   ]
+  }
+ },
+ "steps": [
+  {
+   "year": 1900,
+   "label": "1900s",
+   "p": 3,
+   "a": [],
+   "b": [
+    [
+     "BAR",
+     1
+    ]
+   ],
+   "place": "one match: 1902",
+   "note": "1902: BARÇA WIN THE VERY FIRST CLÁSICO"
+  },
+  {
+   "year": 1910,
+   "label": "1910s",
+   "p": 3,
+   "a": [
+    [
+     "RMA",
+     2
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     1
+    ]
+   ],
+   "place": "1 draw"
+  },
+  {
+   "year": 1920,
+   "label": "1920s",
+   "p": 3,
+   "a": [
+    [
+     "RMA",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     3
+    ]
+   ],
+   "place": "no draws"
+  },
+  {
+   "year": 1930,
+   "label": "1930s",
+   "p": 4,
+   "a": [
+    [
+     "RMA",
+     10
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     2
+    ]
+   ],
+   "place": "3 draws",
+   "note": "MADRID TAKE OVER: 10 WINS"
+  },
+  {
+   "year": 1940,
+   "label": "1940s",
+   "p": 3,
+   "a": [
+    [
+     "RMA",
+     10
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     10
+    ]
+   ],
+   "place": "3 draws"
+  },
+  {
+   "year": 1950,
+   "label": "1950s",
+   "p": 4,
+   "a": [
+    [
+     "RMA",
+     13
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     11
+    ]
+   ],
+   "place": "2 draws",
+   "note": "THE DI STÉFANO YEARS"
+  },
+  {
+   "year": 1960,
+   "label": "1960s",
+   "p": 4,
+   "a": [
+    [
+     "RMA",
+     14
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     9
+    ]
+   ],
+   "place": "5 draws",
+   "note": "MADRID 13 WINS CLEAR"
+  },
+  {
+   "year": 1970,
+   "label": "1970s",
+   "p": 3,
+   "a": [
+    [
+     "RMA",
+     8
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     8
+    ]
+   ],
+   "place": "6 draws"
+  },
+  {
+   "year": 1980,
+   "label": "1980s",
+   "p": 4,
+   "a": [
+    [
+     "RMA",
+     9
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     15
+    ]
+   ],
+   "place": "7 draws",
+   "note": "BARÇA WIN THE DECADE 15–9"
+  },
+  {
+   "year": 1990,
+   "label": "1990s",
+   "p": 3,
+   "a": [
+    [
+     "RMA",
+     10
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     13
+    ]
+   ],
+   "place": "8 draws"
+  },
+  {
+   "year": 2000,
+   "label": "2000s",
+   "p": 3,
+   "a": [
+    [
+     "RMA",
+     8
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     7
+    ]
+   ],
+   "place": "7 draws"
+  },
+  {
+   "year": 2010,
+   "label": "2010s",
+   "p": 5,
+   "a": [
+    [
+     "RMA",
+     10
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     16
+    ]
+   ],
+   "place": "10 draws",
+   "note": "THE MESSI ERA: BARÇA IN FRONT",
+   "big": true
+  },
+  {
+   "year": 2020,
+   "label": "2020s",
+   "p": 5,
+   "a": [
+    [
+     "RMA",
+     12
+    ]
+   ],
+   "b": [
+    [
+     "BAR",
+     10
+    ]
+   ],
+   "place": "no draws",
+   "note": "MADRID BACK IN FRONT: 107–106",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "REAL MADRID 107, BARÇA 106",
+   "small": "52 DRAWS · 265 CLÁSICOS"
+  },
+  "two": {
+   "big": "WHO WINS THE NEXT ONE?",
+   "small": "COMMENT MADRID OR BARÇA",
+   "tiny": "Follow for the next duel"
+  },
+  "foot": "Source: Wikipedia. Competitive matches incl. the 1902 Copa de la Coronación, as of November 2026."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Every Clásico ever, decade by decade ⚪🔵🔴 Real Madrid 107, Barça 106. Whose side are you on? 👇\n#elclasico #realmadrid #barcelona #football\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}

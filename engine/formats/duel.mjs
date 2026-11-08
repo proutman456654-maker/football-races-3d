@@ -1,5 +1,5 @@
 // Format « Le Duel » : deux tours qui montent année par année, une couleur de club par saison.
-import { fmt, esc, WHIP, titleBlock, noteBlock, hudFile } from "./common.mjs";
+import { fmt, esc, WHIP, titleBlock, noteBlock, hudFile, clubFlagSvg } from "./common.mjs";
 
 const SHOT_CYCLE = ["front", "sideA", "level", "sideB", "low", "orbit"];
 // taille de police qui tient sur une ligne (League Gothic en capitales : environ 0,4 em par signe)
@@ -57,8 +57,8 @@ export function build(data) {
     const side = (who, g, parts, other) => (parts.length ? `<span class="w${g > other ? " gold" : ""}">${esc(who.name)} +${g}</span>` : `<span class="w dim">${esc(who.name)} —</span>`);
     // sur une seule pulsation, les compteurs du bas suffisent : pas de ligne qu'on n'aurait pas le temps de lire
     const lineHtml = s.p === 1 ? "" : `${side(A, s.ga, s.a, s.gb)} <span class="w dim">·</span> ${side(B, s.gb, s.b, s.ga)}`;
-    const place = s.p === 1 ? "" : [s.a.length ? clubName(s.a) : "", s.b.length ? clubName(s.b) : ""].filter(Boolean).join("  ·  ");
-    const tb = titleBlock({ id, appear: s.appear, L: s.L, label: String(s.year), lineHtml, place, gold: s.big, whipOut, outAt: nextShows - WHIP, clipEnd });
+    const place = s.p === 1 ? "" : s.place ?? [s.a.length ? clubName(s.a) : "", s.b.length ? clubName(s.b) : ""].filter(Boolean).join("  ·  ");
+    const tb = titleBlock({ id, appear: s.appear, L: s.L, label: s.label || String(s.year), lineHtml, place, gold: s.big, whipOut, outAt: nextShows - WHIP, clipEnd });
     body += tb.html;
     js += tb.js;
     if (s.note) {
@@ -164,5 +164,10 @@ export function build(data) {
     riser: steps.filter((s) => s.big).slice(-1)[0]?.L ?? null,
     events: steps.map((s) => ({ year: s.year, L: s.L, big: s.big, fall: s.fall, hasNote: !!s.note })),
   };
-  return { hud, world, timing, total: TOTAL, title: data.title, flags: data.sides.map((s) => s.flag) };
+  // un duel de clubs : leurs couleurs et trois lettres à la place d'un drapeau de pays
+  const extraFiles = {};
+  data.sides.forEach((s) => {
+    if (s.club) extraFiles[`assets/flags/${s.flag}.svg`] = clubFlagSvg({ ...s.club, code: s.club.code || s.id });
+  });
+  return { hud, world, timing, total: TOTAL, title: data.title, flags: data.sides.filter((s) => !s.club).map((s) => s.flag), extraFiles };
 }
