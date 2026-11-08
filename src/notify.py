@@ -101,6 +101,8 @@ def check_today_scheduled():
     today = now.strftime("%Y-%m-%d")
     done = load_json(NOTIFIED_FILE, [])
     posts = load_json(STATE_FILE, {}).get("posts", [])
+    # launch day: a slot before the channel's very first scheduled post was never meant to have a video
+    first = min(((p.get("slot") or p.get("when", ""))[:16] for p in posts), default="")
     for lang, lang_cfg in config["languages"].items():
         if not lang_cfg.get("enabled", True):
             continue
@@ -110,6 +112,8 @@ def check_today_scheduled():
             if key in done or now.hour * 60 + now.minute < h * 60 + m + 60:
                 continue
             slot = f"{today}T{t}"  # "slot" = planned time; posts scheduled before it existed only have "when"
+            if not first or slot < first:
+                continue
             if not any((p.get("slot") or p.get("when", "")).startswith(slot) for p in posts if p.get("lang", lang) == lang):
                 send(f"❌ Aucune vidéo programmée pour {t} aujourd'hui : GitHub n'a pas lancé (ou pas terminé) "
                      "la fabrication. Dis-le à Claude.")
