@@ -1,5 +1,5 @@
 // Format « Le Tournoi de billes » : 16 équipes, un tableau, chaque match se joue en physique dans l'arène.
-import { fmt, esc, hudFile, strings } from "./common.mjs";
+import { fmt, esc, hudFile, strings, clubFlagSvg } from "./common.mjs";
 import { pickMatch, ARENA } from "./marbles-sim.mjs";
 
 const fit = (text, max, width = 980) => Math.min(max, Math.floor(width / (String(text).length * 0.4)));
@@ -234,6 +234,11 @@ export function build(data) {
     events.push({ year: `${mt.round}-${mt.idx}-out`, L: mt.E, big: mt.big, fall: mt.big ? 1.6 : 0, hasNote: true });
   });
   const timing = { offset: data.music.phase + data.music.entry_pulse_index * P - T0, total: TOTAL, t0: T0, tEnd, pulse: P, riser: final.E, events, sfx };
-  const flags = [...new Set(data.teams.map((t) => t.flag))];
-  return { hud, world, timing, total: TOTAL, title: data.title, flags, extraFiles: { "world/sim-data.js": simFile }, summary: { champion: T(champion).name, finalist: T(finalist).name, results: matches.map((mt) => `${T(mt.pair[0]).name}-${T(mt.pair[1]).name}: ${T(mt.winner).name}`) } };
+  // les clubs n'ont pas de drapeau : leurs couleurs et trois lettres, dessinées comme dans la Course
+  const flags = [...new Set(data.teams.filter((t) => !t.club).map((t) => t.flag))];
+  const extraFiles = { "world/sim-data.js": simFile };
+  data.teams.forEach((t) => {
+    if (t.club) extraFiles[`assets/flags/${t.flag}.svg`] = clubFlagSvg({ ...t.club, code: t.club.code || t.id });
+  });
+  return { hud, world, timing, total: TOTAL, title: data.title, flags, extraFiles, summary: { champion: T(champion).name, finalist: T(finalist).name, results: matches.map((mt) => `${T(mt.pair[0]).name}-${T(mt.pair[1]).name}: ${T(mt.winner).name}`) } };
 }

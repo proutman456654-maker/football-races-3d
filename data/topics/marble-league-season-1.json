@@ -1,0 +1,248 @@
+{
+ "format": "ligue",
+ "lang": "en",
+ "title": "The Marble League",
+ "season": 1,
+ "statePath": "../../state/marble-league.json",
+ "hook": {
+  "small": "SEASON 1 · MATCHDAY {J}",
+  "big": "THE MARBLE LEAGUE",
+  "question": "20 NATIONS, ONE CHAMPION"
+ },
+ "teams": [
+  {
+   "id": "FRA",
+   "name": "FRANCE",
+   "flag": "fr",
+   "color": "#002395",
+   "confetti": [
+    "#002395",
+    "#ffffff",
+    "#ed2939"
+   ]
+  },
+  {
+   "id": "MAR",
+   "name": "MOROCCO",
+   "flag": "ma",
+   "color": "#c1272d",
+   "confetti": [
+    "#c1272d",
+    "#006233"
+   ]
+  },
+  {
+   "id": "BRA",
+   "name": "BRAZIL",
+   "flag": "br",
+   "color": "#009c3b",
+   "confetti": [
+    "#009c3b",
+    "#ffdf00",
+    "#002776"
+   ]
+  },
+  {
+   "id": "CRO",
+   "name": "CROATIA",
+   "flag": "hr",
+   "color": "#ff0000",
+   "confetti": [
+    "#ff0000",
+    "#ffffff",
+    "#171796"
+   ]
+  },
+  {
+   "id": "ARG",
+   "name": "ARGENTINA",
+   "flag": "ar",
+   "color": "#74acdf",
+   "confetti": [
+    "#74acdf",
+    "#ffffff",
+    "#f6b40e"
+   ]
+  },
+  {
+   "id": "NED",
+   "name": "NETHERLANDS",
+   "flag": "nl",
+   "color": "#ae1c28",
+   "confetti": [
+    "#ae1c28",
+    "#ffffff",
+    "#21468b",
+    "#ff7f00"
+   ]
+  },
+  {
+   "id": "ESP",
+   "name": "SPAIN",
+   "flag": "es",
+   "color": "#aa151b",
+   "confetti": [
+    "#aa151b",
+    "#f1bf00"
+   ]
+  },
+  {
+   "id": "POR",
+   "name": "PORTUGAL",
+   "flag": "pt",
+   "color": "#006600",
+   "confetti": [
+    "#006600",
+    "#ff0000",
+    "#ffd700"
+   ]
+  },
+  {
+   "id": "ENG",
+   "name": "ENGLAND",
+   "flag": "gb-eng",
+   "color": "#cf142b",
+   "confetti": [
+    "#ffffff",
+    "#cf142b"
+   ]
+  },
+  {
+   "id": "USA",
+   "name": "USA",
+   "flag": "us",
+   "color": "#b22234",
+   "confetti": [
+    "#b22234",
+    "#ffffff",
+    "#3c3b6e"
+   ]
+  },
+  {
+   "id": "GER",
+   "name": "GERMANY",
+   "flag": "de",
+   "color": "#dd0000",
+   "confetti": [
+    "#111111",
+    "#dd0000",
+    "#ffce00"
+   ]
+  },
+  {
+   "id": "JPN",
+   "name": "JAPAN",
+   "flag": "jp",
+   "color": "#bc002d",
+   "confetti": [
+    "#ffffff",
+    "#bc002d"
+   ]
+  },
+  {
+   "id": "ITA",
+   "name": "ITALY",
+   "flag": "it",
+   "color": "#009246",
+   "confetti": [
+    "#009246",
+    "#ffffff",
+    "#ce2b37"
+   ]
+  },
+  {
+   "id": "BEL",
+   "name": "BELGIUM",
+   "flag": "be",
+   "color": "#fdda24",
+   "confetti": [
+    "#111111",
+    "#fdda24",
+    "#ef3340"
+   ]
+  },
+  {
+   "id": "URU",
+   "name": "URUGUAY",
+   "flag": "uy",
+   "color": "#0038a8",
+   "confetti": [
+    "#0038a8",
+    "#ffffff",
+    "#fcd116"
+   ]
+  },
+  {
+   "id": "MEX",
+   "name": "MEXICO",
+   "flag": "mx",
+   "color": "#006847",
+   "confetti": [
+    "#006847",
+    "#ffffff",
+    "#ce1126"
+   ]
+  },
+  {
+   "id": "SEN",
+   "name": "SENEGAL",
+   "flag": "sn",
+   "color": "#00853f",
+   "confetti": [
+    "#00853f",
+    "#fdef42",
+    "#e31b23"
+   ]
+  },
+  {
+   "id": "COL",
+   "name": "COLOMBIA",
+   "flag": "co",
+   "color": "#fcd116",
+   "confetti": [
+    "#fcd116",
+    "#003893",
+    "#ce1126"
+   ]
+  },
+  {
+   "id": "SUI",
+   "name": "SWITZERLAND",
+   "flag": "ch",
+   "color": "#d52b1e",
+   "confetti": [
+    "#d52b1e",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "KOR",
+   "name": "SOUTH KOREA",
+   "flag": "kr",
+   "color": "#cd2e3a",
+   "confetti": [
+    "#ffffff",
+    "#cd2e3a",
+    "#0047a0"
+   ]
+  }
+ ],
+ "end": {
+  "label": "MATCHDAY {N}: BIG MATCH",
+  "when": "NEXT SUNDAY NIGHT",
+  "cta": "YOUR PREDICTION IN THE COMMENTS",
+  "tiny": "Follow so you never miss a matchday",
+  "foot": "Physics simulation: no match is fixed, no real data."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "The Marble League, season 1 ⚽ 20 nations, 38 matchdays, one champion. Every Sunday night. Who's your team? 👇\n#football #soccer #marblerace #marbleleague\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}

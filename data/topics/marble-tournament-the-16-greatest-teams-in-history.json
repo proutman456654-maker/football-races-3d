@@ -1,0 +1,345 @@
+{
+ "format": "tournoi",
+ "lang": "en",
+ "title": "Marble tournament: the 16 greatest teams in history",
+ "seed": "greatest-teams-2026-11-13",
+ "hook": {
+  "small": "16 LEGENDARY TEAMS",
+  "big": "THE ALL-TIME CUP",
+  "question": "WHO'S THE GREATEST?"
+ },
+ "teams": [
+  {
+   "id": "B70",
+   "name": "BRAZIL 1970",
+   "flag": "br",
+   "color": "#009c3b",
+   "confetti": [
+    "#009c3b",
+    "#ffdf00",
+    "#002776"
+   ]
+  },
+  {
+   "id": "H54",
+   "name": "HUNGARY 1954",
+   "flag": "hu",
+   "color": "#ce2939",
+   "confetti": [
+    "#ce2939",
+    "#ffffff",
+    "#477050"
+   ]
+  },
+  {
+   "id": "N74",
+   "name": "NETHERLANDS 1974",
+   "flag": "nl",
+   "color": "#ff7f00",
+   "confetti": [
+    "#ae1c28",
+    "#ffffff",
+    "#21468b",
+    "#ff7f00"
+   ]
+  },
+  {
+   "id": "S10",
+   "name": "SPAIN 2010",
+   "flag": "es",
+   "color": "#aa151b",
+   "confetti": [
+    "#aa151b",
+    "#f1bf00"
+   ]
+  },
+  {
+   "id": "A86",
+   "name": "ARGENTINA 1986",
+   "flag": "ar",
+   "color": "#74acdf",
+   "confetti": [
+    "#74acdf",
+    "#ffffff",
+    "#f6b40e"
+   ]
+  },
+  {
+   "id": "F98",
+   "name": "FRANCE 1998",
+   "flag": "fr",
+   "color": "#002395",
+   "confetti": [
+    "#002395",
+    "#ffffff",
+    "#ed2939"
+   ]
+  },
+  {
+   "id": "G74",
+   "name": "W. GERMANY 1974",
+   "flag": "de",
+   "color": "#dd0000",
+   "confetti": [
+    "#111111",
+    "#dd0000",
+    "#ffce00"
+   ]
+  },
+  {
+   "id": "I82",
+   "name": "ITALY 1982",
+   "flag": "it",
+   "color": "#009246",
+   "confetti": [
+    "#009246",
+    "#ffffff",
+    "#ce2b37"
+   ]
+  },
+  {
+   "id": "BAR",
+   "name": "BARCELONA 2011",
+   "flag": "club-bar",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#a50044",
+     "#004d98"
+    ],
+    "code": "BAR"
+   },
+   "color": "#a50044",
+   "confetti": [
+    "#a50044",
+    "#004d98",
+    "#edbb00"
+   ]
+  },
+  {
+   "id": "MIL",
+   "name": "AC MILAN 1989",
+   "flag": "club-mil",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#fb090b",
+     "#111111"
+    ],
+    "code": "MIL"
+   },
+   "color": "#fb090b",
+   "confetti": [
+    "#fb090b",
+    "#111111",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "RMA",
+   "name": "REAL MADRID 1960",
+   "flag": "club-rma",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#febe10"
+    ],
+    "code": "RMA",
+    "ink": "#1a1a4a"
+   },
+   "color": "#febe10",
+   "confetti": [
+    "#ffffff",
+    "#febe10",
+    "#00529f"
+   ]
+  },
+  {
+   "id": "AJX",
+   "name": "AJAX 1972",
+   "flag": "club-ajx",
+   "club": {
+    "pattern": "band",
+    "colors": [
+     "#ffffff",
+     "#d2122e"
+    ],
+    "code": "AJX",
+    "ink": "#1a1a1a"
+   },
+   "color": "#d2122e",
+   "confetti": [
+    "#ffffff",
+    "#d2122e"
+   ]
+  },
+  {
+   "id": "BAY",
+   "name": "BAYERN 2013",
+   "flag": "club-bay",
+   "club": {
+    "pattern": "halves",
+    "colors": [
+     "#dc052d",
+     "#0066b2"
+    ],
+    "code": "BAY"
+   },
+   "color": "#dc052d",
+   "confetti": [
+    "#dc052d",
+    "#ffffff",
+    "#0066b2"
+   ]
+  },
+  {
+   "id": "MUN",
+   "name": "MAN UNITED 1999",
+   "flag": "club-mun",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#d3121b",
+     "#111111"
+    ],
+    "code": "MUN"
+   },
+   "color": "#d3121b",
+   "confetti": [
+    "#d3121b",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "MCI",
+   "name": "MAN CITY 2023",
+   "flag": "club-mci",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#6cabdd",
+     "#ffffff"
+    ],
+    "code": "MCI"
+   },
+   "color": "#6cabdd",
+   "confetti": [
+    "#6cabdd",
+    "#ffffff",
+    "#1c2c5b"
+   ]
+  },
+  {
+   "id": "ARS",
+   "name": "ARSENAL 2004",
+   "flag": "club-ars",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ef0107",
+     "#ffffff"
+    ],
+    "code": "ARS"
+   },
+   "color": "#ef0107",
+   "confetti": [
+    "#ef0107",
+    "#ffffff",
+    "#9c824a"
+   ]
+  }
+ ],
+ "pairs": [
+  [
+   "B70",
+   "ARS"
+  ],
+  [
+   "BAR",
+   "H54"
+  ],
+  [
+   "N74",
+   "MUN"
+  ],
+  [
+   "RMA",
+   "F98"
+  ],
+  [
+   "MIL",
+   "S10"
+  ],
+  [
+   "A86",
+   "BAY"
+  ],
+  [
+   "G74",
+   "AJX"
+  ],
+  [
+   "MCI",
+   "I82"
+  ]
+ ],
+ "rounds": [
+  {
+   "name": "ROUND OF 16",
+   "beats": 5,
+   "win": [
+    0.95,
+    1.7
+   ]
+  },
+  {
+   "name": "QUARTER-FINALS",
+   "beats": 7,
+   "win": [
+    1.35,
+    2.6
+   ]
+  },
+  {
+   "name": "SEMI-FINALS",
+   "beats": 9,
+   "win": [
+    1.9,
+    3.5
+   ]
+  },
+  {
+   "name": "FINAL",
+   "beats": 14,
+   "win": [
+    3.0,
+    4.6
+   ]
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "{W} CHAMPIONS!",
+   "small": "{W} BEAT {F} IN THE FINAL"
+  },
+  "two": {
+   "big": "WHO DID YOU PICK?",
+   "small": "COMMENT YOUR PREDICTION",
+   "tiny": "Follow for the next tournament"
+  },
+  "foot": "Physics simulation: chance decides every match, no real data."
+ },
+ "music": {
+  "file": "assets/music/sonican-epic-orchestral-music-dramatic-loop-467131.mp3",
+  "credit": "",
+  "pulse": 1.11732,
+  "phase": 0.035,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Brazil 1970, Barcelona 2011, AC Milan 1989… 16 legendary teams, one marble champion 🏆 Who's the greatest ever? 👇\n#football #soccer #marblerace #footballhistory"
+}

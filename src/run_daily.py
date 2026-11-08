@@ -78,6 +78,8 @@ def main():
             failed = True
             continue
         data_file = TOPICS / f"{entry['id']}.json"
+        if not data_file.exists() and entry["concept"] == "ligue" and "season 1: matchday" in entry["title"]:
+            data_file = TOPICS / "marble-league-season-1.json"  # one file for the whole season: the table lives in state/
         if not data_file.exists():
             report.append(f"❌ Données manquantes pour {when} : {entry['title']} (data/topics/{entry['id']}.json)")
             failed = True

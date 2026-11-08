@@ -1,0 +1,403 @@
+{
+ "format": "tournoi",
+ "lang": "en",
+ "title": "Marble tournament: the 16 biggest English clubs",
+ "seed": "english-clubs-2026-11-15",
+ "hook": {
+  "small": "16 ENGLISH GIANTS",
+  "big": "ENGLAND'S MARBLE CUP",
+  "question": "WHO WINS IT?"
+ },
+ "teams": [
+  {
+   "id": "MUN",
+   "name": "MAN UNITED",
+   "flag": "club-mun",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#d3121b",
+     "#111111"
+    ],
+    "code": "MUN"
+   },
+   "color": "#d3121b",
+   "confetti": [
+    "#d3121b",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "MCI",
+   "name": "MAN CITY",
+   "flag": "club-mci",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#6cabdd",
+     "#ffffff"
+    ],
+    "code": "MCI"
+   },
+   "color": "#6cabdd",
+   "confetti": [
+    "#6cabdd",
+    "#ffffff",
+    "#1c2c5b"
+   ]
+  },
+  {
+   "id": "LIV",
+   "name": "LIVERPOOL",
+   "flag": "club-liv",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#c8102e",
+     "#00b2a9"
+    ],
+    "code": "LIV"
+   },
+   "color": "#c8102e",
+   "confetti": [
+    "#c8102e",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "EVE",
+   "name": "EVERTON",
+   "flag": "club-eve",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#003399",
+     "#ffffff"
+    ],
+    "code": "EVE"
+   },
+   "color": "#003399",
+   "confetti": [
+    "#003399",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "ARS",
+   "name": "ARSENAL",
+   "flag": "club-ars",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ef0107",
+     "#ffffff"
+    ],
+    "code": "ARS"
+   },
+   "color": "#ef0107",
+   "confetti": [
+    "#ef0107",
+    "#ffffff",
+    "#9c824a"
+   ]
+  },
+  {
+   "id": "TOT",
+   "name": "TOTTENHAM",
+   "flag": "club-tot",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#132257"
+    ],
+    "code": "TOT",
+    "ink": "#132257"
+   },
+   "color": "#132257",
+   "confetti": [
+    "#ffffff",
+    "#132257"
+   ]
+  },
+  {
+   "id": "NEW",
+   "name": "NEWCASTLE",
+   "flag": "club-new",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#ffffff",
+     "#111111"
+    ],
+    "code": "NEW",
+    "ink": "#111111"
+   },
+   "color": "#8a8a8a",
+   "confetti": [
+    "#111111",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "SUN",
+   "name": "SUNDERLAND",
+   "flag": "club-sun",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#ffffff",
+     "#eb172b"
+    ],
+    "code": "SUN",
+    "ink": "#111111"
+   },
+   "color": "#eb172b",
+   "confetti": [
+    "#eb172b",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "CHE",
+   "name": "CHELSEA",
+   "flag": "club-che",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#034694",
+     "#ffffff"
+    ],
+    "code": "CHE"
+   },
+   "color": "#034694",
+   "confetti": [
+    "#034694",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "WHU",
+   "name": "WEST HAM",
+   "flag": "club-whu",
+   "club": {
+    "pattern": "sides",
+    "colors": [
+     "#7a263a",
+     "#1bb1e7"
+    ],
+    "code": "WHU"
+   },
+   "color": "#7a263a",
+   "confetti": [
+    "#7a263a",
+    "#1bb1e7"
+   ]
+  },
+  {
+   "id": "AVL",
+   "name": "ASTON VILLA",
+   "flag": "club-avl",
+   "club": {
+    "pattern": "sides",
+    "colors": [
+     "#670e36",
+     "#95bfe5"
+    ],
+    "code": "AVL"
+   },
+   "color": "#670e36",
+   "confetti": [
+    "#670e36",
+    "#95bfe5"
+   ]
+  },
+  {
+   "id": "WOL",
+   "name": "WOLVES",
+   "flag": "club-wol",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#fdb913",
+     "#231f20"
+    ],
+    "code": "WOL",
+    "ink": "#231f20"
+   },
+   "color": "#fdb913",
+   "confetti": [
+    "#fdb913",
+    "#231f20"
+   ]
+  },
+  {
+   "id": "LEE",
+   "name": "LEEDS",
+   "flag": "club-lee",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#1d428a"
+    ],
+    "code": "LEE",
+    "ink": "#1d428a"
+   },
+   "color": "#1d428a",
+   "confetti": [
+    "#ffffff",
+    "#1d428a",
+    "#ffcd00"
+   ]
+  },
+  {
+   "id": "NFO",
+   "name": "NOTT'M FOREST",
+   "flag": "club-nfo",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#dd0000",
+     "#ffffff"
+    ],
+    "code": "NFO"
+   },
+   "color": "#dd0000",
+   "confetti": [
+    "#dd0000",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "BLB",
+   "name": "BLACKBURN",
+   "flag": "club-blb",
+   "club": {
+    "pattern": "halves",
+    "colors": [
+     "#009ee0",
+     "#ffffff"
+    ],
+    "code": "BLB",
+    "ink": "#0a2a4a"
+   },
+   "color": "#009ee0",
+   "confetti": [
+    "#009ee0",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "LEI",
+   "name": "LEICESTER",
+   "flag": "club-lei",
+   "club": {
+    "pattern": "band",
+    "colors": [
+     "#003090",
+     "#fdbe11"
+    ],
+    "code": "LEI"
+   },
+   "color": "#003090",
+   "confetti": [
+    "#003090",
+    "#fdbe11"
+   ]
+  }
+ ],
+ "pairs": [
+  [
+   "MUN",
+   "MCI"
+  ],
+  [
+   "LIV",
+   "EVE"
+  ],
+  [
+   "ARS",
+   "TOT"
+  ],
+  [
+   "NEW",
+   "SUN"
+  ],
+  [
+   "CHE",
+   "WHU"
+  ],
+  [
+   "AVL",
+   "WOL"
+  ],
+  [
+   "LEE",
+   "NFO"
+  ],
+  [
+   "BLB",
+   "LEI"
+  ]
+ ],
+ "rounds": [
+  {
+   "name": "ROUND OF 16",
+   "beats": 5,
+   "win": [
+    0.95,
+    1.7
+   ]
+  },
+  {
+   "name": "QUARTER-FINALS",
+   "beats": 7,
+   "win": [
+    1.35,
+    2.6
+   ]
+  },
+  {
+   "name": "SEMI-FINALS",
+   "beats": 9,
+   "win": [
+    1.9,
+    3.5
+   ]
+  },
+  {
+   "name": "FINAL",
+   "beats": 14,
+   "win": [
+    3.0,
+    4.6
+   ]
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "{W} CHAMPIONS!",
+   "small": "{W} BEAT {F} IN THE FINAL"
+  },
+  "two": {
+   "big": "WHO DID YOU PICK?",
+   "small": "COMMENT YOUR PREDICTION",
+   "tiny": "Follow for the next tournament"
+  },
+  "foot": "Physics simulation: chance decides every match, no real data."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "United vs City, Liverpool vs Everton, Arsenal vs Spurs and the Tyne-Wear derby, all in round one 👀 16 English clubs, one marble champion. Who wins it? 👇\n#premierleague #football #soccer #marblerace\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}
