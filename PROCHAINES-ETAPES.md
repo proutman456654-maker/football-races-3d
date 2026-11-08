@@ -11,19 +11,18 @@ nécessaire.
 | Fabrication des 2 vidéos du jour | chaque matin (08:17, secours 13:47) | GitHub → Actions → Daily |
 | Vérification des posts + alertes | toutes les 30 min autour de 21 h et 2 h | GitHub → Actions → Check posts |
 | Écriture des données des 16 jours suivants | lundi et jeudi à 7 h | claude.ai/code/routines |
+| Statistiques de la chaîne | quand Stats Hub est ouvert (toutes les 6 h) | `stats-hub` → Start dashboard.bat |
 
 Si une donnée manque ou si un sujet plante, un **tournoi de billes de secours** part à la place et Telegram le dit.
 
 ## À faire
 
-1. **Stats Hub** : ajouter la chaîne au tableau de bord. Onglet Settings → nom `Football Races 3D`, ta clé Zernio
-   du foot (tu la colles toi-même), dossier `C:\Users\wqach\football-races-3d` → Check and add.
-2. **Avant le 29 nov 2026** (avec Claude) : construire les nouveaux formats. Blind Ranking (29 nov), mode rapide et
+1. **Avant le 29 nov 2026** (avec Claude) : construire les nouveaux formats. Blind Ranking (29 nov), mode rapide et
    billes de joueurs (30 nov), 60-Second Challenge (1er déc), Penalties (6 déc), Draft et Mystery XI (20-21 déc),
    Legendary Match (22 déc), Evolution et Who Am I (janvier). Sans eux, ces jours-là deviennent des tournois de secours.
-3. **Vers le 22 nov 2026** : regarder les stats TikTok (pays des spectateurs, quel créneau marche le mieux) et
+2. **Vers le 22 nov 2026** : regarder les stats TikTok (pays des spectateurs, quel créneau marche le mieux) et
    décider si on garde 21 h et 2 h.
-4. **23 nov 2026** : la donnée NWSL s'écrit après la finale du 21 nov (routine du lundi).
+3. **23 nov 2026** : la donnée NWSL s'écrit après la finale du 21 nov (routine du lundi).
 
 ## Vérifier que tout va bien
 
