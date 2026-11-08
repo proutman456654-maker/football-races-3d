@@ -93,24 +93,28 @@ def check_live_posts():
 
 
 def check_today_scheduled():
-    """An hour after the first post time, say it once if no video was scheduled today: GitHub may have
-    skipped both daily runs, or they stopped before they could send their own alert."""
+    """An hour after each post time, say it once if nothing was scheduled for that slot today: GitHub may have
+    skipped both daily runs, or they stopped before they could send their own alert.
+    Checked slot by slot: the 02:00 post comes from the day before, so a whole-day check would miss a lost 21:00."""
     config = load_config()
     now = datetime.now(ZoneInfo(config["timezone"]))
     today = now.strftime("%Y-%m-%d")
     done = load_json(NOTIFIED_FILE, [])
-    if f"missing-{today}" in done:
-        return
     posts = load_json(STATE_FILE, {}).get("posts", [])
     for lang, lang_cfg in config["languages"].items():
-        h, m = map(int, min(lang_cfg["post_times"]).split(":"))
-        if not lang_cfg.get("enabled", True) or now.hour * 60 + now.minute < h * 60 + m + 60:
+        if not lang_cfg.get("enabled", True):
             continue
-        if not any(p.get("when", "").startswith(today) for p in posts if p.get("lang", lang) == lang):
-            send("❌ Aucune vidéo programmée aujourd'hui : GitHub n'a pas lancé (ou pas terminé) la fabrication. "
-                 "Dis-le à Claude.")
-            save_json(NOTIFIED_FILE, (done + [f"missing-{today}"])[-60:])
-            return
+        for t in lang_cfg["post_times"]:
+            key = f"missing-{today}-{t}"
+            h, m = map(int, t.split(":"))
+            if key in done or now.hour * 60 + now.minute < h * 60 + m + 60:
+                continue
+            slot = f"{today}T{t}"  # "slot" = planned time; posts scheduled before it existed only have "when"
+            if not any((p.get("slot") or p.get("when", "")).startswith(slot) for p in posts if p.get("lang", lang) == lang):
+                send(f"❌ Aucune vidéo programmée pour {t} aujourd'hui : GitHub n'a pas lancé (ou pas terminé) "
+                     "la fabrication. Dis-le à Claude.")
+                done = (done + [key])[-60:]
+                save_json(NOTIFIED_FILE, done)
 
 
 def check_accounts_now():

@@ -6,6 +6,7 @@
     "instagram"
   ],
   "min_seconds": 61,
+  "post_time_jitter_minutes": 35,
   "telegram_chat_id": "",
   "tiktok_ai_label_field": "videoMadeWithAi",
   "languages": {

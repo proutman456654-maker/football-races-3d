@@ -8,6 +8,8 @@ rendered in code with HyperFrames and three.js, two videos a day at 21:00 and 02
 - `engine/` the 3D engine (formats, world, flags from flag-icons, MIT)
 - `src/` make a video, schedule it on Zernio, Telegram alerts
 - `.github/workflows/` the daily render and the post checks
+- `tools/audit.py` the full audit (read-only), to run until it says 0 problem(s)
+- `profile/PROFILE.md` the TikTok and Instagram profile kit, `PROCHAINES-ETAPES.md` what is left to do (in French)
 
 Keys live in `.env` on the PC and in the repository Secrets on GitHub, never in a file of this repository.
 Pixabay music is downloaded at render time and never stored here.
