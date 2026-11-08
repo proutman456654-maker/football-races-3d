@@ -351,11 +351,6 @@
 },
 {
 "concept": "tournoi",
-"title": "Marble tournament: the 16 biggest MLS clubs",
-"series": "Brackets"
-},
-{
-"concept": "tournoi",
 "title": "Marble tournament: 16 USWNT legends",
 "series": "Brackets"
 },
@@ -833,5 +828,10 @@
 "concept": "match",
 "title": "The legendary match: Morocco vs Portugal 2022, Africa's first semi-final",
 "series": "Anniversary"
+},
+{
+"concept": "course",
+"title": "Every Saudi Pro League champion, year by year",
+"series": "Every winner"
 }
 ]

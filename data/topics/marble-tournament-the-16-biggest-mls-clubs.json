@@ -1,0 +1,402 @@
+{
+ "format": "tournoi",
+ "lang": "en",
+ "title": "Marble tournament: the 16 biggest MLS clubs",
+ "seed": "marble-tournament-the-16-biggest-mls-clubs",
+ "hook": {
+  "small": "16 MLS GIANTS",
+  "big": "THE MLS MARBLE CUP",
+  "question": "WHO WINS IT?"
+ },
+ "teams": [
+  {
+   "id": "LAG",
+   "name": "LA GALAXY",
+   "flag": "club-lag",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#00245d",
+     "#ffd200"
+    ],
+    "code": "LAG"
+   },
+   "color": "#00245d",
+   "confetti": [
+    "#00245d",
+    "#ffd200",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "LAF",
+   "name": "LAFC",
+   "flag": "club-laf",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#111111",
+     "#c39e6d"
+    ],
+    "code": "LAF"
+   },
+   "color": "#c39e6d",
+   "confetti": [
+    "#111111",
+    "#c39e6d"
+   ]
+  },
+  {
+   "id": "SEA",
+   "name": "SEATTLE",
+   "flag": "club-sea",
+   "club": {
+    "pattern": "sides",
+    "colors": [
+     "#5d9732",
+     "#005595"
+    ],
+    "code": "SEA"
+   },
+   "color": "#5d9732",
+   "confetti": [
+    "#5d9732",
+    "#005595",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "POR",
+   "name": "PORTLAND",
+   "flag": "club-por",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#004812",
+     "#ebe72b"
+    ],
+    "code": "POR"
+   },
+   "color": "#004812",
+   "confetti": [
+    "#004812",
+    "#ebe72b"
+   ]
+  },
+  {
+   "id": "NYC",
+   "name": "NYCFC",
+   "flag": "club-nyc",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#6cace4",
+     "#041e42"
+    ],
+    "code": "NYC"
+   },
+   "color": "#6cace4",
+   "confetti": [
+    "#6cace4",
+    "#041e42",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "NYR",
+   "name": "NY RED BULLS",
+   "flag": "club-nyr",
+   "club": {
+    "pattern": "band",
+    "colors": [
+     "#ffffff",
+     "#ba0c2f"
+    ],
+    "code": "NYR",
+    "ink": "#23326a"
+   },
+   "color": "#ba0c2f",
+   "confetti": [
+    "#ffffff",
+    "#ba0c2f",
+    "#23326a"
+   ]
+  },
+  {
+   "id": "MIA",
+   "name": "INTER MIAMI",
+   "flag": "club-mia",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#f7b5cd",
+     "#231f20"
+    ],
+    "code": "MIA",
+    "ink": "#231f20"
+   },
+   "color": "#f7b5cd",
+   "confetti": [
+    "#f7b5cd",
+    "#231f20"
+   ]
+  },
+  {
+   "id": "ATL",
+   "name": "ATLANTA UNITED",
+   "flag": "club-atl",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#80000a",
+     "#221f1f"
+    ],
+    "code": "ATL"
+   },
+   "color": "#80000a",
+   "confetti": [
+    "#80000a",
+    "#221f1f",
+    "#a29061"
+   ]
+  },
+  {
+   "id": "DCU",
+   "name": "DC UNITED",
+   "flag": "club-dcu",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#111111",
+     "#ef3e42"
+    ],
+    "code": "DCU"
+   },
+   "color": "#ef3e42",
+   "confetti": [
+    "#111111",
+    "#ef3e42"
+   ]
+  },
+  {
+   "id": "PHI",
+   "name": "PHILADELPHIA",
+   "flag": "club-phi",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#071b2c",
+     "#b19b69"
+    ],
+    "code": "PHI"
+   },
+   "color": "#071b2c",
+   "confetti": [
+    "#071b2c",
+    "#b19b69"
+   ]
+  },
+  {
+   "id": "CLB",
+   "name": "COLUMBUS",
+   "flag": "club-clb",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#fedd00",
+     "#111111"
+    ],
+    "code": "CLB",
+    "ink": "#111111"
+   },
+   "color": "#fedd00",
+   "confetti": [
+    "#fedd00",
+    "#111111"
+   ]
+  },
+  {
+   "id": "TOR",
+   "name": "TORONTO FC",
+   "flag": "club-tor",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#b81137",
+     "#455560"
+    ],
+    "code": "TOR"
+   },
+   "color": "#b81137",
+   "confetti": [
+    "#b81137",
+    "#455560"
+   ]
+  },
+  {
+   "id": "SKC",
+   "name": "SPORTING KC",
+   "flag": "club-skc",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#91b0d5",
+     "#002f65"
+    ],
+    "code": "SKC",
+    "ink": "#002f65"
+   },
+   "color": "#91b0d5",
+   "confetti": [
+    "#91b0d5",
+    "#002f65"
+   ]
+  },
+  {
+   "id": "HOU",
+   "name": "HOUSTON",
+   "flag": "club-hou",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ff6b00",
+     "#101820"
+    ],
+    "code": "HOU"
+   },
+   "color": "#ff6b00",
+   "confetti": [
+    "#ff6b00",
+    "#101820"
+   ]
+  },
+  {
+   "id": "RSL",
+   "name": "REAL SALT LAKE",
+   "flag": "club-rsl",
+   "club": {
+    "pattern": "halves",
+    "colors": [
+     "#b30838",
+     "#013a81"
+    ],
+    "code": "RSL"
+   },
+   "color": "#b30838",
+   "confetti": [
+    "#b30838",
+    "#013a81",
+    "#ffd700"
+   ]
+  },
+  {
+   "id": "SJE",
+   "name": "SAN JOSE",
+   "flag": "club-sje",
+   "club": {
+    "pattern": "sides",
+    "colors": [
+     "#111111",
+     "#0067b1"
+    ],
+    "code": "SJE"
+   },
+   "color": "#0067b1",
+   "confetti": [
+    "#111111",
+    "#0067b1"
+   ]
+  }
+ ],
+ "pairs": [
+  [
+   "LAG",
+   "LAF"
+  ],
+  [
+   "SEA",
+   "POR"
+  ],
+  [
+   "NYC",
+   "NYR"
+  ],
+  [
+   "MIA",
+   "ATL"
+  ],
+  [
+   "DCU",
+   "PHI"
+  ],
+  [
+   "CLB",
+   "TOR"
+  ],
+  [
+   "SKC",
+   "HOU"
+  ],
+  [
+   "RSL",
+   "SJE"
+  ]
+ ],
+ "rounds": [
+  {
+   "name": "ROUND OF 16",
+   "beats": 5,
+   "win": [
+    0.95,
+    1.7
+   ]
+  },
+  {
+   "name": "QUARTER-FINALS",
+   "beats": 7,
+   "win": [
+    1.35,
+    2.6
+   ]
+  },
+  {
+   "name": "SEMI-FINALS",
+   "beats": 9,
+   "win": [
+    1.9,
+    3.5
+   ]
+  },
+  {
+   "name": "FINAL",
+   "beats": 14,
+   "win": [
+    3.0,
+    4.6
+   ]
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "{W} CHAMPIONS!",
+   "small": "{W} BEAT {F} IN THE FINAL"
+  },
+  "two": {
+   "big": "WHO DID YOU PICK?",
+   "small": "COMMENT YOUR PREDICTION",
+   "tiny": "Follow for the next tournament"
+  },
+  "foot": "Physics simulation: chance decides every match, no real data."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "El Tráfico, Cascadia and the Hudson River derby, all in round one 👀 16 MLS clubs, one marble champion. Who wins it? 👇\n#mls #soccer #marblerace #usa"
+}

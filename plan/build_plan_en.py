@@ -219,7 +219,7 @@ for t, tags in [("Europe vs South America: every World Cup, year by year", ["Wor
 # sujets que le moteur Course sait déjà faire : au plus 8 vainqueurs différents et 48 éditions ; les autres attendent le mode rapide
 READY_NOW = {"Every World Cup winner, year by year", "Every Premier League champion, year by year", "Europe vs South America: every World Cup, year by year",
              "Premier League titles by city, season by season", "Every Gold Cup winner, year by year", "Every Copa América winner, year by year",
-             "Every Saudi Pro League champion, year by year", "Every Women's Euros winner, year by year", "Every WSL champion, year by year",
+             "Every Women's Euros winner, year by year", "Every WSL champion, year by year",
              "Every NWSL champion, year by year", "Every Women's World Cup winner, year by year"}
 for t in TOPICS["course"]:
     if t["title"] not in READY_NOW:
