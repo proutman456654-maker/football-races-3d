@@ -79,7 +79,10 @@ def post_time(entry, jitter_minutes):
     The shift is drawn from the topic id, so a backup run gets the same time (and Zernio's duplicate guard works)."""
     slot = datetime.fromisoformat(f"{entry['date']}T{entry['time']}")
     shift = random.Random(f"time-{entry['id']}").randint(-jitter_minutes, jitter_minutes) if jitter_minutes else 0
-    return (slot + timedelta(minutes=shift)).strftime("%Y-%m-%dT%H:%M")
+    when = (slot + timedelta(minutes=shift)).replace(tzinfo=ZoneInfo(load_config()["timezone"]))
+    # a time that does not exist (the spring DST change skips 02:00-03:00 in Paris) moves 1 h later
+    when = when.astimezone(ZoneInfo("UTC")).astimezone(when.tzinfo)
+    return when.strftime("%Y-%m-%dT%H:%M")
 
 
 def make_topic(entry, data_file):
