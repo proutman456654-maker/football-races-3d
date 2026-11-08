@@ -16,12 +16,12 @@
         "02:00"
       ],
       "accounts": {
-        "tiktok": "",
-        "instagram": ""
+        "tiktok": "6af06d0d71ac1590075e3336",
+        "instagram": "6af072742d1bd34533f48423"
       },
       "expected_usernames": {
         "tiktok": "footskillzzz_edits",
-        "instagram": ""
+        "instagram": "footskillzzz_edits"
       }
     }
   },

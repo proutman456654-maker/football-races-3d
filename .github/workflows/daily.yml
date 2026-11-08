@@ -20,6 +20,10 @@ on:
         description: "programme day YYYY-MM-DD (empty = today)"
         required: false
         default: ""
+      topic:
+        description: "test: make only this topic (file name in data/topics, without .json); never published"
+        required: false
+        default: ""
 
 permissions:
   contents: write  # to save state.json and the Marble League table
@@ -71,7 +75,9 @@ jobs:
           DO_NOT_TRACK: "1"
           MODE: ${{ github.event.inputs.mode || 'run' }}
           DAY: ${{ github.event.inputs.day }}
+          TOPIC: ${{ github.event.inputs.topic }}
         run: |
+          if [ -n "$TOPIC" ]; then python src/make_video.py "data/topics/$TOPIC.json"; exit $?; fi
           EXTRA=""
           [ -n "$DAY" ] && EXTRA="--day $DAY"
           case "$MODE" in
