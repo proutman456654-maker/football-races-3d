@@ -1,0 +1,128 @@
+{
+ "format": "top",
+ "lang": "en",
+ "title": "Arsenal's 10 all-time top scorers",
+ "unit": "GOALS",
+ "club": {
+  "name": "ARSENAL",
+  "pattern": "plain",
+  "colors": [
+   "#ef0107",
+   "#ffffff",
+   "#ffffff"
+  ]
+ },
+ "hook": {
+  "small": "THE 10 GREATEST SCORERS",
+  "big": "IN ARSENAL HISTORY",
+  "question": "WHO'S NO. 1?"
+ },
+ "items": [
+  {
+   "rank": 10,
+   "name": "JACK",
+   "full": "David Jack",
+   "value": 124,
+   "years": "1928–1934",
+   "country": "England"
+  },
+  {
+   "rank": 9,
+   "name": "HULME",
+   "full": "Joe Hulme",
+   "value": 125,
+   "years": "1926–1938",
+   "country": "England"
+  },
+  {
+   "rank": 8,
+   "name": "VAN PERSIE",
+   "full": "Robin van Persie",
+   "value": 132,
+   "years": "2004–2012",
+   "country": "Netherlands"
+  },
+  {
+   "rank": 7,
+   "name": "LISHMAN",
+   "full": "Doug Lishman",
+   "value": 137,
+   "years": "1948–1956",
+   "country": "England"
+  },
+  {
+   "rank": 6,
+   "name": "DRAKE",
+   "full": "Ted Drake",
+   "value": 139,
+   "years": "1934–1945",
+   "country": "England"
+  },
+  {
+   "rank": 5,
+   "name": "BRAIN",
+   "full": "Jimmy Brain",
+   "value": 139,
+   "years": "1923–1931",
+   "country": "England",
+   "note": "LEVEL WITH DRAKE ON 139"
+  },
+  {
+   "rank": 4,
+   "name": "RADFORD",
+   "full": "John Radford",
+   "value": 149,
+   "years": "1964–1976",
+   "country": "England"
+  },
+  {
+   "rank": 3,
+   "name": "BASTIN",
+   "full": "Cliff Bastin",
+   "value": 178,
+   "years": "1929–1947",
+   "country": "England"
+  },
+  {
+   "rank": 2,
+   "name": "WRIGHT",
+   "full": "Ian Wright",
+   "value": 185,
+   "years": "1991–1998",
+   "country": "England",
+   "note": "185 IN 288 GAMES"
+  },
+  {
+   "rank": 1,
+   "name": "HENRY",
+   "full": "Thierry Henry",
+   "value": 228,
+   "years": "1999–2007 · 2012",
+   "country": "France",
+   "note": "THE CLUB RECORD"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "HENRY: 228 GOALS",
+   "small": "ARSENAL'S ALL-TIME TOP SCORER"
+  },
+  "two": {
+   "big": "WHO'S MISSING FROM THIS TOP 10?",
+   "small": "COMMENT THEIR NAME",
+   "tiny": "Follow for the next top 10"
+  },
+  "foot": "Source: Wikipedia, competitive matches, November 2026."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "Arsenal's 10 greatest scorers ever ⚽ Henry, Wright, Van Persie… who's missing from this top 10? 👇\n#arsenal #afc #football #soccer"
+}

@@ -1,0 +1,128 @@
+{
+ "format": "top",
+ "lang": "en",
+ "title": "Liverpool's 10 all-time top scorers",
+ "unit": "GOALS",
+ "club": {
+  "name": "LIVERPOOL",
+  "pattern": "plain",
+  "colors": [
+   "#c8102e",
+   "#ffffff",
+   "#f6eb61"
+  ]
+ },
+ "hook": {
+  "small": "THE 10 GREATEST SCORERS",
+  "big": "IN LIVERPOOL HISTORY",
+  "question": "WHO'S NO. 1?"
+ },
+ "items": [
+  {
+   "rank": 10,
+   "name": "CHAMBERS",
+   "full": "Harry Chambers",
+   "value": 151,
+   "years": "1915–1928",
+   "country": "England"
+  },
+  {
+   "rank": 9,
+   "name": "OWEN",
+   "full": "Michael Owen",
+   "value": 158,
+   "years": "1996–2004",
+   "country": "England"
+  },
+  {
+   "rank": 8,
+   "name": "DALGLISH",
+   "full": "Kenny Dalglish",
+   "value": 172,
+   "years": "1977–1990",
+   "country": "Scotland"
+  },
+  {
+   "rank": 7,
+   "name": "FOWLER",
+   "full": "Robbie Fowler",
+   "value": 183,
+   "years": "1993–2001 · 2006–07",
+   "country": "England"
+  },
+  {
+   "rank": 6,
+   "name": "GERRARD",
+   "full": "Steven Gerrard",
+   "value": 186,
+   "years": "1998–2015",
+   "country": "England",
+   "note": "THE CAPTAIN: 710 GAMES"
+  },
+  {
+   "rank": 5,
+   "name": "LIDDELL",
+   "full": "Billy Liddell",
+   "value": 228,
+   "years": "1938–1961",
+   "country": "Scotland"
+  },
+  {
+   "rank": 4,
+   "name": "HODGSON",
+   "full": "Gordon Hodgson",
+   "value": 241,
+   "years": "1925–1936",
+   "country": "England"
+  },
+  {
+   "rank": 3,
+   "name": "SALAH",
+   "full": "Mohamed Salah",
+   "value": 257,
+   "years": "2017–2026",
+   "country": "Egypt",
+   "note": "THE MODERN KING"
+  },
+  {
+   "rank": 2,
+   "name": "HUNT",
+   "full": "Roger Hunt",
+   "value": 285,
+   "years": "1958–1969",
+   "country": "England"
+  },
+  {
+   "rank": 1,
+   "name": "RUSH",
+   "full": "Ian Rush",
+   "value": 346,
+   "years": "1980–87 · 1988–96",
+   "country": "Wales",
+   "note": "346: THE CLUB RECORD"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "RUSH: 346 GOALS",
+   "small": "LIVERPOOL'S ALL-TIME TOP SCORER"
+  },
+  "two": {
+   "big": "WHO'S MISSING FROM THIS TOP 10?",
+   "small": "COMMENT THEIR NAME",
+   "tiny": "Follow for the next top 10"
+  },
+  "foot": "Source: Wikipedia, competitive matches, November 2026."
+ },
+ "music": {
+  "file": "assets/music/sonican-epic-orchestral-music-dramatic-loop-467131.mp3",
+  "credit": "",
+  "pulse": 1.11732,
+  "phase": 0.035,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Liverpool's 10 greatest scorers ever ⚽ Rush, Salah, Gerrard… who's missing from this top 10? 👇\n#liverpool #lfc #football #soccer"
+}

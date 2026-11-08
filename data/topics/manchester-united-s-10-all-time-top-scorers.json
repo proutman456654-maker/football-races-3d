@@ -1,0 +1,130 @@
+{
+ "format": "top",
+ "lang": "en",
+ "title": "Manchester United's 10 all-time top scorers",
+ "unit": "GOALS",
+ "club": {
+  "name": "MAN UNITED",
+  "pattern": "plain",
+  "colors": [
+   "#d3121b",
+   "#ffffff",
+   "#ffffff"
+  ]
+ },
+ "hook": {
+  "small": "THE 10 GREATEST SCORERS",
+  "big": "IN MAN UNITED HISTORY",
+  "question": "WHO'S NO. 1?"
+ },
+ "items": [
+  {
+   "rank": 10,
+   "name": "SCHOLES",
+   "full": "Paul Scholes",
+   "value": 155,
+   "years": "1994–2013",
+   "country": "England"
+  },
+  {
+   "rank": 9,
+   "name": "HUGHES",
+   "full": "Mark Hughes",
+   "value": 163,
+   "years": "1983–86 · 1988–95",
+   "country": "Wales"
+  },
+  {
+   "rank": 8,
+   "name": "GIGGS",
+   "full": "Ryan Giggs",
+   "value": 168,
+   "years": "1991–2014",
+   "country": "Wales",
+   "note": "963 GAMES: THE CLUB RECORD"
+  },
+  {
+   "rank": 7,
+   "name": "SPENCE",
+   "full": "Joe Spence",
+   "value": 168,
+   "years": "1919–1933",
+   "country": "England",
+   "note": "LEVEL WITH GIGGS ON 168"
+  },
+  {
+   "rank": 6,
+   "name": "BEST",
+   "full": "George Best",
+   "value": 179,
+   "years": "1963–1974",
+   "country": "Northern Ireland"
+  },
+  {
+   "rank": 5,
+   "name": "VIOLLET",
+   "full": "Dennis Viollet",
+   "value": 179,
+   "years": "1952–1962",
+   "country": "England",
+   "note": "LEVEL WITH BEST ON 179"
+  },
+  {
+   "rank": 4,
+   "name": "ROWLEY",
+   "full": "Jack Rowley",
+   "value": 211,
+   "years": "1937–1955",
+   "country": "England"
+  },
+  {
+   "rank": 3,
+   "name": "LAW",
+   "full": "Denis Law",
+   "value": 237,
+   "years": "1962–1973",
+   "country": "Scotland"
+  },
+  {
+   "rank": 2,
+   "name": "CHARLTON",
+   "full": "Bobby Charlton",
+   "value": 249,
+   "years": "1956–1973",
+   "country": "England",
+   "note": "758 GAMES FOR UNITED"
+  },
+  {
+   "rank": 1,
+   "name": "ROONEY",
+   "full": "Wayne Rooney",
+   "value": 253,
+   "years": "2004–2017",
+   "country": "England",
+   "note": "THE CLUB RECORD"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "ROONEY: 253 GOALS",
+   "small": "UNITED'S ALL-TIME TOP SCORER"
+  },
+  "two": {
+   "big": "WHO'S MISSING FROM THIS TOP 10?",
+   "small": "COMMENT THEIR NAME",
+   "tiny": "Follow for the next top 10"
+  },
+  "foot": "Source: Wikipedia, competitive matches, November 2026."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Manchester United's 10 greatest scorers ever ⚽ Who's missing from this top 10? 👇\n#manchesterunited #mufc #football #soccer\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}
