@@ -1,0 +1,406 @@
+{
+ "format": "tournoi",
+ "lang": "en",
+ "title": "Marble tournament: 16 Bundesliga clubs this season",
+ "seed": "marble-tournament-16-bundesliga-clubs-this-season",
+ "hook": {
+  "small": "16 BUNDESLIGA CLUBS",
+  "big": "THE BUNDESLIGA MARBLE CUP",
+  "question": "WHO WINS IT?"
+ },
+ "teams": [
+  {
+   "id": "BAY",
+   "name": "BAYERN",
+   "flag": "club-bay",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#dc052d",
+     "#ffffff"
+    ],
+    "code": "BAY"
+   },
+   "color": "#dc052d",
+   "confetti": [
+    "#dc052d",
+    "#ffffff",
+    "#0066b2"
+   ]
+  },
+  {
+   "id": "FCA",
+   "name": "AUGSBURG",
+   "flag": "club-fca",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ba3733",
+     "#ffffff"
+    ],
+    "code": "FCA"
+   },
+   "color": "#ba3733",
+   "confetti": [
+    "#ba3733",
+    "#ffffff",
+    "#46714d"
+   ]
+  },
+  {
+   "id": "BVB",
+   "name": "DORTMUND",
+   "flag": "club-bvb",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#fde100",
+     "#111111"
+    ],
+    "code": "BVB",
+    "ink": "#111111"
+   },
+   "color": "#fde100",
+   "confetti": [
+    "#fde100",
+    "#111111"
+   ]
+  },
+  {
+   "id": "S04",
+   "name": "SCHALKE",
+   "flag": "club-s04",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#004d9d",
+     "#ffffff"
+    ],
+    "code": "S04"
+   },
+   "color": "#004d9d",
+   "confetti": [
+    "#004d9d",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "KOE",
+   "name": "COLOGNE",
+   "flag": "club-koe",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#ed1c24"
+    ],
+    "code": "KOE",
+    "ink": "#111111"
+   },
+   "color": "#ed1c24",
+   "confetti": [
+    "#ed1c24",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "BMG",
+   "name": "GLADBACH",
+   "flag": "club-bmg",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#111111"
+    ],
+    "code": "BMG",
+    "ink": "#111111"
+   },
+   "color": "#00a14b",
+   "confetti": [
+    "#ffffff",
+    "#111111",
+    "#00a14b"
+   ]
+  },
+  {
+   "id": "HSV",
+   "name": "HAMBURG",
+   "flag": "club-hsv",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#0a3f86"
+    ],
+    "code": "HSV",
+    "ink": "#111111"
+   },
+   "color": "#0a3f86",
+   "confetti": [
+    "#0a3f86",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "SVW",
+   "name": "BREMEN",
+   "flag": "club-svw",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#1d9053",
+     "#ffffff"
+    ],
+    "code": "SVW"
+   },
+   "color": "#1d9053",
+   "confetti": [
+    "#1d9053",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "SGE",
+   "name": "FRANKFURT",
+   "flag": "club-sge",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#111111",
+     "#e1000f"
+    ],
+    "code": "SGE"
+   },
+   "color": "#e1000f",
+   "confetti": [
+    "#111111",
+    "#e1000f",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "M05",
+   "name": "MAINZ",
+   "flag": "club-m05",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#c3141e",
+     "#ffffff"
+    ],
+    "code": "M05"
+   },
+   "color": "#c3141e",
+   "confetti": [
+    "#c3141e",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "VFB",
+   "name": "STUTTGART",
+   "flag": "club-vfb",
+   "club": {
+    "pattern": "band",
+    "colors": [
+     "#ffffff",
+     "#e32219"
+    ],
+    "code": "VFB",
+    "ink": "#111111"
+   },
+   "color": "#e32219",
+   "confetti": [
+    "#e32219",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "SCF",
+   "name": "FREIBURG",
+   "flag": "club-scf",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#e2001a",
+     "#ffffff"
+    ],
+    "code": "SCF"
+   },
+   "color": "#e2001a",
+   "confetti": [
+    "#e2001a",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "RBL",
+   "name": "LEIPZIG",
+   "flag": "club-rbl",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#dd0741"
+    ],
+    "code": "RBL",
+    "ink": "#111111"
+   },
+   "color": "#dd0741",
+   "confetti": [
+    "#dd0741",
+    "#ffffff",
+    "#001f47"
+   ]
+  },
+  {
+   "id": "FCU",
+   "name": "UNION BERLIN",
+   "flag": "club-fcu",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#eb1923",
+     "#ffffff"
+    ],
+    "code": "FCU"
+   },
+   "color": "#eb1923",
+   "confetti": [
+    "#eb1923",
+    "#ffffff",
+    "#fcd116"
+   ]
+  },
+  {
+   "id": "B04",
+   "name": "LEVERKUSEN",
+   "flag": "club-b04",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#e32221",
+     "#111111"
+    ],
+    "code": "B04"
+   },
+   "color": "#e32221",
+   "confetti": [
+    "#e32221",
+    "#111111"
+   ]
+  },
+  {
+   "id": "TSG",
+   "name": "HOFFENHEIM",
+   "flag": "club-tsg",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#1961b5",
+     "#ffffff"
+    ],
+    "code": "TSG"
+   },
+   "color": "#1961b5",
+   "confetti": [
+    "#1961b5",
+    "#ffffff"
+   ]
+  }
+ ],
+ "pairs": [
+  [
+   "BAY",
+   "FCA"
+  ],
+  [
+   "BVB",
+   "S04"
+  ],
+  [
+   "KOE",
+   "BMG"
+  ],
+  [
+   "HSV",
+   "SVW"
+  ],
+  [
+   "SGE",
+   "M05"
+  ],
+  [
+   "VFB",
+   "SCF"
+  ],
+  [
+   "RBL",
+   "FCU"
+  ],
+  [
+   "B04",
+   "TSG"
+  ]
+ ],
+ "rounds": [
+  {
+   "name": "ROUND OF 16",
+   "beats": 5,
+   "win": [
+    0.95,
+    1.7
+   ]
+  },
+  {
+   "name": "QUARTER-FINALS",
+   "beats": 7,
+   "win": [
+    1.35,
+    2.6
+   ]
+  },
+  {
+   "name": "SEMI-FINALS",
+   "beats": 9,
+   "win": [
+    1.9,
+    3.5
+   ]
+  },
+  {
+   "name": "FINAL",
+   "beats": 14,
+   "win": [
+    3.0,
+    4.6
+   ]
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "{W} CHAMPIONS!",
+   "small": "{W} BEAT {F} IN THE FINAL"
+  },
+  "two": {
+   "big": "WHO DID YOU PICK?",
+   "small": "COMMENT YOUR PREDICTION",
+   "tiny": "Follow for the next tournament"
+  },
+  "foot": "Physics simulation: chance decides every match, no real data."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "Der Klassiker can wait: the Revierderby, the Nordderby and the Rhine derby are all in round one 👀 16 Bundesliga clubs, one marble champion. Who wins it? 👇\n#bundesliga #football #soccer #marblerace"
+}

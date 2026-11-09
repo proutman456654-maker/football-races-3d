@@ -1,0 +1,427 @@
+{
+ "format": "duel",
+ "title": "Messi vs Ronaldo: Champions League goals, year by year",
+ "k": 0.28,
+ "hook": {
+  "small": "CHAMPIONS LEAGUE GOALS",
+  "big": "MESSI VS RONALDO",
+  "question": "WHO SCORED MORE?"
+ },
+ "sides": [
+  {
+   "id": "MES",
+   "name": "MESSI",
+   "flag": "ar",
+   "color": "#75aadb",
+   "confetti": [
+    "#75aadb",
+    "#ffffff",
+    "#f6b40e"
+   ]
+  },
+  {
+   "id": "CR7",
+   "name": "RONALDO",
+   "flag": "pt",
+   "color": "#e2231a",
+   "confetti": [
+    "#006600",
+    "#e2231a",
+    "#ffd700"
+   ]
+  }
+ ],
+ "clubs": {
+  "BAR": {
+   "name": "Barcelona",
+   "pattern": "stripes",
+   "colors": [
+    "#0a3d91",
+    "#a50044"
+   ]
+  },
+  "PSG": {
+   "name": "PSG",
+   "pattern": "band",
+   "colors": [
+    "#0b1f45",
+    "#da291c",
+    "#ffffff"
+   ]
+  },
+  "MUN": {
+   "name": "Manchester United",
+   "pattern": "trim",
+   "colors": [
+    "#d3121b",
+    "#ffffff"
+   ]
+  },
+  "RMA": {
+   "name": "Real Madrid",
+   "pattern": "trim",
+   "colors": [
+    "#f4f4f2",
+    "#c9a227"
+   ]
+  },
+  "JUV": {
+   "name": "Juventus",
+   "pattern": "stripes",
+   "colors": [
+    "#151515",
+    "#f2f2f2"
+   ]
+  }
+ },
+ "steps": [
+  {
+   "year": 2004,
+   "p": 1,
+   "a": [],
+   "b": [
+    [
+     "MUN",
+     0
+    ]
+   ]
+  },
+  {
+   "year": 2005,
+   "p": 1,
+   "a": [
+    [
+     "BAR",
+     0
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     0
+    ]
+   ]
+  },
+  {
+   "year": 2006,
+   "p": 3,
+   "a": [
+    [
+     "BAR",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     0
+    ]
+   ],
+   "note": "MESSI'S FIRST CL GOAL"
+  },
+  {
+   "year": 2007,
+   "p": 3,
+   "a": [
+    [
+     "BAR",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     3
+    ]
+   ],
+   "note": "RONALDO OFF THE MARK"
+  },
+  {
+   "year": 2008,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     6
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     8
+    ]
+   ]
+  },
+  {
+   "year": 2009,
+   "p": 3,
+   "a": [
+    [
+     "BAR",
+     9
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     4
+    ]
+   ],
+   "note": "MESSI BACK IN FRONT"
+  },
+  {
+   "year": 2010,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     8
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     7
+    ]
+   ]
+  },
+  {
+   "year": 2011,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     12
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     6
+    ]
+   ]
+  },
+  {
+   "year": 2012,
+   "p": 4,
+   "a": [
+    [
+     "BAR",
+     14
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     10
+    ]
+   ],
+   "note": "14 GOALS FOR MESSI",
+   "big": true
+  },
+  {
+   "year": 2013,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     8
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     12
+    ]
+   ]
+  },
+  {
+   "year": 2014,
+   "p": 4,
+   "a": [
+    [
+     "BAR",
+     8
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     17
+    ]
+   ],
+   "note": "17 GOALS: RONALDO'S RECORD",
+   "big": true
+  },
+  {
+   "year": 2015,
+   "p": 3,
+   "a": [
+    [
+     "BAR",
+     10
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     10
+    ]
+   ],
+   "note": "LEVEL AGAIN: 77 EACH"
+  },
+  {
+   "year": 2016,
+   "p": 3,
+   "a": [
+    [
+     "BAR",
+     6
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     16
+    ]
+   ],
+   "note": "RONALDO GOES IN FRONT"
+  },
+  {
+   "year": 2017,
+   "p": 2,
+   "a": [
+    [
+     "BAR",
+     11
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     12
+    ]
+   ]
+  },
+  {
+   "year": 2018,
+   "p": 4,
+   "a": [
+    [
+     "BAR",
+     6
+    ]
+   ],
+   "b": [
+    [
+     "RMA",
+     15
+    ]
+   ],
+   "note": "RONALDO 20 CLEAR",
+   "big": true
+  },
+  {
+   "year": 2019,
+   "p": 3,
+   "a": [
+    [
+     "BAR",
+     12
+    ]
+   ],
+   "b": [
+    [
+     "JUV",
+     6
+    ]
+   ],
+   "note": "12 GOALS FOR MESSI"
+  },
+  {
+   "year": 2020,
+   "p": 1,
+   "a": [
+    [
+     "BAR",
+     3
+    ]
+   ],
+   "b": [
+    [
+     "JUV",
+     4
+    ]
+   ]
+  },
+  {
+   "year": 2021,
+   "p": 1,
+   "a": [
+    [
+     "BAR",
+     5
+    ]
+   ],
+   "b": [
+    [
+     "JUV",
+     4
+    ]
+   ]
+  },
+  {
+   "year": 2022,
+   "p": 3,
+   "a": [
+    [
+     "PSG",
+     5
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     6
+    ]
+   ],
+   "note": "RONALDO'S LAST CL SEASON"
+  },
+  {
+   "year": 2023,
+   "p": 3,
+   "a": [
+    [
+     "PSG",
+     4
+    ]
+   ],
+   "b": [],
+   "note": "MESSI'S LAST CL SEASON"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "RONALDO AHEAD BY 11 GOALS",
+   "small": "140 VS 129: THE TOP TWO IN CL HISTORY"
+  },
+  "two": {
+   "big": "WHOSE SIDE ARE YOU ON?",
+   "small": "COMMENT MESSI OR RONALDO",
+   "tiny": "Follow for the next duel"
+  },
+  "foot": "Source: Wikipedia, as of 9 November 2026. Champions League goals, qualifiers not included. A season counts in the year it ends."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "lang": "en",
+ "caption": "Messi vs Ronaldo: every Champions League goal, season by season ⭐ Who was the better Champions League player? 👇\n#messi #ronaldo #championsleague #football #soccer\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}
