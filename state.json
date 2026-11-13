@@ -73,6 +73,22 @@
       "title": "Marble tournament: the 16 greatest teams in history",
       "when": "2026-11-13T01:32",
       "slot": "2026-11-13T02:00"
+    },
+    {
+      "id": "6af6d2d2b564fd6cc8a0c30d",
+      "lang": "en",
+      "topic": "real-madrid-vs-barcelona-every-clasico-decade-by-decade",
+      "title": "Real Madrid vs Barcelona: every Clásico, decade by decade",
+      "when": "2026-11-13T20:55",
+      "slot": "2026-11-13T21:00"
+    },
+    {
+      "id": "6af6e099a2c3467b50ae4173",
+      "lang": "en",
+      "topic": "europe-vs-south-america-every-world-cup-year-by-year",
+      "title": "Europe vs South America: every World Cup, year by year",
+      "when": "2026-11-14T02:23",
+      "slot": "2026-11-14T02:00"
     }
   ],
   "en": [
@@ -85,6 +101,8 @@
     "haaland-vs-mbappe-goals-year-by-year",
     "manchester-united-s-10-all-time-top-scorers",
     "every-copa-america-winner-year-by-year",
-    "marble-tournament-the-16-greatest-teams-in-history"
+    "marble-tournament-the-16-greatest-teams-in-history",
+    "real-madrid-vs-barcelona-every-clasico-decade-by-decade",
+    "europe-vs-south-america-every-world-cup-year-by-year"
   ]
 }
