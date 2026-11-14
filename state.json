@@ -89,6 +89,22 @@
       "title": "Europe vs South America: every World Cup, year by year",
       "when": "2026-11-14T02:23",
       "slot": "2026-11-14T02:00"
+    },
+    {
+      "id": "6af81c1ec51a3757d46eb558",
+      "lang": "en",
+      "topic": "liverpool-s-10-all-time-top-scorers",
+      "title": "Liverpool's 10 all-time top scorers",
+      "when": "2026-11-14T20:56",
+      "slot": "2026-11-14T21:00"
+    },
+    {
+      "id": "6af821fb349d4721e0109da9",
+      "lang": "en",
+      "topic": "marble-tournament-the-16-biggest-english-clubs",
+      "title": "Marble tournament: the 16 biggest English clubs",
+      "when": "2026-11-15T02:27",
+      "slot": "2026-11-15T02:00"
     }
   ],
   "en": [
@@ -103,6 +119,8 @@
     "every-copa-america-winner-year-by-year",
     "marble-tournament-the-16-greatest-teams-in-history",
     "real-madrid-vs-barcelona-every-clasico-decade-by-decade",
-    "europe-vs-south-america-every-world-cup-year-by-year"
+    "europe-vs-south-america-every-world-cup-year-by-year",
+    "liverpool-s-10-all-time-top-scorers",
+    "marble-tournament-the-16-biggest-english-clubs"
   ]
 }
