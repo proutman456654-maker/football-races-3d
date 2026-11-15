@@ -105,6 +105,22 @@
       "title": "Marble tournament: the 16 biggest English clubs",
       "when": "2026-11-15T02:27",
       "slot": "2026-11-15T02:00"
+    },
+    {
+      "id": "6af978a5d3af25165abb2228",
+      "lang": "en",
+      "topic": "premier-league-titles-by-city-season-by-season",
+      "title": "Premier League titles by city, season by season",
+      "when": "2026-11-15T20:47",
+      "slot": "2026-11-15T21:00"
+    },
+    {
+      "id": "6af98124c73e666f2b0df555",
+      "lang": "en",
+      "topic": "the-marble-league-season-1-matchday-1",
+      "title": "The Marble League, season 1: matchday 1",
+      "when": "2026-11-16T01:44",
+      "slot": "2026-11-16T02:00"
     }
   ],
   "en": [
@@ -121,6 +137,8 @@
     "real-madrid-vs-barcelona-every-clasico-decade-by-decade",
     "europe-vs-south-america-every-world-cup-year-by-year",
     "liverpool-s-10-all-time-top-scorers",
-    "marble-tournament-the-16-biggest-english-clubs"
+    "marble-tournament-the-16-biggest-english-clubs",
+    "premier-league-titles-by-city-season-by-season",
+    "the-marble-league-season-1-matchday-1"
   ]
 }
