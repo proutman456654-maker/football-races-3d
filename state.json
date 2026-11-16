@@ -121,6 +121,22 @@
       "title": "The Marble League, season 1: matchday 1",
       "when": "2026-11-16T01:44",
       "slot": "2026-11-16T02:00"
+    },
+    {
+      "id": "6afadb4c78619696369e936b",
+      "lang": "en",
+      "topic": "every-gold-cup-winner-year-by-year",
+      "title": "Every Gold Cup winner, year by year",
+      "when": "2026-11-16T20:39",
+      "slot": "2026-11-16T21:00"
+    },
+    {
+      "id": "6afae50d6a5f3e8c38e9e2ff",
+      "lang": "en",
+      "topic": "kane-vs-shearer-premier-league-goals-season-by-season",
+      "title": "Kane vs Shearer: Premier League goals, season by season",
+      "when": "2026-11-17T02:18",
+      "slot": "2026-11-17T02:00"
     }
   ],
   "en": [
@@ -139,6 +155,8 @@
     "liverpool-s-10-all-time-top-scorers",
     "marble-tournament-the-16-biggest-english-clubs",
     "premier-league-titles-by-city-season-by-season",
-    "the-marble-league-season-1-matchday-1"
+    "the-marble-league-season-1-matchday-1",
+    "every-gold-cup-winner-year-by-year",
+    "kane-vs-shearer-premier-league-goals-season-by-season"
   ]
 }
