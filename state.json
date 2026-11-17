@@ -137,6 +137,22 @@
       "title": "Kane vs Shearer: Premier League goals, season by season",
       "when": "2026-11-17T02:18",
       "slot": "2026-11-17T02:00"
+    },
+    {
+      "id": "6afc16accfba659022591a36",
+      "lang": "en",
+      "topic": "marble-tournament-the-16-best-nations-in-history",
+      "title": "Marble tournament: the 16 best nations in history",
+      "when": "2026-11-17T21:28",
+      "slot": "2026-11-17T21:00"
+    },
+    {
+      "id": "6afc1c38ac010fe5b4b14823",
+      "lang": "en",
+      "topic": "arsenal-s-10-all-time-top-scorers",
+      "title": "Arsenal's 10 all-time top scorers",
+      "when": "2026-11-18T01:56",
+      "slot": "2026-11-18T02:00"
     }
   ],
   "en": [
@@ -157,6 +173,8 @@
     "premier-league-titles-by-city-season-by-season",
     "the-marble-league-season-1-matchday-1",
     "every-gold-cup-winner-year-by-year",
-    "kane-vs-shearer-premier-league-goals-season-by-season"
+    "kane-vs-shearer-premier-league-goals-season-by-season",
+    "marble-tournament-the-16-best-nations-in-history",
+    "arsenal-s-10-all-time-top-scorers"
   ]
 }
