@@ -185,6 +185,22 @@
       "title": "Marble tournament: the 16 biggest MLS clubs",
       "when": "2026-11-20T02:00",
       "slot": "2026-11-20T02:00"
+    },
+    {
+      "id": "6b000b9158d9a258621b8e84",
+      "lang": "en",
+      "topic": "usa-vs-mexico-every-match-decade-by-decade",
+      "title": "USA vs Mexico: every match, decade by decade",
+      "when": "2026-11-20T21:28",
+      "slot": "2026-11-20T21:00"
+    },
+    {
+      "id": "6b00163f6d8c8c2e55d58095",
+      "lang": "en",
+      "topic": "every-women-s-euros-winner-year-by-year",
+      "title": "Every Women's Euros winner, year by year",
+      "when": "2026-11-21T02:35",
+      "slot": "2026-11-21T02:00"
     }
   ],
   "en": [
@@ -211,6 +227,8 @@
     "manchester-united-vs-liverpool-every-match-decade-by-decade",
     "marble-tournament-the-16-best-nations-in-asia",
     "england-s-10-all-time-top-scorers",
-    "marble-tournament-the-16-biggest-mls-clubs"
+    "marble-tournament-the-16-biggest-mls-clubs",
+    "usa-vs-mexico-every-match-decade-by-decade",
+    "every-women-s-euros-winner-year-by-year"
   ]
 }
