@@ -201,6 +201,22 @@
       "title": "Every Women's Euros winner, year by year",
       "when": "2026-11-21T02:35",
       "slot": "2026-11-21T02:00"
+    },
+    {
+      "id": "6b0158e93c8d9d6ba7479962",
+      "lang": "en",
+      "topic": "marble-tournament-the-16-biggest-italian-clubs",
+      "title": "Marble tournament: the 16 biggest Italian clubs",
+      "when": "2026-11-21T21:18",
+      "slot": "2026-11-21T21:00"
+    },
+    {
+      "id": "6b015cdf43ccb3a39147e1a4",
+      "lang": "en",
+      "topic": "real-madrid-s-10-all-time-top-scorers",
+      "title": "Real Madrid's 10 all-time top scorers",
+      "when": "2026-11-22T02:17",
+      "slot": "2026-11-22T02:00"
     }
   ],
   "en": [
@@ -229,6 +245,8 @@
     "england-s-10-all-time-top-scorers",
     "marble-tournament-the-16-biggest-mls-clubs",
     "usa-vs-mexico-every-match-decade-by-decade",
-    "every-women-s-euros-winner-year-by-year"
+    "every-women-s-euros-winner-year-by-year",
+    "marble-tournament-the-16-biggest-italian-clubs",
+    "real-madrid-s-10-all-time-top-scorers"
   ]
 }
