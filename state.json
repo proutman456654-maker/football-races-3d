@@ -217,6 +217,22 @@
       "title": "Real Madrid's 10 all-time top scorers",
       "when": "2026-11-22T02:17",
       "slot": "2026-11-22T02:00"
+    },
+    {
+      "id": "6b02ac62a7dddc5af46b756a",
+      "lang": "en",
+      "topic": "every-wsl-champion-year-by-year",
+      "title": "Every WSL champion, year by year",
+      "when": "2026-11-22T21:31",
+      "slot": "2026-11-22T21:00"
+    },
+    {
+      "id": "6b02b175a7dddc5af46b7d4b",
+      "lang": "en",
+      "topic": "the-marble-league-season-1-matchday-2",
+      "title": "The Marble League, season 1: matchday 2",
+      "when": "2026-11-23T02:28",
+      "slot": "2026-11-23T02:00"
     }
   ],
   "en": [
@@ -247,6 +263,8 @@
     "usa-vs-mexico-every-match-decade-by-decade",
     "every-women-s-euros-winner-year-by-year",
     "marble-tournament-the-16-biggest-italian-clubs",
-    "real-madrid-s-10-all-time-top-scorers"
+    "real-madrid-s-10-all-time-top-scorers",
+    "every-wsl-champion-year-by-year",
+    "the-marble-league-season-1-matchday-2"
   ]
 }
