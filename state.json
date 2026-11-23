@@ -233,6 +233,22 @@
       "title": "The Marble League, season 1: matchday 2",
       "when": "2026-11-23T02:28",
       "slot": "2026-11-23T02:00"
+    },
+    {
+      "id": "6b0402db1977c69582cd7596",
+      "lang": "en",
+      "topic": "fallback:every-nwsl-champion-year-by-year",
+      "title": "Marble Cup (23 Nov): 16 nations, one winner",
+      "when": "2026-11-23T20:36",
+      "slot": "2026-11-23T21:00"
+    },
+    {
+      "id": "6b0408c7f7d654419ddd9a7a",
+      "lang": "en",
+      "topic": "champions-league-matchday-5-the-marbles-verdict",
+      "title": "Champions League matchday 5: the marbles' verdict",
+      "when": "2026-11-24T02:32",
+      "slot": "2026-11-24T02:00"
     }
   ],
   "en": [
@@ -265,6 +281,8 @@
     "marble-tournament-the-16-biggest-italian-clubs",
     "real-madrid-s-10-all-time-top-scorers",
     "every-wsl-champion-year-by-year",
-    "the-marble-league-season-1-matchday-2"
+    "the-marble-league-season-1-matchday-2",
+    "fallback:every-nwsl-champion-year-by-year",
+    "champions-league-matchday-5-the-marbles-verdict"
   ]
 }
