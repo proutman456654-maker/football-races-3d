@@ -249,6 +249,22 @@
       "title": "Champions League matchday 5: the marbles' verdict",
       "when": "2026-11-24T02:32",
       "slot": "2026-11-24T02:00"
+    },
+    {
+      "id": "6b05549c238e1374135ac22d",
+      "lang": "en",
+      "topic": "england-vs-germany-every-match-decade-by-decade",
+      "title": "England vs Germany: every match, decade by decade",
+      "when": "2026-11-24T21:33",
+      "slot": "2026-11-24T21:00"
+    },
+    {
+      "id": "6b0559216b0d76d5307dd4fb",
+      "lang": "en",
+      "topic": "chelsea-s-10-all-time-top-scorers",
+      "title": "Chelsea's 10 all-time top scorers",
+      "when": "2026-11-25T01:31",
+      "slot": "2026-11-25T02:00"
     }
   ],
   "en": [
@@ -283,6 +299,8 @@
     "every-wsl-champion-year-by-year",
     "the-marble-league-season-1-matchday-2",
     "fallback:every-nwsl-champion-year-by-year",
-    "champions-league-matchday-5-the-marbles-verdict"
+    "champions-league-matchday-5-the-marbles-verdict",
+    "england-vs-germany-every-match-decade-by-decade",
+    "chelsea-s-10-all-time-top-scorers"
   ]
 }
