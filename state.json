@@ -265,6 +265,22 @@
       "title": "Chelsea's 10 all-time top scorers",
       "when": "2026-11-25T01:31",
       "slot": "2026-11-25T02:00"
+    },
+    {
+      "id": "6b06a4b936ceb0582ae97eba",
+      "lang": "en",
+      "topic": "marble-tournament-16-bundesliga-clubs-this-season",
+      "title": "Marble tournament: 16 Bundesliga clubs this season",
+      "when": "2026-11-25T20:25",
+      "slot": "2026-11-25T21:00"
+    },
+    {
+      "id": "6b06a6ffdfb09b066979bbe1",
+      "lang": "en",
+      "topic": "messi-vs-ronaldo-champions-league-goals-year-by-year",
+      "title": "Messi vs Ronaldo: Champions League goals, year by year",
+      "when": "2026-11-26T01:32",
+      "slot": "2026-11-26T02:00"
     }
   ],
   "en": [
@@ -301,6 +317,8 @@
     "fallback:every-nwsl-champion-year-by-year",
     "champions-league-matchday-5-the-marbles-verdict",
     "england-vs-germany-every-match-decade-by-decade",
-    "chelsea-s-10-all-time-top-scorers"
+    "chelsea-s-10-all-time-top-scorers",
+    "marble-tournament-16-bundesliga-clubs-this-season",
+    "messi-vs-ronaldo-champions-league-goals-year-by-year"
   ]
 }
