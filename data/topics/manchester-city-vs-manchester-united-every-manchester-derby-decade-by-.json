@@ -1,0 +1,343 @@
+{
+ "format": "duel",
+ "lang": "en",
+ "title": "Manchester City vs Manchester United: every Manchester derby, decade by decade",
+ "k": 0.49,
+ "hook": {
+  "small": "EVERY DERBY, DECADE BY DECADE",
+  "big": "CITY VS UNITED",
+  "question": "WHO HAS MORE WINS?"
+ },
+ "sides": [
+  {
+   "id": "MCI",
+   "name": "MAN CITY",
+   "flag": "club-mci",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#6cabdd",
+     "#ffffff"
+    ],
+    "code": "MCI"
+   },
+   "color": "#6cabdd",
+   "confetti": [
+    "#6cabdd",
+    "#ffffff",
+    "#1c2c5b"
+   ]
+  },
+  {
+   "id": "MUN",
+   "name": "MAN UNITED",
+   "flag": "club-mun",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#d3121b",
+     "#111111"
+    ],
+    "code": "MUN"
+   },
+   "color": "#d3121b",
+   "confetti": [
+    "#d3121b",
+    "#ffffff",
+    "#111111"
+   ]
+  }
+ ],
+ "clubs": {
+  "MCI": {
+   "name": "Man City",
+   "pattern": "trim",
+   "colors": [
+    "#6cabdd",
+    "#ffffff"
+   ]
+  },
+  "MUN": {
+   "name": "Man United",
+   "pattern": "trim",
+   "colors": [
+    "#d3121b",
+    "#111111"
+   ]
+  }
+ },
+ "steps": [
+  {
+   "year": 1890,
+   "label": "1890s",
+   "p": 4,
+   "a": [
+    [
+     "MCI",
+     2
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     6
+    ]
+   ],
+   "place": "3 draws",
+   "note": "1891: FIRST MEETING, UNITED WIN 5–1"
+  },
+  {
+   "year": 1900,
+   "label": "1900s",
+   "p": 3,
+   "a": [
+    [
+     "MCI",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     4
+    ]
+   ],
+   "place": "3 draws"
+  },
+  {
+   "year": 1910,
+   "label": "1910s",
+   "p": 3,
+   "a": [
+    [
+     "MCI",
+     2
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     4
+    ]
+   ],
+   "place": "6 draws"
+  },
+  {
+   "year": 1920,
+   "label": "1920s",
+   "p": 4,
+   "a": [
+    [
+     "MCI",
+     6
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     1
+    ]
+   ],
+   "place": "3 draws",
+   "note": "CITY WIN THE 1920s 6–1"
+  },
+  {
+   "year": 1930,
+   "label": "1930s",
+   "p": 3,
+   "a": [
+    [
+     "MCI",
+     3
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     2
+    ]
+   ],
+   "place": "no draws"
+  },
+  {
+   "year": 1940,
+   "label": "1940s",
+   "p": 3,
+   "a": [],
+   "b": [
+    [
+     "MUN",
+     2
+    ]
+   ],
+   "place": "4 draws"
+  },
+  {
+   "year": 1950,
+   "label": "1950s",
+   "p": 3,
+   "a": [
+    [
+     "MCI",
+     7
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     7
+    ]
+   ],
+   "place": "5 draws"
+  },
+  {
+   "year": 1960,
+   "label": "1960s",
+   "p": 3,
+   "a": [
+    [
+     "MCI",
+     5
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     6
+    ]
+   ],
+   "place": "5 draws"
+  },
+  {
+   "year": 1970,
+   "label": "1970s",
+   "p": 3,
+   "a": [
+    [
+     "MCI",
+     8
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     8
+    ]
+   ],
+   "place": "5 draws"
+  },
+  {
+   "year": 1980,
+   "label": "1980s",
+   "p": 3,
+   "a": [
+    [
+     "MCI",
+     2
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     5
+    ]
+   ],
+   "place": "6 draws"
+  },
+  {
+   "year": 1990,
+   "label": "1990s",
+   "p": 4,
+   "a": [],
+   "b": [
+    [
+     "MUN",
+     9
+    ]
+   ],
+   "place": "5 draws",
+   "note": "UNITED UNBEATEN: 9 WINS, 5 DRAWS"
+  },
+  {
+   "year": 2000,
+   "label": "2000s",
+   "p": 3,
+   "a": [
+    [
+     "MCI",
+     5
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     9
+    ]
+   ],
+   "place": "4 draws"
+  },
+  {
+   "year": 2010,
+   "label": "2010s",
+   "p": 5,
+   "a": [
+    [
+     "MCI",
+     12
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     11
+    ]
+   ],
+   "place": "3 draws",
+   "note": "CITY EDGE THE 2010s 12–11",
+   "big": true
+  },
+  {
+   "year": 2020,
+   "label": "2020s",
+   "p": 5,
+   "a": [
+    [
+     "MCI",
+     10
+    ]
+   ],
+   "b": [
+    [
+     "MUN",
+     7
+    ]
+   ],
+   "place": "3 draws",
+   "note": "UNITED LEAD 81–63",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "UNITED 81, CITY 63",
+   "small": "55 DRAWS · 199 DERBIES"
+  },
+  "two": {
+   "big": "WHO WINS THE NEXT ONE?",
+   "small": "COMMENT CITY OR UNITED",
+   "tiny": "Follow for the next duel"
+  },
+  "foot": "Source: Wikipedia. Competitive matches, shoot-outs count as draws, as of 26 November 2026."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Every Manchester derby, decade by decade 🔵⚔️🔴 United 81, City 63. Will City ever catch up? 👇\n#mancity #manutd #manchesterderby #premierleague #football\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}

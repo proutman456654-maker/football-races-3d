@@ -1,0 +1,399 @@
+{
+ "format": "tournoi",
+ "lang": "en",
+ "title": "Marble tournament: the 16 biggest Asian clubs",
+ "seed": "marble-tournament-the-16-biggest-asian-clubs",
+ "hook": {
+  "small": "16 GIANTS OF ASIA",
+  "big": "THE ASIAN MARBLE CUP",
+  "question": "WHO WINS IT?"
+ },
+ "teams": [
+  {
+   "id": "HIL",
+   "name": "AL HILAL",
+   "flag": "club-hil",
+   "club": {
+    "pattern": "plain",
+    "colors": [
+     "#0055a5",
+     "#ffffff"
+    ],
+    "code": "HIL"
+   },
+   "color": "#0055a5",
+   "confetti": [
+    "#0055a5",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "NAS",
+   "name": "AL NASSR",
+   "flag": "club-nas",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#fcd116",
+     "#1b3f8b"
+    ],
+    "code": "NAS",
+    "ink": "#1b3f8b"
+   },
+   "color": "#fcd116",
+   "confetti": [
+    "#fcd116",
+    "#1b3f8b"
+   ]
+  },
+  {
+   "id": "ITT",
+   "name": "AL ITTIHAD",
+   "flag": "club-itt",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#f9d71c",
+     "#111111"
+    ],
+    "code": "ITT",
+    "ink": "#111111"
+   },
+   "color": "#f9d71c",
+   "confetti": [
+    "#f9d71c",
+    "#111111"
+   ]
+  },
+  {
+   "id": "AHL",
+   "name": "AL AHLI",
+   "flag": "club-ahl",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#00843d",
+     "#ffffff"
+    ],
+    "code": "AHL"
+   },
+   "color": "#00843d",
+   "confetti": [
+    "#00843d",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "URA",
+   "name": "URAWA REDS",
+   "flag": "club-ura",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#e60012",
+     "#ffffff"
+    ],
+    "code": "URA"
+   },
+   "color": "#e60012",
+   "confetti": [
+    "#e60012",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "KAS",
+   "name": "KASHIMA",
+   "flag": "club-kas",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#b5121b",
+     "#1c2a4d"
+    ],
+    "code": "KAS"
+   },
+   "color": "#b5121b",
+   "confetti": [
+    "#b5121b",
+    "#1c2a4d",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "YFM",
+   "name": "YOKOHAMA FM",
+   "flag": "club-yfm",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#003a8c",
+     "#ffffff"
+    ],
+    "code": "YFM"
+   },
+   "color": "#003a8c",
+   "confetti": [
+    "#003a8c",
+    "#ffffff",
+    "#e60012"
+   ]
+  },
+  {
+   "id": "JEO",
+   "name": "JEONBUK",
+   "flag": "club-jeo",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#006b3f",
+     "#ffffff"
+    ],
+    "code": "JEO"
+   },
+   "color": "#006b3f",
+   "confetti": [
+    "#006b3f",
+    "#ffffff",
+    "#f2c200"
+   ]
+  },
+  {
+   "id": "ULS",
+   "name": "ULSAN HD",
+   "flag": "club-uls",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#0057b8",
+     "#f6d00c"
+    ],
+    "code": "ULS"
+   },
+   "color": "#0057b8",
+   "confetti": [
+    "#0057b8",
+    "#f6d00c"
+   ]
+  },
+  {
+   "id": "POH",
+   "name": "POHANG",
+   "flag": "club-poh",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#e31b23",
+     "#111111"
+    ],
+    "code": "POH"
+   },
+   "color": "#e31b23",
+   "confetti": [
+    "#e31b23",
+    "#111111"
+   ]
+  },
+  {
+   "id": "SHP",
+   "name": "SHANGHAI PORT",
+   "flag": "club-shp",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#d71920",
+     "#ffffff"
+    ],
+    "code": "SHP"
+   },
+   "color": "#d71920",
+   "confetti": [
+    "#d71920",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "PRS",
+   "name": "PERSEPOLIS",
+   "flag": "club-prs",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#e30613",
+     "#ffffff"
+    ],
+    "code": "PRS"
+   },
+   "color": "#e30613",
+   "confetti": [
+    "#e30613",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "EST",
+   "name": "ESTEGHLAL",
+   "flag": "club-est",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#0033a0",
+     "#ffffff"
+    ],
+    "code": "EST"
+   },
+   "color": "#0033a0",
+   "confetti": [
+    "#0033a0",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "SAD",
+   "name": "AL SADD",
+   "flag": "club-sad",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#111111"
+    ],
+    "code": "SAD",
+    "ink": "#111111"
+   },
+   "color": "#ffffff",
+   "confetti": [
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "AIN",
+   "name": "AL AIN",
+   "flag": "club-ain",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#5c2d91",
+     "#ffffff"
+    ],
+    "code": "AIN"
+   },
+   "color": "#5c2d91",
+   "confetti": [
+    "#5c2d91",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "BUR",
+   "name": "BURIRAM",
+   "flag": "club-bur",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#1a2f7a",
+     "#f39200"
+    ],
+    "code": "BUR"
+   },
+   "color": "#1a2f7a",
+   "confetti": [
+    "#1a2f7a",
+    "#f39200"
+   ]
+  }
+ ],
+ "pairs": [
+  [
+   "HIL",
+   "URA"
+  ],
+  [
+   "NAS",
+   "EST"
+  ],
+  [
+   "ITT",
+   "JEO"
+  ],
+  [
+   "AHL",
+   "KAS"
+  ],
+  [
+   "PRS",
+   "ULS"
+  ],
+  [
+   "SAD",
+   "YFM"
+  ],
+  [
+   "AIN",
+   "POH"
+  ],
+  [
+   "SHP",
+   "BUR"
+  ]
+ ],
+ "rounds": [
+  {
+   "name": "ROUND OF 16",
+   "beats": 5,
+   "win": [
+    0.95,
+    1.7
+   ]
+  },
+  {
+   "name": "QUARTER-FINALS",
+   "beats": 7,
+   "win": [
+    1.35,
+    2.6
+   ]
+  },
+  {
+   "name": "SEMI-FINALS",
+   "beats": 9,
+   "win": [
+    1.9,
+    3.5
+   ]
+  },
+  {
+   "name": "FINAL",
+   "beats": 14,
+   "win": [
+    3.0,
+    4.6
+   ]
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "{W} CHAMPIONS!",
+   "small": "{W} BEAT {F} IN THE FINAL"
+  },
+  "two": {
+   "big": "WHO DID YOU PICK?",
+   "small": "COMMENT YOUR PREDICTION",
+   "tiny": "Follow for the next tournament"
+  },
+  "foot": "Physics simulation: chance decides every match, no real data."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "Al Hilal, Al Nassr, Urawa, Jeonbuk, Persepolis… 16 giants of Asia, one marble champion 👀 Who wins it? 👇\n#afc #asianfootball #football #soccer #marblerace"
+}
