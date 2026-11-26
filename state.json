@@ -281,6 +281,22 @@
       "title": "Messi vs Ronaldo: Champions League goals, year by year",
       "when": "2026-11-26T01:32",
       "slot": "2026-11-26T02:00"
+    },
+    {
+      "id": "6b07f94a8f50dd6b8eda4683",
+      "lang": "en",
+      "topic": "fallback:the-10-all-time-top-scorers-at-afcon",
+      "title": "Marble Cup (26 Nov): 16 nations, one winner",
+      "when": "2026-11-26T20:38",
+      "slot": "2026-11-26T21:00"
+    },
+    {
+      "id": "6b08031e175f41dd523e5542",
+      "lang": "en",
+      "topic": "fallback:thanksgiving-marble-tournament-16-nations-of-the-americas",
+      "title": "Marble Cup (27 Nov): 16 nations, one winner",
+      "when": "2026-11-27T01:53",
+      "slot": "2026-11-27T02:00"
     }
   ],
   "en": [
@@ -319,6 +335,8 @@
     "england-vs-germany-every-match-decade-by-decade",
     "chelsea-s-10-all-time-top-scorers",
     "marble-tournament-16-bundesliga-clubs-this-season",
-    "messi-vs-ronaldo-champions-league-goals-year-by-year"
+    "messi-vs-ronaldo-champions-league-goals-year-by-year",
+    "fallback:the-10-all-time-top-scorers-at-afcon",
+    "fallback:thanksgiving-marble-tournament-16-nations-of-the-americas"
   ]
 }
