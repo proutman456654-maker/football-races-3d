@@ -1,0 +1,405 @@
+{
+ "format": "tournoi",
+ "lang": "en",
+ "title": "Premier League weekend: the marbles play 8 real games (4 Dec)",
+ "seed": "premier-league-weekend-the-marbles-play-8-real-games-4-dec",
+ "hook": {
+  "small": "8 REAL PREMIER LEAGUE FIXTURES",
+  "big": "THE MARBLES DECIDE",
+  "question": "WHO WINS IT?"
+ },
+ "teams": [
+  {
+   "id": "CHE",
+   "name": "CHELSEA",
+   "flag": "club-che",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#034694",
+     "#ffffff"
+    ],
+    "code": "CHE"
+   },
+   "color": "#034694",
+   "confetti": [
+    "#034694",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "LIV",
+   "name": "LIVERPOOL",
+   "flag": "club-liv",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#a50f22",
+     "#00a398"
+    ],
+    "code": "LIV"
+   },
+   "color": "#c8102e",
+   "confetti": [
+    "#c8102e",
+    "#ffffff",
+    "#f6eb61"
+   ]
+  },
+  {
+   "id": "TOT",
+   "name": "TOTTENHAM",
+   "flag": "club-tot",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#132257"
+    ],
+    "code": "TOT",
+    "ink": "#132257"
+   },
+   "color": "#132257",
+   "confetti": [
+    "#ffffff",
+    "#132257"
+   ]
+  },
+  {
+   "id": "ARS",
+   "name": "ARSENAL",
+   "flag": "club-ars",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ef0107",
+     "#ffffff"
+    ],
+    "code": "ARS"
+   },
+   "color": "#ef0107",
+   "confetti": [
+    "#ef0107",
+    "#ffffff",
+    "#9c824a"
+   ]
+  },
+  {
+   "id": "BRE",
+   "name": "BRENTFORD",
+   "flag": "club-bre",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#e30613",
+     "#ffffff"
+    ],
+    "code": "BRE"
+   },
+   "color": "#e30613",
+   "confetti": [
+    "#e30613",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "MCI",
+   "name": "MAN CITY",
+   "flag": "club-mci",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#6cabdd",
+     "#ffffff"
+    ],
+    "code": "MCI"
+   },
+   "color": "#6cabdd",
+   "confetti": [
+    "#6cabdd",
+    "#ffffff",
+    "#1c2c5b"
+   ]
+  },
+  {
+   "id": "NEW",
+   "name": "NEWCASTLE",
+   "flag": "club-new",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#ffffff",
+     "#111111"
+    ],
+    "code": "NEW",
+    "ink": "#111111"
+   },
+   "color": "#8a8a8a",
+   "confetti": [
+    "#111111",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "SUN",
+   "name": "SUNDERLAND",
+   "flag": "club-sun",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#ffffff",
+     "#eb172b"
+    ],
+    "code": "SUN",
+    "ink": "#111111"
+   },
+   "color": "#eb172b",
+   "confetti": [
+    "#eb172b",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "MUN",
+   "name": "MAN UNITED",
+   "flag": "club-mun",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#d3121b",
+     "#111111"
+    ],
+    "code": "MUN"
+   },
+   "color": "#d3121b",
+   "confetti": [
+    "#d3121b",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "COV",
+   "name": "COVENTRY",
+   "flag": "club-cov",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#59cbe8",
+     "#ffffff"
+    ],
+    "code": "COV",
+    "ink": "#0a2a4a"
+   },
+   "color": "#59cbe8",
+   "confetti": [
+    "#59cbe8",
+    "#ffffff",
+    "#111111"
+   ]
+  },
+  {
+   "id": "AVL",
+   "name": "ASTON VILLA",
+   "flag": "club-avl",
+   "club": {
+    "pattern": "sides",
+    "colors": [
+     "#670e36",
+     "#95bfe5"
+    ],
+    "code": "AVL"
+   },
+   "color": "#670e36",
+   "confetti": [
+    "#670e36",
+    "#95bfe5"
+   ]
+  },
+  {
+   "id": "CRY",
+   "name": "CRYSTAL PALACE",
+   "flag": "club-cry",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#1b458f",
+     "#c4122e"
+    ],
+    "code": "CRY"
+   },
+   "color": "#1b458f",
+   "confetti": [
+    "#1b458f",
+    "#c4122e"
+   ]
+  },
+  {
+   "id": "NFO",
+   "name": "NOTT'M FOREST",
+   "flag": "club-nfo",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#dd0000",
+     "#ffffff"
+    ],
+    "code": "NFO"
+   },
+   "color": "#dd0000",
+   "confetti": [
+    "#dd0000",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "BHA",
+   "name": "BRIGHTON",
+   "flag": "club-bha",
+   "club": {
+    "pattern": "stripes",
+    "colors": [
+     "#0057b8",
+     "#ffffff"
+    ],
+    "code": "BHA"
+   },
+   "color": "#0057b8",
+   "confetti": [
+    "#0057b8",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "EVE",
+   "name": "EVERTON",
+   "flag": "club-eve",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#003399",
+     "#ffffff"
+    ],
+    "code": "EVE"
+   },
+   "color": "#003399",
+   "confetti": [
+    "#003399",
+    "#ffffff"
+   ]
+  },
+  {
+   "id": "FUL",
+   "name": "FULHAM",
+   "flag": "club-ful",
+   "club": {
+    "pattern": "trim",
+    "colors": [
+     "#ffffff",
+     "#111111"
+    ],
+    "code": "FUL",
+    "ink": "#111111"
+   },
+   "color": "#111111",
+   "confetti": [
+    "#ffffff",
+    "#111111",
+    "#cc0000"
+   ]
+  }
+ ],
+ "pairs": [
+  [
+   "CHE",
+   "LIV"
+  ],
+  [
+   "TOT",
+   "ARS"
+  ],
+  [
+   "BRE",
+   "MCI"
+  ],
+  [
+   "NEW",
+   "SUN"
+  ],
+  [
+   "MUN",
+   "COV"
+  ],
+  [
+   "AVL",
+   "CRY"
+  ],
+  [
+   "NFO",
+   "BHA"
+  ],
+  [
+   "EVE",
+   "FUL"
+  ]
+ ],
+ "rounds": [
+  {
+   "name": "ROUND OF 16",
+   "beats": 5,
+   "win": [
+    0.95,
+    1.7
+   ]
+  },
+  {
+   "name": "QUARTER-FINALS",
+   "beats": 7,
+   "win": [
+    1.35,
+    2.6
+   ]
+  },
+  {
+   "name": "SEMI-FINALS",
+   "beats": 9,
+   "win": [
+    1.9,
+    3.5
+   ]
+  },
+  {
+   "name": "FINAL",
+   "beats": 14,
+   "win": [
+    3.0,
+    4.6
+   ]
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "{W} CHAMPIONS!",
+   "small": "{W} BEAT {F} IN THE FINAL"
+  },
+  "two": {
+   "big": "WHO DID YOU PICK?",
+   "small": "COMMENT YOUR PREDICTION",
+   "tiny": "Follow for the next tournament"
+  },
+  "foot": "Physics simulation: chance decides every match. Round 1: real fixtures of 5–6 Dec 2026."
+ },
+ "music": {
+  "file": "assets/music/dark-moment-dark-epic-trailer-e-erkut.mp3",
+  "credit": "Music: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)",
+  "pulse": 1.125,
+  "phase": 0.88,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Chelsea vs Liverpool, the north London derby, the Tyne-Wear derby… 8 real Premier League games this weekend, decided by marbles 👀 Who wins it all? 👇\n#premierleague #epl #football #soccer #marblerace\nMusic: \"Dark Moment - Dark Epic Trailer\" by E. Erkut (CC BY 3.0)"
+}

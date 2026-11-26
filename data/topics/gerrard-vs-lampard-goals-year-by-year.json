@@ -1,0 +1,447 @@
+{
+ "format": "duel",
+ "lang": "en",
+ "title": "Gerrard vs Lampard: goals, year by year",
+ "k": 0.15,
+ "hook": {
+  "small": "CLUB GOALS, YEAR BY YEAR",
+  "big": "GERRARD VS LAMPARD",
+  "question": "WHO SCORED MORE?"
+ },
+ "sides": [
+  {
+   "id": "GER",
+   "name": "GERRARD",
+   "flag": "gb-eng",
+   "color": "#c8102e",
+   "confetti": [
+    "#c8102e",
+    "#ffffff",
+    "#f6eb61"
+   ]
+  },
+  {
+   "id": "LAM",
+   "name": "LAMPARD",
+   "flag": "gb-eng",
+   "color": "#034694",
+   "confetti": [
+    "#034694",
+    "#ffffff",
+    "#dba111"
+   ]
+  }
+ ],
+ "clubs": {
+  "LIV": {
+   "name": "Liverpool",
+   "pattern": "trim",
+   "colors": [
+    "#c8102e",
+    "#ffffff"
+   ]
+  },
+  "LAG": {
+   "name": "LA Galaxy",
+   "pattern": "trim",
+   "colors": [
+    "#00245d",
+    "#ffd200"
+   ]
+  },
+  "WHU": {
+   "name": "West Ham",
+   "pattern": "sides",
+   "colors": [
+    "#7a263a",
+    "#1bb1e7"
+   ]
+  },
+  "SWA": {
+   "name": "Swansea",
+   "pattern": "trim",
+   "colors": [
+    "#f4f4f2",
+    "#111111"
+   ]
+  },
+  "CHE": {
+   "name": "Chelsea",
+   "pattern": "trim",
+   "colors": [
+    "#034694",
+    "#ffffff"
+   ]
+  },
+  "MCI": {
+   "name": "Man City",
+   "pattern": "trim",
+   "colors": [
+    "#6cabdd",
+    "#ffffff"
+   ]
+  },
+  "NYC": {
+   "name": "NYCFC",
+   "pattern": "trim",
+   "colors": [
+    "#6cace4",
+    "#041e42"
+   ]
+  }
+ },
+ "steps": [
+  {
+   "year": 1996,
+   "p": 2,
+   "a": [],
+   "b": [
+    [
+     "SWA",
+     1
+    ]
+   ]
+  },
+  {
+   "year": 1997,
+   "p": 2,
+   "a": [],
+   "b": []
+  },
+  {
+   "year": 1998,
+   "p": 3,
+   "a": [],
+   "b": [
+    [
+     "WHU",
+     10
+    ]
+   ],
+   "note": "LAMPARD'S FIRST 10-GOAL SEASON"
+  },
+  {
+   "year": 1999,
+   "p": 2,
+   "a": [],
+   "b": [
+    [
+     "WHU",
+     6
+    ]
+   ]
+  },
+  {
+   "year": 2000,
+   "p": 2,
+   "a": [
+    [
+     "LIV",
+     1
+    ]
+   ],
+   "b": [
+    [
+     "WHU",
+     14
+    ]
+   ]
+  },
+  {
+   "year": 2001,
+   "p": 3,
+   "a": [
+    [
+     "LIV",
+     10
+    ]
+   ],
+   "b": [
+    [
+     "WHU",
+     9
+    ]
+   ],
+   "note": "GERRARD HITS 10 AT 20"
+  },
+  {
+   "year": 2002,
+   "p": 2,
+   "a": [
+    [
+     "LIV",
+     4
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     7
+    ]
+   ]
+  },
+  {
+   "year": 2003,
+   "p": 2,
+   "a": [
+    [
+     "LIV",
+     7
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     8
+    ]
+   ]
+  },
+  {
+   "year": 2004,
+   "p": 2,
+   "a": [
+    [
+     "LIV",
+     6
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     15
+    ]
+   ]
+  },
+  {
+   "year": 2005,
+   "p": 3,
+   "a": [
+    [
+     "LIV",
+     13
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     19
+    ]
+   ],
+   "note": "2005: GERRARD UCL, LAMPARD PL TITLE"
+  },
+  {
+   "year": 2006,
+   "p": 3,
+   "a": [
+    [
+     "LIV",
+     23
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     20
+    ]
+   ],
+   "note": "23 GOALS: GERRARD'S FA CUP YEAR"
+  },
+  {
+   "year": 2007,
+   "p": 2,
+   "a": [
+    [
+     "LIV",
+     11
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     21
+    ]
+   ]
+  },
+  {
+   "year": 2008,
+   "p": 2,
+   "a": [
+    [
+     "LIV",
+     21
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     20
+    ]
+   ]
+  },
+  {
+   "year": 2009,
+   "p": 3,
+   "a": [
+    [
+     "LIV",
+     24
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     20
+    ]
+   ],
+   "note": "GERRARD'S BEST: 24 GOALS"
+  },
+  {
+   "year": 2010,
+   "p": 4,
+   "a": [
+    [
+     "LIV",
+     12
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     27
+    ]
+   ],
+   "note": "LAMPARD'S BEST: 27 GOALS",
+   "big": true
+  },
+  {
+   "year": 2011,
+   "p": 2,
+   "a": [
+    [
+     "LIV",
+     8
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     13
+    ]
+   ]
+  },
+  {
+   "year": 2012,
+   "p": 2,
+   "a": [
+    [
+     "LIV",
+     9
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     16
+    ]
+   ]
+  },
+  {
+   "year": 2013,
+   "p": 2,
+   "a": [
+    [
+     "LIV",
+     10
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     17
+    ]
+   ]
+  },
+  {
+   "year": 2014,
+   "p": 2,
+   "a": [
+    [
+     "LIV",
+     14
+    ]
+   ],
+   "b": [
+    [
+     "CHE",
+     8
+    ]
+   ]
+  },
+  {
+   "year": 2015,
+   "p": 3,
+   "a": [
+    [
+     "LIV",
+     13
+    ],
+    [
+     "LAG",
+     2
+    ]
+   ],
+   "b": [
+    [
+     "MCI",
+     8
+    ],
+    [
+     "NYC",
+     3
+    ]
+   ],
+   "note": "BOTH HEAD TO MLS"
+  },
+  {
+   "year": 2016,
+   "p": 4,
+   "a": [
+    [
+     "LAG",
+     3
+    ]
+   ],
+   "b": [
+    [
+     "NYC",
+     12
+    ]
+   ],
+   "note": "LAMPARD 274, GERRARD 191",
+   "big": true
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "LAMPARD AHEAD BY 83 GOALS",
+   "small": "274 TO 191 · BOTH MIDFIELDERS"
+  },
+  "two": {
+   "big": "WHO WAS THE BETTER PLAYER?",
+   "small": "COMMENT GERRARD OR LAMPARD",
+   "tiny": "Follow for the next duel"
+  },
+  "foot": "Source: Wikipedia and liverpoolfc.com, as of 26 November 2026. First-team club goals, all competitions. A season counts in the year it ends."
+ },
+ "music": {
+  "file": "assets/music/sonican-epic-orchestral-music-dramatic-loop-467131.mp3",
+  "credit": "",
+  "pulse": 1.11732,
+  "phase": 0.035,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 16
+ },
+ "caption": "Gerrard vs Lampard: every club goal, year by year ⚽ The goals say Lampard. Who was the better player? 👇\n#gerrard #lampard #liverpool #chelsea #premierleague"
+}
