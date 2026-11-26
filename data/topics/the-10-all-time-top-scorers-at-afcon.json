@@ -1,0 +1,131 @@
+{
+ "format": "top",
+ "lang": "en",
+ "title": "The 10 all-time top scorers at AFCON",
+ "unit": "GOALS",
+ "club": {
+  "name": "AFCON",
+  "pattern": "band",
+  "colors": [
+   "#0a6b3a",
+   "#f2c200",
+   "#ffffff"
+  ]
+ },
+ "hook": {
+  "small": "THE 10 GREATEST SCORERS",
+  "big": "IN AFCON HISTORY",
+  "question": "WHO'S NO. 1?"
+ },
+ "items": [
+  {
+   "rank": 10,
+   "name": "MULAMBA",
+   "full": "Ndaye Mulamba",
+   "value": 10,
+   "years": "1974–1976",
+   "country": "Zaire",
+   "note": "LEVEL WITH 5 OTHERS ON 10"
+  },
+  {
+   "rank": 9,
+   "name": "MANÉ",
+   "full": "Sadio Mané",
+   "value": 11,
+   "years": "2015–2025",
+   "country": "Senegal"
+  },
+  {
+   "rank": 8,
+   "name": "SALAH",
+   "full": "Mohamed Salah",
+   "value": 11,
+   "years": "2017–2025",
+   "country": "Egypt",
+   "note": "4 GOALS AT AFCON 2025"
+  },
+  {
+   "rank": 7,
+   "name": "DROGBA",
+   "full": "Didier Drogba",
+   "value": 11,
+   "years": "2006–2013",
+   "country": "Ivory Coast"
+  },
+  {
+   "rank": 6,
+   "name": "HOSSAM HASSAN",
+   "full": "Hossam Hassan",
+   "value": 11,
+   "years": "1986–2006",
+   "country": "Egypt",
+   "note": "7 TOURNAMENTS PLAYED"
+  },
+  {
+   "rank": 5,
+   "name": "MBOMA",
+   "full": "Patrick Mboma",
+   "value": 11,
+   "years": "1998–2004",
+   "country": "Cameroon"
+  },
+  {
+   "rank": 4,
+   "name": "EL-SHAZLY",
+   "full": "Hassan El-Shazly",
+   "value": 12,
+   "years": "1963–1974",
+   "country": "Egypt",
+   "note": "12 GOALS IN 8 GAMES"
+  },
+  {
+   "rank": 3,
+   "name": "YEKINI",
+   "full": "Rashidi Yekini",
+   "value": 13,
+   "years": "1988–1994",
+   "country": "Nigeria"
+  },
+  {
+   "rank": 2,
+   "name": "POKOU",
+   "full": "Laurent Pokou",
+   "value": 14,
+   "years": "1968–1980",
+   "country": "Ivory Coast",
+   "note": "14 GOALS IN 12 GAMES"
+  },
+  {
+   "rank": 1,
+   "name": "ETO'O",
+   "full": "Samuel Eto'o",
+   "value": 18,
+   "years": "2000–2010",
+   "country": "Cameroon",
+   "note": "THE ALL-TIME RECORD"
+  }
+ ],
+ "end": {
+  "one": {
+   "big": "ETO'O: 18 GOALS",
+   "small": "AFCON'S ALL-TIME TOP SCORER"
+  },
+  "two": {
+   "big": "WHO'S MISSING FROM THIS TOP 10?",
+   "small": "COMMENT THEIR NAME",
+   "tiny": "Follow for the next top 10"
+  },
+  "foot": "Source: Wikipedia, AFCON finals only, as of 26 November 2026."
+ },
+ "music": {
+  "file": "assets/music/the_mountain-epic-508009.mp3",
+  "credit": "",
+  "pulse": 1.17647,
+  "phase": 0.455,
+  "hook_pulses": 3,
+  "end_pulses": 6,
+  "end_beats": 10,
+  "entry_pulse_index": 15
+ },
+ "caption": "The 10 greatest scorers in AFCON history ⚽ Eto'o, Pokou, Yekini, Salah, Mané… who will break 18? 👇\n#afcon #africa #football #soccer #etoo"
+}
