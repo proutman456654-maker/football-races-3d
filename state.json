@@ -297,6 +297,22 @@
       "title": "Marble Cup (27 Nov): 16 nations, one winner",
       "when": "2026-11-27T01:53",
       "slot": "2026-11-27T02:00"
+    },
+    {
+      "id": "6b09478af3a21ce77a26bdce",
+      "lang": "en",
+      "topic": "manchester-city-vs-manchester-united-every-manchester-derby-decade-by-",
+      "title": "Manchester City vs Manchester United: every Manchester derby, decade by decade",
+      "when": "2026-11-27T21:19",
+      "slot": "2026-11-27T21:00"
+    },
+    {
+      "id": "6b094d934f08e3fe85bfe89f",
+      "lang": "en",
+      "topic": "marble-tournament-the-16-biggest-asian-clubs",
+      "title": "Marble tournament: the 16 biggest Asian clubs",
+      "when": "2026-11-28T02:10",
+      "slot": "2026-11-28T02:00"
     }
   ],
   "en": [
@@ -337,6 +353,8 @@
     "marble-tournament-16-bundesliga-clubs-this-season",
     "messi-vs-ronaldo-champions-league-goals-year-by-year",
     "fallback:the-10-all-time-top-scorers-at-afcon",
-    "fallback:thanksgiving-marble-tournament-16-nations-of-the-americas"
+    "fallback:thanksgiving-marble-tournament-16-nations-of-the-americas",
+    "manchester-city-vs-manchester-united-every-manchester-derby-decade-by-",
+    "marble-tournament-the-16-biggest-asian-clubs"
   ]
 }
