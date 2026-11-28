@@ -313,6 +313,22 @@
       "title": "Marble tournament: the 16 biggest Asian clubs",
       "when": "2026-11-28T02:10",
       "slot": "2026-11-28T02:00"
+    },
+    {
+      "id": "6b0a96d76b7997d56b179051",
+      "lang": "en",
+      "topic": "fallback:flamengo-s-10-all-time-top-scorers",
+      "title": "Marble Cup (28 Nov): 16 nations, one winner",
+      "when": "2026-11-28T21:00",
+      "slot": "2026-11-28T21:00"
+    },
+    {
+      "id": "6b0a9e8faa27efed32f6215e",
+      "lang": "en",
+      "topic": "france-vs-italy-every-match-decade-by-decade",
+      "title": "France vs Italy: every match, decade by decade",
+      "when": "2026-11-29T02:32",
+      "slot": "2026-11-29T02:00"
     }
   ],
   "en": [
@@ -355,6 +371,8 @@
     "fallback:the-10-all-time-top-scorers-at-afcon",
     "fallback:thanksgiving-marble-tournament-16-nations-of-the-americas",
     "manchester-city-vs-manchester-united-every-manchester-derby-decade-by-",
-    "marble-tournament-the-16-biggest-asian-clubs"
+    "marble-tournament-the-16-biggest-asian-clubs",
+    "fallback:flamengo-s-10-all-time-top-scorers",
+    "france-vs-italy-every-match-decade-by-decade"
   ]
 }
